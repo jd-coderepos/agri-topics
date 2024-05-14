@@ -1,0 +1,20 @@
+Paper Title: THE PRODUCTIVITY OF SOFT WHEAT AND SOME OF ITS TECHNOLOGICAL INDICATORS AND CORRELATIONS AMONG THEM AT DIFFERENT IRRIGATION RATES
+Paper Abstract: Wheat is the most important strategic crops in Syria because it supports the national economy and provides a loaf of bread. The evaluation of wheat validity or its suitability for the bread production as well as the quality of the resulted bread, depends on its flour characterizations and character of formed dough as well as on quality of the resulted bread. Three water treatments were applied as follows: 500, 400, 300 ml on seven varieties and five promising lines of bread wheat selected at ICARDA. After the harvest and getting the productivity, the protein and Farinograph test were assessed. Response of varieties and lines differed, depending on the water treatments. Also in the same water treatment the productivity varied among them clearly, but not associated with any of the studied technological indicators. A correlation relation between the percentage of protein and the irrigation rate, as well as between the Farinograph development time (FDT) and Farinograph Mixing Tolerance (FMT), was observed. Quality of the dough varied according to studied plant material and also by applied water treatment. Plant material studied was divided into four groups: two groups of them characterized weak dough to medium strength which were suitable for the Arabic bread, and other two characterized by strong dough to very strong which, were more suitable for French bread.
+
+OA_Topic: Significance of Phytic Acid in Nutrition and Agriculture
+OG_Topic: Wheat Genotypes Water Stress Adaptation 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: OG
+
+comment_OA: wrong
+
+comment_OG: precise
+
+Justification:
+
+The OA topic "Significance of Phytic Acid in Nutrition and Agriculture" is wrong because the paper does not focus on phytic acid. Instead, it investigates the productivity and technological indicators of soft wheat under different irrigation rates.
+
+The OG topic "Wheat Genotypes Water Stress Adaptation" is precise because it directly addresses the main focus of the paper, which is on evaluating different wheat varieties and lines under varying irrigation conditions to understand their water stress adaptation. Therefore, the OG topic more accurately reflects the content of the paper.

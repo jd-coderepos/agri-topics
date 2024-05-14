@@ -1,0 +1,22 @@
+Paper Title: Assessment of Groundnut under Combined Heat and Drought Stress
+Paper Abstract: In semi?arid regions, particularly in the Sahel, water and high?temperature stress are serious constraints for groundnut production. Understanding of combined effects of heat and drought on physiological traits, yield and its attributes is of special significance for improving groundnut productivity. Two hundred and sixty?eight groundnut genotypes were evaluated in four trials under both intermittent drought and fully irrigated conditions, two of the trial being exposed to moderate temperature, while the two other trials were exposed to high temperature. The objectives were to analyse the component of the genetic variance and their interactions with water treatment, year and environment (temperature) for agronomic characteristics, to select genotypes with high pod yield under hot? and moderate?temperature conditions, or both, and to identify traits conferring heat and/or drought tolerance. Strong effects of water treatment (Trt), genotype (G) and genotype?by?treatment (GxTrt) interaction were observed for pod yield (Py), haulm yield (Hy) and harvest index (HI). The pod yield decrease caused by drought stress was 72 % at high temperature and 55 % at moderate temperature. Pod yield under well?watered (WW) conditions did not decrease under high?temperature conditions. Haulm yield decrease caused by water stress (WS) was 34 % at high temperature and 42 % under moderate temperature. Haulm yield tended to increase under high temperature, especially in one season. A significant year effect and genotype?by?environment interaction (GxE) effect were also observed for the three traits under WW and WS treatments. The GGE biplots confirmed these large interactions and indicated that high yielding genotypes under moderate temperature were different to those at high temperature. However, several genotypes with relatively high yield across years and temperature environments could be identified under both WW and WS conditions. Correlation analysis between pod weight and traits measured during plant growth showed that the partition rate, that is, the proportion of dry matter partitioned into pods, was contributing in heat and drought tolerance and could be a reliable selection criterion for groundnut breeding programme. Groundnut sensitivity to high?temperature stress was in part related to the sensitivity of reproduction.
+
+OA_Topic: Genomics and Breeding of Peanut
+OG_Topic: Groundnut Stress Tolerance 
+
+Evaluation output: 
+match_with_OA: yes
+which_is_better: both
+comment_OA: complementary
+comment_OG: complementary
+Justification:
+
+OA Topic: Genomics and Breeding of Peanut
+
+    Comment: The OA topic is complementary as it covers the genetics and breeding of peanuts, which includes examining traits such as stress tolerance under different environmental conditions. This aligns well with the study's focus on evaluating groundnut genotypes for heat and drought tolerance.
+
+OG Topic: Groundnut Stress Tolerance
+
+    Comment: The OG topic is complementary and precise as it directly focuses on the stress tolerance of groundnuts under combined heat and drought conditions, which is the main focus of the paper. This topic accurately captures the essence of the research and the specific traits being evaluated.
+
+Overall Justification: Both topics are complementary and accurately reflect different relevant aspects of the study's focus. The OA topic emphasizes the broader genomics and breeding aspects, while the OG topic specifically addresses stress tolerance in groundnuts, making either topic suitable for the paper.

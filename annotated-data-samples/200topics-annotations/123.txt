@@ -1,0 +1,20 @@
+Paper Title: The economic impact of climate change on Kenyan crop agriculture: A Ricardian approach
+Paper Abstract: This paper measures the economic impact of climate on crops in Kenya. We use cross-sectional data on climate, hydrological, soil and household level data for a sample of 816 households. We estimate a seasonal Ricardian model to assess the impact of climate on net crop revenue per acre. The results show that climate affects crop productivity. There is a non-linear relationship between temperature and revenue on one hand and between precipitation and revenue on the other. Estimated marginal impacts suggest that global warming is harmful for crop productivity. Predictions from global circulation models confirm that global warming will have a substantial impact on net crop revenue in Kenya. The results also show that the temperature component of global warming is much more important than precipitation. Findings call for monitoring of climate change and dissemination of information to farmers to encourage adaptations to climate change. Improved management and conservation of available water resources, water harvesting and recycling of wastewater could generate water for irrigation purposes especially in the arid and semi-arid areas.
+
+OA_Topic: Risk Management and Vulnerability in Agriculture
+OG_Topic: "Climate Change Adaptation in Agriculture 
+
+Evaluation output: 
+match_with_OA: yes
+
+which_is_better: OG
+
+comment_OA: complementary
+
+comment_OG: precise
+
+Justification:
+
+The OA topic "Risk Management and Vulnerability in Agriculture" is complementary because the paper addresses the economic impact of climate change on crop agriculture in Kenya, assessing the risks and vulnerabilities faced by farmers and proposing adaptation strategies.
+
+The OG topic "Climate Change Adaptation in Agriculture" is precise because it directly addresses the main focus of the paper, which is the impact of climate change on crop productivity and the necessary adaptations to mitigate these effects. Both topics capture relevant aspects of the study, but the OG topic more accurately reflects the specific content and focus of the paper.

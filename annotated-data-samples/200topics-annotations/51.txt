@@ -1,0 +1,20 @@
+Paper Title: From learning to fragile governance: Regional economic development in rural Peru
+Paper Abstract: This article analyzes the potential of learning processes to promote governance and economic development in rural areas. It examines how three types of learning in the Lurn River Basin in Peru -technical expertise, storytelling, and experiential knowledge Ð combine to empower rural communities to act collectively. Based on an analysis of three community-led economic development processes -irrigation improvements, tourism and food processing -we show that learning can result in new, albeit fragile, forms of governance and social capital. Fragile governance can turn into regional economic development when learning results in the development of a regional narrative and coordination occurs across both vertical and horizontal network dimensions.
+
+OA_Topic: Rural Development and Change in Agricultural Landscapes
+OG_Topic: Participatory Agricultural Water Management 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: OA
+
+comment_OA: precise
+
+comment_OG: specific
+
+Justification:
+
+The OA topic "Rural Development and Change in Agricultural Landscapes" is precise because the paper discusses how learning processes promote governance and economic development in rural Peru, focusing on broader aspects of rural development and change in agricultural landscapes.
+
+The OG topic "Participatory Agricultural Water Management" is specific but not as comprehensive. While the paper does touch upon irrigation improvements as one aspect, its main focus is on the broader potential of learning processes, governance, and economic development in rural areas. Therefore, the OA topic more accurately reflects the overall content and scope of the paper.

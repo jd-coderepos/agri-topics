@@ -1,0 +1,20 @@
+Paper Title: Transcripts and MicroRNAs Responding to Salt Stress in Musa acuminata Colla (AAA Group) cv. Berangan Roots
+Paper Abstract: Physiological responses to stress are controlled by expression of a large number of genes, many of which are regulated by microRNAs. Since most banana cultivars are salt-sensitive, improved understanding of genetic regulation of salt induced stress responses in banana can support future crop management and improvement in the face of increasing soil salinity related to irrigation and climate change. In this study we focused on determining miRNA and their targets that respond to NaCl exposure and used transcriptome sequencing of RNA and small RNA from control and NaCl-treated banana roots to assemble a cultivar-specific reference transcriptome and identify orthologous and Musa-specific miRNA responding to salinity. We observed that, banana roots responded to salinity stress with changes in expression for a large number of genes (9.5% of 31,390 expressed unigenes) and reduction in levels of many miRNA, including several novel miRNA and banana-specific miRNA-target pairs. Banana roots expressed a unique set of orthologous and Musa-specific miRNAs of which 59 respond to salt stress in a dose-dependent manner. Gene expression patterns of miRNA compared with those of their predicted mRNA targets indicated that a majority of the differentially expressed miRNAs were down-regulated in response to increased salinity, allowing increased expression of targets involved in diverse biological processes including stress signaling, stress defence, transport, cellular homeostasis, metabolism and other stress-related functions. This study may contribute to the understanding of gene regulation and abiotic stress response of roots and the high-throughput sequencing data sets generated may serve as important resources related to salt tolerance traits for functional genomic studies and genetic improvement in banana.
+
+OA_Topic: Molecular Mechanisms of Plant Development and Regulation
+OG_Topic: Gene Expression & Stress Tolerance 
+
+Evaluation output: 
+match_with_OA: yes
+
+which_is_better: OG
+
+comment_OA: complementary
+
+comment_OG: precise
+
+Justification:
+
+The OA topic "Molecular Mechanisms of Plant Development and Regulation" is complementary because the study involves understanding the molecular mechanisms, including gene regulation and miRNA interactions, that govern the response of banana roots to salt stress.
+
+The OG topic "Gene Expression & Stress Tolerance" is precise because it directly addresses the core focus of the paper, which is the identification of gene expression patterns and microRNA responses in banana roots under salt stress, relating to stress tolerance. Both topics capture relevant aspects of the study, with the OG topic being slightly more specific and accurately reflecting the paper's focus.

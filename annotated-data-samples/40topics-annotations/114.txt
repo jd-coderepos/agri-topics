@@ -1,0 +1,20 @@
+Paper Title: Soil Management Practices to Mitigate Nitrous Oxide Emissions and Inform Emission Factors in Arid Irrigated Specialty Crop Systems
+Paper Abstract: Greenhouse gas (GHG) emissions from arid irrigated agricultural soil in California have been predicted to represent 8% of the states total GHG emissions. Although specialty crops compose the majority of the states crops in both economic value and land area, the portion of GHG emissions contributed by them is still highly uncertain. Current and emerging soil management practices affect the mitigation of those emissions. Herein, we review the scientific literature on the impact of soil management practices in California specialty crop systems on GHG nitrous oxide emissions. As such studies from most major specialty crop systems in California are limited, we focus on two annual and two perennial crops with the most data from the state: tomato, lettuce, wine grapes and almond. Nitrous oxide emission factors were developed and compared to Intergovernmental Panel on Climate Change (IPCC) emission factors, and state-wide emissions for these four crops were calculated for specific soil management practices. Dependent on crop systems and specific management practices, the emission factors developed in this study were either higher, lower or comparable to IPCC emission factors. Uncertainties caused by low gas sampling frequency in these studies were identified and discussed. These uncertainties can be remediated by robust and standardized estimates of nitrous oxide emissions from changes in soil management practices in California specialty crop systems. Promising practices to reduce nitrous oxide emissions and meet crop production goals, pertinent gaps in knowledge on this topic and limitations of this approach are discussed.
+
+OA_Topic: Soil Carbon Dynamics and Nutrient Cycling in Ecosystems
+OG_Topic: N2O Emissions from Agriculture 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: OG
+
+comment_OA: wrong
+
+comment_OG: precise
+
+Justification:
+
+The OA topic "Soil Carbon Dynamics and Nutrient Cycling in Ecosystems" is wrong because the paper does not primarily focus on soil carbon dynamics or nutrient cycling. Instead, it reviews the impact of soil management practices on nitrous oxide (N2O) emissions in arid irrigated specialty crop systems in California.
+
+The OG topic "N2O Emissions from Agriculture" is precise because it directly addresses the main focus of the paper, which is the evaluation and mitigation of nitrous oxide emissions from agricultural soil in specialty crop systems. Therefore, the OG topic more accurately reflects the content of the paper.

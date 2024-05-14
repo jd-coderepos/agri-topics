@@ -1,0 +1,11 @@
+Paper Title: The Office du Niger: an Agropole project for food security in Mali?
+Paper Abstract: In many African countries, food security is now more valued by agricultural policies than ever before. Since WAEMU (West African Economic and Monetary Union) regards the irrigated area of the Niger Office in Mali as the rice bowl of West Africa, this agricultural area has thus become at the heart of regional economy and politics. In this context, agricultural development programs are multiplying, leading to the new green revolution supported by international organizations, donors and a number of foundations. These development projects are usually managed by foreign private investors and benefit from large-scale land allocation. This model of agricultural and commercial development has been criticized as a form of land and water grabbing. It raises questions with regards to its role in securing the populations food supply and the future of small family farms. The role of small farming in food security was recently reaffirmed during the International Year of Family Farming (2014).
+
+OA_Topic: Agroecology and Global Food Systems
+OG_Topic: Global Food Security Challenges 
+
+Evaluation output: 
+match_with_OA: no
+which_is_better: OA
+comment_OA: 
+comment_OG: wrong

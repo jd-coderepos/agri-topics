@@ -1,0 +1,11 @@
+Paper Title: Impact of reuse of the purified wastewater on some properties of soil. Case study of Ain Defla station (Northwestern Algeria)
+Paper Abstract: Purified wastewater (PWW) is a major source of water and nutrients for many farmers in arid and semi-arid climates. The aim objective of this study is to follow the change of soil characteristics i.e permeability porosity, total calcium, electrical conductivity (extract diluted) and pH before and after an irrigation event. Two plots were selected near wastewater treatment plant of Ain Defla, the first one irrigated by fresh well water and the second one by PWW. Geostatistical analysis and soil mapping of the two plots showed that the risk of soil salinity is present with a rate of increase may be up to 0.5 ds / m after each watering. The spatiotemporal variability of soil Stalinization and total calcium levels can lead to a possible accumulation of persistent contaminants in the soil after prolonged irrigation (over 10 years) in this region.
+
+OA_Topic: Evolution of Water Technologies in Ancient Civilizations
+OG_Topic: "Wastewater Treatment and Reuse 
+
+Evaluation output: 
+match_with_OA: no
+which_is_better: ctfidf
+comment_OA: wrong
+comment_OG: precise

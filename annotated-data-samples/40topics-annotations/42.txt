@@ -1,0 +1,21 @@
+Paper Title: THE PLAN OF ACTION OF THE AGRICULTURE AND IRRIGATION SECTOR AGAINST CLIMATE CHANGE: AN OPPORTUNITY TO ARTICULATE EFFORTS
+Paper Abstract: The participation of the Peruvian greenhouse gasses emissions in the agriculture sector in the total emissions grew from 13% in 2005 to 15% in 2010 and 2012 (MINAM, 2016). However, do the global increase in Peruvian GHG emissions and the raising participation of the agriculture and livestock sector from 2005 to 2012 result from a lack of action around climate change? There are more than 25 strategies, plans and programs that exhibit actions about mitigation, adaptation and disasters risk management on the agriculture and irrigation sector. This investigation aims to demonstrate that these policies were made with a soft integration among them. For these matters, a density, weight and intermediation analysis through Gephis software, which constructs nets based on the proposed measures on all those documents for adaptation, mitigation and disasters risk management, will be made. Preliminary results show that the most articulated document for adaptation is the National Strategy against Climate Change, for mitigation the iNDC, the coffees and oil palms NAMAs and the Plan of Action for Adaptation and Mitigation against Climate Change, for disasters risk management the Budget Program 068, and in general the Ministry of Agricultures Multiannual Sectorial Strategic Plan. Keywords: Agriculture, irrigation, climate change, articulation, mitigation, adaptation, disasters risk management
+
+OA_Topic: Food and Agriculture in Latin America
+OG_Topic: Global Agricultural Climate Adaptation 
+
+Evaluation output: 
+match_with_OA: no
+which_is_better: OG
+comment_OA: complementary
+comment_OG: precise
+
+### Justification:
+
+**OA Topic: Food and Agriculture in Latin America**
+- **Comment:** The OA topic is broadly related and therefore complementary, as it encompasses aspects of agriculture within the Latin American context. The paper deals with climate change mitigation, adaptation policies, and disaster risk management in Peru's agriculture and irrigation sectors, fitting within the broader scope of food and agriculture in Latin America.
+
+**OG Topic: Global Agricultural Climate Adaptation**
+- **Comment:** The OG topic is precise and accurately reflects the paper's focus. The study examines the integration of various policies related to climate change mitigation, adaptation, and disaster risk management in the context of agriculture and irrigation, which aligns well with the theme of global agricultural climate adaptation.
+
+**Overall Justification:** While the OA topic is complementary and provides a broad context, the OG topic is more precise and closely aligns with the specific focus of the study on climate adaptation in agriculture and irrigation sectors.

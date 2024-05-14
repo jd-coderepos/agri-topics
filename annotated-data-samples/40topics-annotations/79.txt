@@ -1,0 +1,22 @@
+Paper Title: EFFECT OF SPRINKLER IRRIGATION AND COOLING ON YIELD AND QUALITY OF SNAP BEANS
+Paper Abstract: High temperatures and dry soil conditions that frequently occur in southern Alberta during July and August may cause objectionably high fiber content of snap beans (Phaseolus vulgaris L.). During the period 196871, the response of bean yield and quality to cooling by low-volume sprinkler irrigation during hot weather at the time of pod development was studied. Low-volume sprinkling for cooling prevented undesirable fiber formation and alleviated, to some extent, soil moisture stress. Where soil moisture was returned to field capacity by irrigation at 7- to 10-day intervals, yield and quality also remained high without low-volume sprinkler cooling. Thus, under Alberta conditions, excess fiber formation appears to be closely related to the amount of available soil moisture and can be avoided by proper irrigation with conventional methods.
+
+OA_Topic: Plant Pathology and Resistance to Fungal Diseases
+OG_Topic: Common Bean Water Efficiency 
+
+Evaluation output: 
+match_with_OA: no
+which_is_better: neither
+comment_OA: wrong
+comment_OG: wrong
+Justification:
+
+OA Topic: Plant Pathology and Resistance to Fungal Diseases
+
+    Comment: The OA topic is wrong because it focuses on plant pathology and fungal disease resistance, which is unrelated to the paper’s focus on the effects of sprinkler irrigation and cooling on snap bean yield and quality.
+
+OG Topic: Common Bean Water Efficiency
+
+    Comment: The OG topic is wrong because it focuses broadly on water efficiency in beans, whereas the paper specifically examines the effects of cooling and irrigation practices on snap bean yield and quality in response to high temperatures.
+
+Overall Justification: Neither topic accurately captures the specific focus of the paper, which is on the use of sprinkler irrigation and cooling to manage yield and quality in snap beans under high-temperature conditions. Both assigned topics are unrelated to the core research discussed in the paper.

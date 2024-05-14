@@ -1,0 +1,19 @@
+Paper Title: Evaluation of Mach 2 and Merit Against First Generation Black Turfgrass Ataenius Larvae, 1997
+Paper Abstract: This trial was conducted at Campbells Scottish Highlands Golf Club, Salem, NH. Five replications of 8 treatments were applied to a bluegrass fairway on 21 May one week past peak adult emergence. Each plot was 49 ft2; the plots were arranged in an RCB form. The liquid formulations were applied with a 2-wheel bicycle-type sprayer equipped with 4 spray heads; each head was fitted with an 8004 flattened fan-type nozzle with a 50-mesh strainer. All granulars were evenly applied with a large-holed commercial salt shaker. The volume of water and insecticide mix per plot was 2 gal/1000 ft2, applied by CO2 pressure at 40 psi. Natural rainfall irrigated the plots (0.1 inch). Weather conditions were as follows: air temp, 55°F; sky, partly cloudy; wind, 10 mph. Soil conditions were as follows: temp (1-inch), 55CF; texture, loam; sand, 66%; silt, 26%; clay, 8%; moisture, 20.95%; organic matter, 5.3%; pH, 7.2. On 22 Jul, a 2-ft2 section of each plot was rated for live larvae.
+
+OA_Topic: Ecology and Management of Stink Bugs
+OG_Topic: Turfgrass Insecticide Trials 
+
+Evaluation output: 
+match_with_OA: no
+which_is_better: OG
+comment_OA: wrong
+comment_OG: precise
+
+### Justification:
+
+**OA Topic: Ecology and Management of Stink Bugs**
+- **Comment:** The OA topic is incorrect because the paper does not discuss stink bugs. It focuses on evaluating insecticides against Black Turfgrass Ataenius larvae in a golf course setting, which is specifically about turfgrass insect pest management.
+
+**OG Topic: Turfgrass Insecticide Trials**
+- **Comment:** The OG topic is precise and accurately captures the essence of the paper. The study's primary focus is on evaluating the effectiveness of insecticides ('Mach 2' and 'Merit') against larvae in turfgrass, making this topic highly relevant and specific to the paper's content.

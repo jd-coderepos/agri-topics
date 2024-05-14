@@ -1,0 +1,18 @@
+Paper Title: Seasonal Prevalence of Species of Binucleate <i>Rhizoctonia</i> Fungi in Growing Medium, Leaf Litter, and Stems of Container-Grown Azalea
+Paper Abstract: Rhizoctonia web blight is an annual problem on container-grown azalea (Rhododendron spp.) in the southern and eastern United States but little is documented about the distribution or persistence of Rhizoctonia spp. in container-grown azalea. Sixty web-blight-damaged azalea plants (Gumpo White) were collected in August 2005 and 2006 and arranged in a completely randomized design on an outdoor irrigation pad. A nylon mesh bag containing 30 necrotic leaves collected from web-blight-damaged Gumpo White azalea plants were placed on the surface of the medium under the plant canopy in each container to simulate leaf litter. Ten plants were destructively sampled into eight zones by dividing stems into three zones (lengths of 0 to 2, 4 to 6, and 9 to 15 cm above the medium surface), bagged leaves into one leaf litter zone, and the medium into four zones (three horizontal layers: 1 to 3, 3 to 7, and 7 to 10 cm below the medium surface, with the middle layer further divided by removing the central 7.5-cm-diameter core) in December, February, and May. Only the three stem zones were sampled from 10 plants in early and late June and late July. Of 8,940 total isolations, 3,655 fungi with morphological characteristics of a Rhizoctonia sp. were recovered. Percent recovery differed from the eight zones (P 0.0001) but did not differ between years (P = 0.3950) and sampling times (P = 0.1896). Frequency of recovery of Rhizoctonia spp. was highest from the lower stem and the leaf litter, and decreased with distance from the leaf litter. Recovery from stems over the six sample times was analyzed separately. Percent recovery differed between stem zones (P 0.0001), sample times (P = 0.0478), and experiment years (P 0.0001). In both years, mean recovery of Rhizoctonia spp. was higher from the lower stem and decreased with distance to the upper stem layer. From a subsample of 145 isolates, 95.1% were identified as binucleate Rhizoctonia (BNR) anastomosis groups (AGs)-A, -G, -K, -R, -S, and -U (-P), and 2.8 and 2.1% were Rhizoctonia solani AG-2 and an uncultured Laetisaria sp., respectively. Based on frequency analysis, recovery of BNR AGs differed by plant zone (P 0.0001) but not over sample times (P = 0.4831). The six AGs of BNR are the predominant Rhizoctonia fungi occupying the habitat niches in container-grown azalea, with little change in population frequency and composition from fall to summer; thus, BNR pathogenic and nonpathogenic to azalea have established a mixed Rhizoctonia community on container-grown azalea.
+
+OA_Topic: Genetics and Epidemiology of Plant Pathogens
+OG_Topic: Plant Diseases and Pathogens 
+
+Evaluation output: 
+match_with_OA: yes
+
+which_is_better: n/a
+
+comment_OA: complementary
+
+comment_OG: complementary
+
+Justification:
+
+Both OA and OG topics are closely matched with the content of the paper. The OA topic, "Genetics and Epidemiology of Plant Pathogens," is relevant because the study deals with the distribution and persistence of Rhizoctonia spp. in container-grown azalea, which involves understanding the epidemiology of the pathogen. The OG topic, "Plant Diseases and Pathogens," is also applicable as it covers the broader aspect of plant diseases, which includes Rhizoctonia web blight. Hence, both topics are complementary and well-suited for the research study.

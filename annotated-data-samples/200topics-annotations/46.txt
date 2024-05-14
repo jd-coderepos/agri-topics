@@ -1,0 +1,20 @@
+Paper Title: 260 Effect of Dam Nutrition on Offspring Reproductive Performance
+Paper Abstract: Domestic ruminants utilize extensive pasture and rangelands as a primary source of nutrition. These forage sources vary greatly in nutritional content and availability due to season, plant species and climatic factors. Therefore, ruminants are exposed to nutrient excesses and deficiencies at varying points during the reproductive cycle. The objectives of this presentation are 1) to review our understanding of the impact of nutritional changes experienced by the dam during gestation on subsequent reproductive performance of female offspring, 2) examine the timing and duration of nutrient restriction on indicators of fertility in domestic ruminants and 3) compare responses under production conditions to mechanisms determined in controlled experiments. Depending on the time and severity of the nutrient deprivation, physiological effects include reduced gonadal weight, reduction in 2¡ and 3¡ follicles, alterations in the hypothalamic-pituitary axis, fetal weight and attainment of puberty. Anti-Mllerian hormone (AMH) and antral follicle count (AFC) are indicators of fertility in ruminants. Severe nutrient deprivation of heifers during the first trimester of gestation reduced AMH and AFC in female offspring. In contrast, a more moderate nutritional challenge to mature cows during early gestation did not result in changes in AMH and AFC in female offspring. Heifers from dams that grazed protein deficient range during the third trimester had delayed puberty onset and reduced pregnancy rates compared to heifers from supplemented dams. Recently, we compared indictors of fertility in heifers from dams that grazed range or irrigated pastures during the first two trimesters. Based on preliminary data, cows that grazed range were nutritionally challenged; however, heifers from range dams did not appear to differ in indicators of fertility from heifers from dams grazing irrigated pastures. Continued investigations on impacts of maternal nutrition on reproduction in offspring under production conditions are warranted.
+
+OA_Topic: Reproductive Health in Dairy Cattle
+OG_Topic: Forage Quality and Dairy Grazing 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: neither
+
+comment_OA: wrong
+
+comment_OG: wrong
+
+Justification:
+
+The OA topic "Reproductive Health in Dairy Cattle" is wrong because the paper focuses on the impact of dam nutrition on the reproductive performance of offspring in domestic ruminants generally, and not specifically in dairy cattle.
+
+The OG topic "Forage Quality and Dairy Grazing" is also wrong because the paper does not focus on forage quality or dairy grazing. Instead, it examines the effects of dam nutrition during gestation on the reproductive performance of their offspring. Therefore, neither topic accurately reflects the content of the paper.

@@ -1,0 +1,23 @@
+Paper Title: Fire blight resistance, irrigation and conducive wet weather improve Erwinia amylovora winter survival in cankers
+Paper Abstract: Erwinia amylovora causes fire blight, a disease responsible for enormous economic losses in the pome fruit-producing areas where it is present. Despite the abundant research on fire blight, information about E. amylovora population dynamics and survival in fire blight cankers and the plant defense responses to this pathogen in the infected bark are limited. In our study, we obtained fire blight cankers in apple, pear, and Asian pear cultivars showing differing resistance to the disease by shoot inoculation with E. We collected cankers from irrigated and non-irrigated trees every 3 months in two independent field experiments and analyzed samples by viability digital PCR. We also assessed the expression of pathogenicity-related ( PR ) genes in the bark of selected apple and Asian pear cultivars. A logistic regression analysis revealed the impact of environmental and host factors on E. amylovora detection rates in cankers. The chances of detecting live E. amylovora cells in cankers increased significantly in those collected from irrigated trees, in July, and/or during an experiment performed in a year with an expected average rainfall when compared to samples from non-irrigated trees, collected in January, and/or during an experiment performed under environmental conditions dominated by drought. We found a positive correlation between the pathogen detection rates in cankers and the host resistance to fire blight that might be explained by lower E. amylovora survival rates in more damaged tissues of susceptible hosts. The genes PR-1, PR-2, PR-5, and PR-8 were induced in the bark surrounding apple and Asian pear fire blight cankers. Our study, involving the analysis of more than 800 canker samples, provides new knowledge about the fire blight disease cycle and lays the foundation for improved fire blight management and eradication strategies in pome fruit orchards.
+
+OA_Topic: Genomics and Pathogenicity of Plant Pathogenic Bacteria
+OG_Topic: Plant Disease and Fungicide Response 
+
+Evaluation output: 
+match_with_OA: no
+which_is_better: OG
+comment_OA: wrong
+comment_OG: precise
+
+Justification:
+
+OA Topic: Genomics and Pathogenicity of Plant Pathogenic Bacteria
+
+    Comment: The OA topic is wrong because it emphasizes the genomics and pathogenicity of plant pathogenic bacteria in an overly broad sense, without focusing specifically on the environmental and management factors influencing the survival of E. amylovora in cankers, which is the main subject of the paper.
+
+OG Topic: Plant Disease and Fungicide Response
+
+    Comment: The OG topic is precise because it directly pertains to the study of plant diseases, particularly fire blight caused by E. amylovora, and the response of the disease to various factors including irrigation and weather conditions. This topic accurately captures the essential elements of the research.
+
+Overall Justification: The OG topic better matches the content of the paper, which focuses on the survival and management of a specific plant disease (fire blight) under varying environmental conditions, making it a more suitable choice compared to the broader OA topic.

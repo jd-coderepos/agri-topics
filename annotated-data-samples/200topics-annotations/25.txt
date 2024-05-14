@@ -1,0 +1,20 @@
+Paper Title: Corn Cob-Derived Biochar Improves the Growth of Saline-Irrigated Quinoa in Different Orders of Egyptian Soils
+Paper Abstract: Biochar is one of the important recycling methods in sustainable development, as it ensures the transformation of agricultural wastes into fertilizers and conditioners that improve soil properties and fertility. In the current study, corn cob-derived biochar (CB) was used to reduce the negative effects of saline water on quinoa (Chenopodium quinoa cv. Utosaya Q37) grown on Aridisols and Entisols, which are the major soil groups of Egyptian soils. Quinoa plants were cultivated in pot experiment and were irrigated with saline water (EC = 10 dS m?1). The experiment contained three treatments, including control without any treatment, biochar at a rate of 1% (w/w) (BC1), and biochar at a rate of 3% (w/w) (BC3). The findings of the current study showed that BC treatments realized significant effects on soil salinity, pH, soil organic matter (SOM), and plant availability and nutrientsÕ uptake in the two soils types. BC3 increased the SOM in Entisols and Aridisols by 23 and 44%; moreover, the dry biomass of quinoa plants was ameliorated by 81 and 41%, respectively, compared with the control. Addition of biochar to soil increased the nutrientsÕ use efficiencies by quinoa plants for the two studied Egyptian soils. Biochar addition caused significant increases in the use efficiency of nitrogen (NUF), phosphorus (PUE), and potassium (KUE) by quinoa plants. BC3 increased NUE, PUE, and KUS by 81, 81, and 80% for Entisols, while these increases were 40, 41, and 42% in the case of Aridisols. Based on the obtained results, the application of corn cob biochar improves the soil quality and alleviates the negative effects of saline irrigation on quinoa plants grown on Aridisols and Entisols Egyptian soils. Biochar can be used as a soil amendment in arid and semi-arid regions to reduce the salinity hazards.
+
+OA_Topic: Nutritional and Functional Potential of Ancient Grains
+OG_Topic: "Biochar Soil Amendments 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: OG
+
+comment_OA: wrong
+
+comment_OG: precise
+
+Justification:
+
+The OA topic "Nutritional and Functional Potential of Ancient Grains" is wrong because the paper does not focus on the nutritional and functional potential of quinoa as an ancient grain. Instead, it discusses the use of biochar to improve the growth of quinoa under saline irrigation conditions.
+
+The OG topic "Biochar Soil Amendments" is precise because it directly addresses the main focus of the paper, which is the impact of corn cob-derived biochar on soil properties and quinoa growth under saline irrigation. Therefore, the OG topic more accurately reflects the content of the paper.

@@ -1,0 +1,21 @@
+Paper Title: FACTORS AFFECTINGSMALLHOLDER FARMERS PARTICIPATION AND LEVEL OF PARTICIPATION IN SMALL SCALE IRRIGATION: THE CASE OF DEDER DISTRICT OF EASTERN HARARGHE ZONE, ETHIOPIA
+Paper Abstract: 09Mar 2020 FACTORS AFFECTINGSMALLHOLDER FARMERS PARTICIPATION AND LEVEL OF PARTICIPATION IN SMALL SCALE IRRIGATION: THE CASE OF DEDER DISTRICT OF EASTERN HARARGHE ZONE, ETHIOPIA Bedasso Urgessa , Fekadu Beyene and Chaneyalew Seyoum Fedis Agricultural Research Center, Oromia Agricultural Research Institute. Department of Rural Development and Agricultural Extension, Haramaya University.
+
+OA_Topic: Sustainable Management of Rangelands and Livestock
+OG_Topic: Small Scale Irrigation Development 
+
+Evaluation output: 
+match_with_OA: no
+which_is_better: OG
+comment_OA: wrong
+comment_OG: precise
+
+### Justification:
+
+**OA Topic: Sustainable Management of Rangelands and Livestock**
+- **Comment:** The OA topic is incorrect because the paper does not focus on rangelands or livestock management. Instead, it examines the factors affecting smallholder farmers' participation in small-scale irrigation in a specific district in Ethiopia.
+
+**OG Topic: Small Scale Irrigation Development**
+- **Comment:** The OG topic is precise and accurately reflects the focus of the paper. The study is centered on small-scale irrigation development and the factors influencing the participation levels of smallholder farmers in the Deder district of Eastern Hararghe Zone, Ethiopia.
+
+**Overall Justification:** The OG topic closely aligns with the specific focus and content of the paper, making it the better choice. The OA topic does not accurately represent the subject matter discussed in the study.

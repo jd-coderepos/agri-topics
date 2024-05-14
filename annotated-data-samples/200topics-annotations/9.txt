@@ -1,0 +1,20 @@
+Paper Title: The Office du Niger: an Agropole project for food security in Mali?
+Paper Abstract: In many African countries, food security is now more valued by agricultural policies than ever before. Since WAEMU (West African Economic and Monetary Union) regards the irrigated area of the Niger Office in Mali as the Òrice bowlÓ of West Africa, this agricultural area has thus become at the heart of regional economy and politics. In this context, agricultural development programs are multiplying, leading to the Ònew green revolutionÓ supported by international organizations, donors and a number of foundations. These development projects are usually managed by foreign private investors and benefit from large-scale land allocation. This model of agricultural and commercial development has been criticized as a form of land and water grabbing. It raises questions with regards to its role in securing the populationÕs food supply and the future of small family farms. The role of small farming in food security was recently reaffirmed during the ÒInternational Year of Family FarmingÓ (2014).
+
+OA_Topic: Agroecology and Global Food Systems
+OG_Topic: "Indian Agriculture and Economy 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: OA
+
+comment_OA: precise
+
+comment_OG: wrong
+
+Justification:
+
+The OA topic "Agroecology and Global Food Systems" is precise because the paper discusses the role of agricultural development projects in the Niger Office of Mali, focusing on their impact on food security, smallholder farms, and the broader agricultural ecosystem, which aligns well with the theme of agroecology and global food systems.
+
+The OG topic "Indian Agriculture and Economy" is wrong because the paper does not deal with Indian agriculture or its economy. It specifically focuses on the agricultural development and food security situation in Mali. Therefore, the OA topic more accurately reflects the content of the paper.

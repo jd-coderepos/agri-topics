@@ -1,0 +1,21 @@
+Paper Title: THE IMPACT OF INNOVATIVE TECHNOLOGICAL PRACTICES ON PRODUCTIVITY AND QUALITY OF POTATOES IN IRRIGATED AGROCENOSES OF VOLGA REGION
+Paper Abstract: Purpose: to study the efficiency of innovative agrotechnological practice application on the productivity and quality of potatoes in irrigated agrocenoses of Volga region. Materials and methods. Field experiments to assess the efficiency of the innovative agrotechnical practices application in potato cultivation were carried out in the experimental production farm of Volga Research Institute of Hydraulic Engineering and Land Reclamation on dark chestnut medium loamy soils; in CJSC TH Gulliver of Kislovsky district Volgograd region; in Peasant Farm Enterprise Leonov A. in Kharabalinsky district Astrakhan region on experimental plots of 30 hectares. Variants of experiments included the microfertilizer application and decapitation in the flowering phase. The control crops were the production crops without innovative methods. Assessment of feasibility of innovative agrotechnological practices application in potato cultivation on irrigated lands showed that their use had a positive impact on productivity and quality of the products obtained. The most profitable in the experiment should be considered the production of varieties with the highest yields and starch content in tubers  varieties Memphis with an yield of 61 t/ha and Flamingo with a starch content of 17 % in Saratov region, varieties Koroleva Anna 54 t/ha and Colombo 20 % in Volgograd region and varieties Evolution, where the yield was 61 t/ha and Riviera with a starch content of 24 % in Astrakhan region. Conclusions. The results of studying the features of formation and productivity of potato agrophytocenosis confirmed the high efficiency of using innovative cultivation methods to improve the quality indicators of yield during irrigation in Volga region.
+
+OA_Topic: Challenges and Prospects in Russian Agriculture
+OG_Topic: Potato Irrigation & Management 
+
+Evaluation output: 
+match_with_OA: no
+which_is_better: OG
+comment_OA: complementary
+comment_OG: precise
+
+### Justification:
+
+**OA Topic: Challenges and Prospects in Russian Agriculture**
+- **Comment:** The OA topic is broadly related and thus complementary, as it encompasses aspects of agriculture in Russia, which includes the study of innovative agrotechnological practices in potato cultivation. However, it does not specifically focus on the detailed aspects of potato irrigation and management addressed in the paper.
+
+**OG Topic: Potato Irrigation & Management**
+- **Comment:** The OG topic is precise and accurately reflects the content of the paper. The study investigates the impact of innovative technological practices on the productivity and quality of potatoes in irrigated fields in the Volga region. It focuses specifically on irrigation and other management practices aimed at improving yield and quality.
+
+**Overall Justification:** While the OA topic is broadly connected to the study and therefore complementary, the OG topic is more precise and better captures the specific focus of the research on potato irrigation and management in the context of innovative agrotechnical practices.

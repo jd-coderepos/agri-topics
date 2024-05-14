@@ -1,0 +1,22 @@
+Paper Title: Screening Wheat Genotypes for Coleoptile Length: A Trait for Drought Tolerance
+Paper Abstract: The study was conducted during Rabi season of 2013-14 at the Wheat Research Centre (WRC), Bangladesh Agricultural Research Institute (BARI), Dinajpur.Thirty wheat genotypes including local control BARI Gom 26 were evaluated in split-split plot design having two replications with irrigation in the main plot, seeding depth in a sub-plot and genotype was in sub-sub-plot.The main objective of this study was to evaluate new exotic lines against drought, with emphasis on coleoptile length under Bangladeshi conditions, and to identify drought tolerant germplasm.To measure potential coleoptile length (CL), disease free, healthy, uniform seeds were sown in wooden trays with sandy soil in a temperature controlled room at 200 degree days (20 o c X 10 days).The genotypes were evaluated for yield, and yield components i.e., plant establishment, plant height (cm), spikes per m 2 , grains per Spike, 1000-grain weight (g) and visual grain quality.Selection of genotypes was based on Schneider's stress severity index (SSSI), yield under drought condition and coleoptiles length.Deep seeding over normal seeding had a significant effect on yield and the yield components, as did water stress.The interaction of the two factors showed that seeding depth causes more yield loss than irrigation.More traits showed significant relationships in deep seeding conditions than normal conditions, meaning that there is greater scope for screening wheat using sowing depth.Based on higher negative value of SSSI and higher yield in deep sowing conditions the genotypes G 16, G 13, G 12, G 24, G 2, G 18, G 19 and G 3 were primarily selected for drought tolerance and will be evaluated further for advanced studies.These genotypes also have longer coleoptiles ranging from 7.4 to 10.5 cm.
+
+OA_Topic: Cultivar Evaluation and Mega-Environment Investigation
+OG_Topic: Wheat Drought and Heat Tolerance 
+
+Evaluation output: 
+match_with_OA: no
+which_is_better: OG
+comment_OA: complementary
+comment_OG: precise
+Justification:
+
+OA Topic: Cultivar Evaluation and Mega-Environment Investigation
+
+    Comment: The OA topic is complementary because it relates to the evaluation of cultivars, which is a part of the study. However, it does not specifically focus on drought tolerance or the trait of coleoptile length in wheat, which are the main elements of the paper.
+
+OG Topic: Wheat Drought and Heat Tolerance
+
+    Comment: The OG topic is precise as it directly aligns with the study’s focus on screening wheat genotypes for drought tolerance with an emphasis on coleoptile length. This topic accurately captures the core objectives and findings of the paper.
+
+Overall Justification: The OG topic provides a more specific match to the paper’s content, which concentrates on wheat drought tolerance and the trait of coleoptile length, making it a better choice compared to the broader OA topic on cultivar evaluation.

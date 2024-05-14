@@ -1,0 +1,18 @@
+Paper Title: Impact of Climate Change on Crop Production and Potential Adaptive Measures in the Olifants Catchment, South Africa
+Paper Abstract: Climate change is expected to substantially reduce future crop yields in South Africa, thus affecting food security and livelihood. Adaptation strategies need to be implemented to mitigate the effect of climate change-induced yield losses. In this paper, we used the WEAP-MABIA model, driven by six CORDEX climate change data for representative concentration pathways (RCPs) 4.5 and 8.5, to quantify the effect of climate change on several key crops, namely maize, soya beans, dry beans, and sunflower, in the Olifants catchment. The study further investigated climate change adaptation such as the effects of changing planting dates with the application of full irrigation, rainwater harvesting, deficit irrigation method, and the application of efficient irrigation devices on reducing the impact of climate change on crop production. The results show that average monthly temperature is expected to increase by 1 ¡C to 5 ¡C while a reduction in precipitation ranging between 2.5% to 58.7% is projected for both RCP 4.5 and RCP 8.5 relative to the baseline climate for 1976Ð2005, respectively. The results also reveal that increased temperature and decreased precipitation during planting seasons are expected to increase crop water requirements. A steady decline in crop yield ranging between 19Ð65%, 11Ð38%, 16Ð42%, and 5Ð30% for maize, soya beans, dry beans, and sunflower, respectively, is also projected under both RCPs climate change scenarios. The study concludes that adaptation measures such as the integration of changing planting dates with full irrigation application and the use of rainwater harvest will help improve current and future crop production under the impact of climate change.
+
+OA_Topic: Adaptation to Climate Change in Agriculture
+OG_Topic: Climate Change Adaptation in Agriculture 
+
+Evaluation output: 
+match_with_OA: yes
+
+which_is_better: n/a
+
+comment_OA: complementary
+
+comment_OG: complementary
+
+Justification:
+
+Both the OA topic "Adaptation to Climate Change in Agriculture" and the OG topic "Climate Change Adaptation in Agriculture" are complementary and accurately reflect the content of the paper. The study focuses on the impact of climate change on crop production in South Africa and investigates various adaptive measures, such as irrigation techniques and changing planting dates, to mitigate these impacts. Both topics encapsulate the essence of the research, making them equally applicable.

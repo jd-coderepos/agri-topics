@@ -1,0 +1,18 @@
+Paper Title: TANK REHABILITATION THROUGH SOCIAL CAPITAL PAPER
+Paper Abstract: There have been a great number of efforts made in various countries to introduce farmer organization, commonly called as water user associations (WUAs) to achieve greater farmer participation in irrigation management. Interestingly there are incidences of farmer participation introduced even in a larger irrigation scheme where definite net benefits could be seen very shortly after the introduction and many more comments on positive effects on participation than negative ones recorded. (Norman Uphoff, 1986) The present research emerged with the research question: What are the important recipes for successful farmer organization particularly in divergent social conditions to achieve common goals? And How does social capital helps nurture and mobilise men and materials for tank rehabilitation? In a cluster of non system tanks, two tanks namely Kedar from Villupuram district and Kattiampandal from Kanchipuram district, Tamil Nadu, India, were selected as it showed complexities in building social capital among the stakeholders during tank rehabilitation. The objective of this study is to explore reasons for the complexities in the process of building and sustaining social capital for tank rehabilitation. Employing the method called content analysis, the variety of social capital built in the two districts were studied and concluded that it was attributable to the social, economic and political factors such as collective consciousness, caste, financial capital, and leadership responsibilities.
+
+OA_Topic: Ecological Mechanisms of Rice-Fish Farming Systems
+OG_Topic: Farmer Participation and Irrigation Challenges 
+
+Evaluation output: 
+match_with_OA: no
+which_is_better: OG
+comment_OA: wrong
+comment_OG: precise
+
+Justification
+**OA Topic: Ecological Mechanisms of Rice-Fish Farming Systems**
+- **Comment:** The OA topic is incorrect because the paper does not discuss rice-fish farming systems or their ecological mechanisms. Instead, it focuses on social aspects of irrigation management and tank rehabilitation, which are entirely unrelated to the assigned OA topic.
+
+**OG Topic: Farmer Participation and Irrigation Challenges**
+- **Comment:** The OG topic is precise and accurately captures the essence of the paper. The paper specifically addresses farmer participation in irrigation management and the challenges related to building social capital for tank rehabilitation. The topic is well-aligned with the paper’s focus on social capital, farmer organization, and irrigation management.

@@ -1,0 +1,20 @@
+Paper Title: Apple, Second Generation White Apple Leafhopper Aerial Appucation Evaluation, 1986
+Paper Abstract: Ground airblast and helicopter applications of Seven XLR at 2.0 lb Al/acre were compared for eEFectiveness against WALH nymphs and adults. This test was conducted in an orchard containing 7-year-old trees with under-tree irrigation. Treatments were applied to unreplicated 1.0 acre plots on 27 Aug. The ground application was made with a Parker airblast sprayer delivering 400 gal/acre at a ground speed of 2 mph. The helicopter application was made at a speed of 35 mph, approximately 10 ft over the canopy, delivering 7 gal/acre. On the date of application, approximately 13.0% of the WALH population were adults. Adults were sampled with 12.5 x 17.8 cm sticky boards made from bright yellow poster board coated on both sides with Stickem Special Pest Glue, suspended from limbs with a wire hanger. Six traps were evenly spaced in each plot and left in place for a 24 h period to obtain adult counts. Nymphs were counted on 20 randomly selected leafhopper-injured leaves on terminal growth from 6 trees in each plot (120 leaves per treatment). Half of these leaves were chosen from outer canopy of the tree, the other half from lower central growth.
+
+OA_Topic: Plant Pathogens and Insect Vectors
+OG_Topic: Orchard Pest Control Studies 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: OG
+
+comment_OA: wrong
+
+comment_OG: precise
+
+Justification:
+
+The OA topic "Plant Pathogens and Insect Vectors" is wrong because the paper does not focus on plant pathogens or the role of insects as disease vectors. Instead, it evaluates the effectiveness of different aerial application methods for controlling white apple leafhopper (WALH) in an apple orchard.
+
+The OG topic "Orchard Pest Control Studies" is precise because it directly addresses the main focus of the paper, which is an evaluation of pest control methods in an orchard setting. Therefore, the OG topic more accurately reflects the content of the paper.

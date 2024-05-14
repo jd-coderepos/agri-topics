@@ -1,0 +1,22 @@
+Paper Title: Analysis of minerals under different water stress levels in Andrographis paniculata (Burm.f.) Wall. Ex Nees
+Paper Abstract: Medicinal plants have diverse use in the society from medicine to cosmetics to herbal foods with vast potential for their curative medicinal properties. Minerals are essential nutrient for plant metabolism and over all growth of the plants. The overall growth of the plant depends upon the availability of the water. The aim of this study was to determine the mineral content under different water stress levels in Andrographis paniculata. The homogenized leaf samples of controlled plants(Daily watered), treated T2 plants(watering 2nd day), T4 plants(watering on every 4th day), T7 plants(watering on every 7th day) were subjected to overnight HN03 digestion and analyzed for the presence of Copper, Chromium, Iron, Aluminum, Zinc, Manganese and Phosphorous. With increase in water stress, element content deceased with varied fractions. The T2 treated plants, irrigated every second day, could withstand the water stress conditions without affecting minimum mineral content in Andrographis paniculata plants and T2 treatment has been chosen the best option to withstand water stress conditions. Keywords: Andrographis paniculata, water stress, minerals.
+
+OA_Topic: Biofortification of Staple Crops for Human Nutrition
+OG_Topic: Essential Oil Agronomy Research 
+
+Evaluation output: 
+match_with_OA: no
+which_is_better: neither
+comment_OA: wrong
+comment_OG: wrong
+Justification:
+
+OA Topic: Biofortification of Staple Crops for Human Nutrition
+
+    Comment: The OA topic is wrong because it focuses on the biofortification of staple crops for human nutrition, which is not related to the study's focus on mineral content in Andrographis paniculata under different water stress levels.
+
+OG Topic: Essential Oil Agronomy Research
+
+    Comment: The OG topic is wrong because it focuses on essential oil agronomy, which does not align with the paper’s investigation into the mineral content of Andrographis paniculata under varying water stress conditions.
+
+Overall Justification: Neither topic adequately captures the specific essence of the paper, which revolves around the analysis of mineral content in Andrographis paniculata plants subjected to different watering regimes to assess their ability to withstand water stress. Both topics are unrelated to the primary focus of the study.

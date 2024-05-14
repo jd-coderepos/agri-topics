@@ -1,0 +1,11 @@
+Paper Title: Maize (Zea mays L.) yield response to the effect of blended fertilizer and varieties under supplemental irrigation at Hadero Zuria Kebele, southern Ethiopia
+Paper Abstract: Maize is one of the staple cereal crops in Ethiopia. However, in southern Ethiopia, the productivity of the crop is very low as compared to the average national productivity, which is mainly attributed to poor soil fertility and the use of low yielding varieties. Hence, a field experiment was conducted at Hadero Zuria kebele, southern Ethiopia under supplemental irrigation to investigate the effects of different rates of blended Nitrogen, Phosphorus, Sulphur, and Boron (NPSB) fertilizer on the performance of maize varieties. Treatments involving three varieties of maize (30G19, BH-546, and BH-547) and six rates of NPSB fertilizer (0, 50, 75, 100, 125, and 150) kg ha?1 were tested in RCBD using a factorial arrangement with three replications. Data on crop Phenological, growth, yield, and yield components were collected. The results showed that the blended NPSB fertilizer rates and varieties of maize affected days to physiological maturity, leaf area, leaf area index, hundred kernels weight (HKW), dry biomass yield (DBY), and grain yield (GY). The highest mean values for HKW, DBY, and GY were obtained from the 150 kg ha?1 NPSB rate. Similarly, the highest values for DBY and GY were obtained from the BH-546 variety. Significant differences (P 0.05) were obtained on days to tasseling, days to silking, and harvest index (HI) due to the interaction effect of NPSB rates and varieties. As the NPSB rates increased from 0 to 150 kg ha?1, HKW and DBY increased consistently from 29.62 to 36.62 g and 31.41 to 43.70 t ha?,1 respectively. Grain yield showed a highly significant and positive correlation with cob length, leaf number, HI, HKW, and DBY. Also, maximized economic profitability was gained at a rate of 150 kg ha?1 NPSB fertilizer. Thus, from this result, the NPSB rate of 150 kg ha?1 with the hybrid maize variety BH-546 could be better for the study area.
+
+OA_Topic: Factors Affecting Maize Yield and Lodging Resistance
+OG_Topic: Hybrid Maize Nitrogen Management 
+
+Evaluation output: 
+match_with_OA: yes
+which_is_better: OA
+comment_OA: 
+comment_OG: 

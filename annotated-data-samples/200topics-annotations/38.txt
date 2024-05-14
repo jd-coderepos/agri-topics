@@ -1,0 +1,20 @@
+Paper Title: Testing of bio-organic fertilizer based on organic waste to improve the productivity of vineyards
+Paper Abstract: The authors developed an environmentally safe technology for obtaining liquid organic fertilizer. The technology includes obtaining compost by applying microflora containing actinomycetes and microscopic fungi, populating the compost with vermiculture Eisenia foetida and obtaining biohumus. In 2018-2020 fertilizers obtained from organic waste were used on industrial plantings of technical variety Bastardo Magarachsky (planting scheme: 3 ? 1.5 m, formation - double-shouldered cordon, rootstock - Kober 5 BB, non-irrigated culture) as foliar dressing. Climatic zone and place of experiment: South Coast agroclimatic area, sub-area - with subtropical winter (annual rainfall - 450-500 mm; hydrothermal coefficient of moisture - 0.5-0.6). Standard methods of agronomic observations of growth and development of grape plants were used in the work. Consumption rate 2 l/100 liters of water. The number of treatments - six, the terms of application: shoots growth; before flowering; after flowering; berry growth; beginning of softening; beginning of sugar accumulation (a month before harvesting). It was found that at the background of the same potential productivity of grape plants compared to the control, the yield increased by 15,9%; mass fraction of sugars in berry juice - by 7,1%, mash output - by 14,7%; technological stock of coloring and phenolic substances - by 7,6%.
+
+OA_Topic: Agricultural Science and Technology
+OG_Topic: Sustainable Composting in Agriculture 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: OG
+
+comment_OA: complementary
+
+comment_OG: precise
+
+Justification:
+
+The OA topic "Agricultural Science and Technology" is complementary because the study involves the development and application of a bio-organic fertilizer, which falls under agricultural science and technology. However, it is not as focused on the specific aspect of sustainable composting.
+
+The OG topic "Sustainable Composting in Agriculture" is precise because it directly addresses the main focus of the paper, which is the use of compost-based bio-organic fertilizer to improve vineyard productivity. Therefore, the OG topic more accurately reflects the content and specific focus of the paper.

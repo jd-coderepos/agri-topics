@@ -1,0 +1,20 @@
+Paper Title: Tertiary Treatment of Secondary Effluents from the East WWTP of Tizi-Ouzou (Algeria) with the Aqueous Extract of Ceratonia Siliqua Green Pod
+Paper Abstract: The antibacterial action of the carob tree offers the possibility of using it for the disinfection of treated wastewater in biological process wastewater treatment plants. This paper reviews studies conducted to investigate the effect of carob tree on the reduction of indicator bacteria of fecal contamination that cannot be removed after the secondary stage of biological treatment. The aim is to use the wastewater safely in irrigation and expand the list of irrigable plants with this unexploited resource. Physico-chemical and bacteriological parameters were used to determine the optimal conditions and evaluate the treatmentÕs efficiency. A contact time of 1 h and a dose of 1 mL of disinfectant reduced E. coli and fecal coliforms from 5.105 CFU to 1 237 CFU (99.75%) and from 7.106 CFU to 1 505 CFU (99.98%), respectively. For the same contact time, the fecal streptococci were reduced from 4.105 CFU to 59 CFU (99.99%). According to WHO standards, this dose and contact time are sufficient to use this water for irrigation. A minimum contact time of 2 h with a dose of 1 mL of the aqueous extract of the green pod of the carob is required to obtain a reduction of E. coli and fecal coliforms from 5.105 CFU to 5 254 CFU (99.95%) and from 7.106 CFU to 340 CFU (99. 99%) to meet the Algerian standards of reuse of treated wastewater being more stringent. The results show that the same conditions reduce fecal streptococci from 4.105 CFU to 5 CFU (99.99%). This elimination level shows that green carob juice can be used for disinfection with the necessary doses for each bacterial load and sufficient contact time.
+
+OA_Topic: Hydrocolloids in Food and Biomedical Applications
+OG_Topic: Wastewater Irrigation Effects 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: OG
+
+comment_OA: wrong
+
+comment_OG: precise
+
+Justification:
+
+The OA topic "Hydrocolloids in Food and Biomedical Applications" is wrong because the paper does not discuss hydrocolloids or their applications in food and biomedical fields. Instead, it focuses on the use of carob tree extract for the disinfection of secondary effluents for irrigation purposes.
+
+The OG topic "Wastewater Irrigation Effects" is precise because it directly addresses the main focus of the paper, which is the treatment of secondary effluents with carob tree extract to make the water safe for irrigation. Therefore, the OG topic more accurately reflects the content and intent of the paper.

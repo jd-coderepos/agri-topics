@@ -1,0 +1,20 @@
+Paper Title: Contribution of Awns to Seed Yield and Seed Shattering in Siberian Wildrye Grown under Irrigated and Rainfed Environments
+Paper Abstract: The seed yield of grass species is greatly dependent on inflorescence morphological traits, starting with spikelets per inflorescence and seeds per spikelet, to kernel size, and then to awns. Previous studies have attempted to estimate the contribution of these traits on the harvested yield of major cereal crops, but little information can be accessed on the influence of awns on seed yield of forage grass species. Siberian wildrye (Elymus sibiricus L.) is a widely important perennial forage grass used to increase forage production in arid and semi-arid grasslands. The grass has long inflorescences with long awns developed at the tip end of the lemmas in the florets. In order to evaluate the effect of awns on Siberian wildrye seed production, awn excision analyses from 10 accessions were performed at flowering stage under irrigated and rainfed regimes. Overall, awn excision reduced thousand-seed weight and seed size under both irrigated and rainfed regimes, which decreased final seed yield per plant. De-awned plants produced significantly more seeds per inflorescence, but spikelets per inflorescence was not influenced by awn excision in either condition. Moreover, histological analyses showed a high degradation of the abscission layer in the awned plants than de-awned ones, and awn excision evidently improved average seed breaking tensile strength (BTS), and thus decreased the degree of seed shattering. In conclusion, the observed significant impact of awn excision on different yield-related traits mirrored the impact of awns on the performance of Siberian wildrye under diverse growing conditions. These results provide useful information for plant breeders, seed producers, and researchers to efficiently improve seed production in Siberian wildrye.
+
+OA_Topic: Development and Impacts of Bioenergy Crops
+OG_Topic: Forage Quality and Dairy Grazing 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: neither
+
+comment_OA: wrong
+
+comment_OG: wrong
+
+Justification:
+
+The OA topic "Development and Impacts of Bioenergy Crops" is wrong because the paper does not focus on bioenergy crops. Instead, it investigates the impact of awns on seed yield and seed shattering in Siberian wildrye, a forage grass species.
+
+The OG topic "Forage Quality and Dairy Grazing" is also wrong because the paper does not specifically address forage quality or dairy grazing. It focuses on the morphological traits affecting seed yield and seed shattering in Siberian wildrye. Therefore, neither topic accurately reflects the content of the paper.

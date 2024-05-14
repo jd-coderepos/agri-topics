@@ -1,0 +1,18 @@
+Paper Title: Quantitative and Qualitative Traits of Sunflower Genotypes as Influenced by Nitrogen Application through Fertigation
+Paper Abstract: P akistan is facing acute shortage of edible oil.The demand for edible oil in Pakistan is increasing with the uncontrollable increase in population.Its indigenous production is below the consumption levels with a very wide gap between production and consumption.This gap is bridged through import of edible oil worth more than Rs.45.0 billion annually.Pakistan ranks 3 rd largest edible oil importing country in the world (GoP, 2020).The country's oil requirement was about 2.966 million tons in which 0.83 million tons (28%) were locally produced and the rest edible oil was imported.The edible oil requirements have increased from 0.3 million tons to 1.95 million tons.But the domestic production of edible oil has remained inadequate and fluctuating for the last couple of decades.These fluctuations are due to indigenous marketing, low support price and high cost of production which is making these crops non-profitable to Abstract | Fertigation is the application of dissolved fertilizer especially nitrogen through irrigation for correcting nutrient deficiencies of plants.A field study was conducted in Tandojam for two consecutive years in autumn 2018 and 2019.The experiment was replicated thrice in randomized complete block design.Different doses of nitrogen as broadcasting and fertigation (0, 75, 100, 125 kg N ha -1 in two and three equal splits given at sowing time, 1 st , 2 nd and 3 rd irrigations, respectively) were applied to two sunflower genotypes (HO-1 and Hysun-39).Data analysis revealed nitrogen fertigation, genotypes and their interaction substantially (P²0.05)affected growth and yield traits of sunflower.Greater seed yield (kg ha -1 ) and the oil content (%) were documented in N 10 = 125 kg N ha -1 : three splits (? broadcasting at sowing time + fertigation-? at 1 st and ? at 3 rd irrigation), followed by N 8 = 125 kg N ha -1 : two splits (? broadcasting at sowing time + ? as fertigation at 2 nd irrigation).In between genotypes, higher seed yield (kg ha -1 ) and oil content (%) were recorded in HO-1 as compared to Hysun-39.As regards interactions, enhanced seed yield (kg ha -1 ) and oil content (%) were registered in the interaction of N 10 = 125 kg N ha -1 : three splits (? broadcast at sowing time + fertigation-? at 1 st and ? at 3 rd irrigation) ? HO-1.It was concluded from the results that nitrogen dose should be divided into three splits and applied at sowing time through broadcasting and fertigated at 1 st and 2 nd irrigation, respectively.
+
+OA_Topic: Safflower and Sunflower Cultivation and Utilization
+OG_Topic: Sunflower and Safflower Cultivation 
+
+Evaluation output: 
+match_with_OA: yes
+
+which_is_better: n/a
+
+comment_OA: complementary
+
+comment_OG: complementary
+
+Justification:
+
+Both the OA topic "Safflower and Sunflower Cultivation and Utilization" and the OG topic "Sunflower and Safflower Cultivation" are complementary and accurately reflect the content of the paper. The study focuses on the effects of nitrogen application through fertigation on the growth, yield, and qualitative traits of sunflower genotypes, which aligns well with both topics involving sunflower and safflower cultivation. Both topics capture important aspects of the research and are equally applicable.

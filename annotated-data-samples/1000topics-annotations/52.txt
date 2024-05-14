@@ -1,0 +1,7 @@
+Paper Title: An automatic irrigation system for water optimization in the Algerian agricultural sector
+Paper Abstract: Algeria is a vast country with three climatic types and different water resources. These resources are limited especially in the climatic zone two where most staple crops (e.g. wheat) are cultivated. To manage these water resources efficiently, traditional irrigation systems should be replaced by those based on advanced technological techniques. This paper introduces an irrigation system prototype constructed at the department of Electrical Engineering, University of Setif in Algeria. This prototype allows the control of the amount of water dispensed to the plant according to its soil moisture. The circuit was built around an Arduino microcontroller. A program was developed and burned into the microcontroller which was able to sense the amount of the moisture in the plant soil through a moisture sensor. According to this moisture quantity, the microcontroller is to take decision to on or off a small pump for an optimum time and flow speed. The pump was driven by a direct current motor which was controlled by a pulse width modulation dc chopper. The system is enhanced by a liquid crystal display to inform the operator about the moisture percentage, status of the pump and its speed.
+
+OA_Topic: Precision Agriculture Technologies
+OG_Topic: Smart Agriculture IoT Systems 
+
+Evaluation output: 

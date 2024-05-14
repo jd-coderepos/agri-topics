@@ -1,0 +1,11 @@
+Paper Title: Necessity of Irrigated and Rainfed Agriculture in the World
+Paper Abstract: The results show that 54% of the world is suitable for rainfed agriculture whereas 80% of agricultural production is form rainfed areas. Therefore, increasing irrigated agriculture is necessary. But, why tendency to irrigation is low? In many areas of the world, water resources are limited and irrigation is not economical. In pressurized irrigation, although irrigation efficiency is high but amount of required water is lower than surface irrigation but cost of pressurized method is very high. Agricultural integration is an affordable approach. Moreover, increasing irrigation efficiency led to use of surface irrigation in small farms. However, selection of an appropriate method for irrigation is more important than other mentioned cases. In some conditions, deficit irrigation is sufficient to achieve to maximum of production. In other conditions, notifying to all effective factors (to choose irrigation system) include compatibility, economics, topographical characteristics, soils, water supply, crops, social influences, external influences and awareness of advantages and disadvantages of different irrigation systems (Table 1) led to maximizing efficiency and finally increasing tendency to irrigated agriculture.
+
+OA_Topic: Sustainable Agricultural Development and Resource Management
+OG_Topic: Global Irrigation Challenges and Innovations 
+
+Evaluation output: 
+match_with_OA: no
+which_is_better: ctfidf
+comment_OA: 
+comment_OG: precise

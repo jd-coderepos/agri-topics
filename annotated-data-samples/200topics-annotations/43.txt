@@ -1,0 +1,20 @@
+Paper Title: Potato productivity against different variants of mineral nutrition and density of planting on irrigated soils in the forest-steppe of the middle Volga region
+Paper Abstract: The article studies the reaction of new Bellarosa potato variety on the introduction of calculated doses of mineral fertilizers and the density of planting in the forest-steppe soil of the Middle Volga region. The research shows that increased nutrition appropriately raises the yield of Bellarosa potato variety. The introduction of calculated fertilizer doses aimed at obtaining 30 tons of potato per hectare has increased the yield by 8.17Ð10.96 t/hectare depending on the planting density. Over 4 years of research the highest yield of 31.18 t/hectare was obtained when the planting density was 66.6 thousand tubers per hectare. ItÕs worth noting that higher planting density increased the effectiveness of the fertilizer introduced in calculated doses for this level of yield. The increase in potato harvest, in this case, was 4.22 and 5.81 t/hectare. The following increase in planting density with further enhancement of nutrition didnÕt show such high effectiveness. For example, in the case of fertilizer dose calculated for the yield of 35 t/hectare the increase of density to 60.6 and 66.6 thousand tubers per hectare (in comparison with 55.5 thousand) gave the rise of 1.62 and 2.62 t/hectare in yield. Over 4 years of research the introduction of the fertilizer dose calculated for the yield of 40 t/hectare gave an additional 1.60 and 2.90 tons of potato per hectare.
+
+OA_Topic: Food Security and Nutrition Research
+OG_Topic: Potato Irrigation Efficiency 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: OG
+
+comment_OA: wrong
+
+comment_OG: precise
+
+Justification:
+
+The OA topic "Food Security and Nutrition Research" is wrong because the paper does not focus on broader aspects of food security or nutrition research. Instead, it specifically examines the productivity of the Bellarosa potato variety under different mineral nutrition levels and planting densities.
+
+The OG topic "Potato Irrigation Efficiency" is precise because it directly addresses the primary focus of the study, which is the effect of irrigation and various planting densities on the yield and productivity of potatoes in the Middle Volga region. Therefore, the OG topic more accurately reflects the content and specific focus of the paper.

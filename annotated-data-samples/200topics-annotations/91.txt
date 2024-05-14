@@ -1,0 +1,20 @@
+Paper Title: Analysis of minerals under different water stress levels in Andrographis paniculata (Burm.f.) Wall. Ex Nees
+Paper Abstract: Medicinal plants have diverse use in the society from medicine to cosmetics to herbal foods with vast potential for their curative medicinal properties. Minerals are essential nutrient for plant metabolism and over all growth of the plants. The overall growth of the plant depends upon the availability of the water. The aim of this study was to determine the mineral content under different water stress levels in Andrographis paniculata. The homogenized leaf samples of controlled plants(Daily watered), treated T2 plants(watering 2nd day), T4 plants(watering on every 4th day), T7 plants(watering on every 7th day) were subjected to overnight HN03 digestion and analyzed for the presence of Copper, Chromium, Iron, Aluminum, Zinc, Manganese and Phosphorous. With increase in water stress, element content deceased with varied fractions. The T2 treated plants, irrigated every second day, could withstand the water stress conditions without affecting minimum mineral content in Andrographis paniculata plants and T2 treatment has been chosen the best option to withstand water stress conditions. Keywords: Andrographis paniculata, water stress, minerals.
+
+OA_Topic: Biofortification of Staple Crops for Human Nutrition
+OG_Topic: Essential Oils in Medicinal Plants 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: neither
+
+comment_OA: wrong
+
+comment_OG: wrong
+
+Justification:
+
+The OA topic "Biofortification of Staple Crops for Human Nutrition" is wrong because the paper does not focus on biofortification of staple crops. Instead, it investigates the mineral content in Andrographis paniculata under different water stress conditions.
+
+The OG topic "Essential Oils in Medicinal Plants" is also wrong because the paper does not deal with essential oils. It focuses specifically on the mineral content of a medicinal plant (Andrographis paniculata) under water stress. Therefore, neither topic accurately reflects the content of the paper.

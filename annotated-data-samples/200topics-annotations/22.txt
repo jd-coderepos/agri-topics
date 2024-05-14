@@ -1,0 +1,20 @@
+Paper Title: Commercialisation of AR1 in Australia
+Paper Abstract: Perennial ryegrass containing a high level of standard (wild) endophyte is a significant component of the feed base for the grazing industries in the high rainfall and irrigated regions of Australia. The AR1 selected endophyte was first commercialised in Australia by Heritage Seeds in autumn 2002 into a market that had low awareness, and a limited understanding, of perennial ryegrass endophyte. The early uptake of AR1 was slow, mainly due to difficulties with delivering a very technical message with limited resources and justifying a significant price increase with no independent supporting data from Australia. Changing the marketing message to focus on the potential benefits from AR1, along with support from the developers of AR1 (AgResearch) and an overall increase in awareness of ryegrass endophyte, saw a dramatic increase in the uptake of AR1 varieties in 2005 and 2006. It is expected that this trend toward selected endophytes will continue into the future. Keywords: perennial ryegrass, endophyte, AR1, commercialisation
+
+OA_Topic: Evolution and Ecology of Endophyte-Grass Symbiosis
+OG_Topic: Forage Quality and Dairy Grazing 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: OA
+
+comment_OA: precise
+
+comment_OG: wrong
+
+Justification:
+
+The OA topic "Evolution and Ecology of Endophyte-Grass Symbiosis" is precise because the paper deals with the commercialisation of AR1 selected endophyte in perennial ryegrass, focusing on its adoption and benefits, which relate closely to the endophyte-grass symbiosis.
+
+The OG topic "Forage Quality and Dairy Grazing" is wrong because, although the paper discusses ryegrass, it does not primarily focus on forage quality or dairy grazing but rather on the commercial aspects and adoption of endophyte-enhanced ryegrass. Therefore, the OA topic more accurately reflects the content of the paper.

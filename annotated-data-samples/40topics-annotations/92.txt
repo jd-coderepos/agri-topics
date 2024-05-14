@@ -1,0 +1,22 @@
+Paper Title: Biostimulants Application Alleviates Water Stress Effects on Yield and Chemical Composition of Greenhouse Green Bean (Phaseolus vulgaris L.)
+Paper Abstract: The increasing scarcity of water demands proper water management practices to ensure crop sustainability. In this study, the effect of drought stress and biostimulants application on the yield and chemical composition of green pods and seeds of common bean (Phaseolus vulgaris L.) was evaluated. For this purpose, four commercially available biostimulant products, namely Nomoren (G), EKOprop (EK), Veramin Ca (V), and Twin-Antistress (TW), were tested under two irrigation regimes: normal irrigation (W+) and water-holding (W-) conditions. The highest increase (20.8%) of pods total yield was observed in EKW+ treatment due to the formation of more pods of bigger size compared to control treatment (CW+). In addition, the highest yield under drought stress conditions was recorded for the GW- treatment (5691 ± 139 kg/ha). Regarding the effects of biostimulants on the protein and ash content of pods, the application of VW+ treatment (first harvest of pods; 201 ± 1 and 79 ± 1 g/kg dw for proteins and ash content, respectively) and GW+ (second harvest of pods; 207.1 ± 0.1 and 68.4 ± 0.5 g/kg dw for proteins and ash content, respectively) showed the best results. For seeds, the application of GW+ treatment resulted in the highest content for fat, protein, and ash content (52.7 ± 0.1, 337 ± 1, 56 ± 1 g/kg dw) and energetic value (5474 ± 3 kcal/kg dw). ?-tocopherol was the main detected tocopherol in pods and seeds, and it was significantly increased by the application of TWW- (first harvest of pods; 6410 ± 40 ?g/kg dw), VW- (second harvest of pods; 3500 ± 20 ?g/kg dw), and VW+ (seeds; 39.8 ± 0.1 g/kg dw) treatments. EKW- treatment resulted in the lowest oxalic acid content for both pod harvests (26.3 ± 0.1 g/kg dw and 22.7 ± 0.2 g/kg dw for the first and second harvest of pods, respectively) when compared with the rest of the treatments where biostimulants were applied, although in all the cases, the oxalic acid content was considerably low. Fructose and sucrose were the main sugars detected in pods and seeds, respectively, while the highest content was recorded for the TWW- (first harvest of pods) and GW- (second harvest of pods and seeds) treatments. The main detected fatty acids in pods and seeds were ?-linolenic, linoleic, and palmitic acid, with a variable effect of the tested treatments being observed. In conclusion, the application of biostimulants could be considered as an eco-friendly and sustainable means to increase the pod yield and the quality of common bean green pods and seeds under normal irrigation conditions. Promising results were also recorded regarding the alleviation of negative effects of drought stress, especially for the application of arbuscular mycorrhizal fungi (AMF; G treatment), which increased the total yield of green pods. Moreover, the nutritional value and chemical composition of pods and seeds was positively affected by biostimulants application, although a product specific effect was recorded depending on the irrigation regime and harvesting time (pods and seeds).
+
+OA_Topic: Plant Biostimulants in Agriculture and Horticulture
+OG_Topic: Biostimulants in Drought-Stressed Crops 
+
+Evaluation output: 
+match_with_OA: yes
+which_is_better: both
+comment_OA: complementary
+comment_OG: complementary
+Justification:
+
+OA Topic: Plant Biostimulants in Agriculture and Horticulture
+
+    Comment: The OA topic is complementary as it covers the use of biostimulants in agriculture and horticulture, which aligns well with the study's focus on the application of biostimulants to alleviate water stress effects on greenhouse-grown green beans.
+
+OG Topic: Biostimulants in Drought-Stressed Crops
+
+    Comment: The OG topic is complementary and precise as it directly focuses on the role of biostimulants in mitigating drought stress in crops, which is the primary aim of the study. It accurately captures the key aspects of the research, dealing specifically with drought-stressed conditions and the use of biostimulants.
+
+Overall Justification: Both topics are complementary and accurately reflect different relevant aspects of the study's focus. The OA topic emphasizes the general use of biostimulants in agriculture, while the OG topic specifically addresses their role in drought-stressed crops, making either topic suitable for the paper.

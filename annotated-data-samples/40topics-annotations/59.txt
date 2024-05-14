@@ -1,0 +1,21 @@
+Paper Title: Furrow Treatments of Systemic Insecticides for Control of <u>M</u>. Persicae and <u>L</u>. <u>Decemlineata</u>, 1976
+Paper Abstract: Russet Burbank potatoes were planted in open furrows on April 16, 1976, in Ritzville silt loam soil at Yakima, Washington. After the granular formulated insecticides (listed in table) had been dribbled over the potato seed pieces with a hand-operated, funnel-type applicator, the seed pieces were covered with soil. The plots were 2 rows wide, 34 inches apart (86 cm) and 50 ft long (15.2 m). Each treatment was replicated 3 times in a randomized complete block design. The crop was sprinkler irrigated. Aphids on 20 compound potato leaves per plot were counted June 8 (only 1 aphid found), 17, July 7, and August 4, and Colorado potato beedle damage per plot was rated (from 1 to 10) on August 11, 19, 26, and September 2 (plants were too mature and too badly damaged latter 2 dates to provide meaningful data). The data were subjected to analysis of variance with Duncans Multiple Range Test. A similar experiment was made at Yakima airport in Ahtanum silt loam soil.
+
+OA_Topic: Genomic and Epidemiological Studies of Phytophthora Pathogens
+OG_Topic: Potato Beetle Control Studies 
+
+Evaluation output: 
+match_with_OA: no
+which_is_better: OG
+comment_OA: wrong
+comment_OG: precise
+
+### Justification:
+
+**OA Topic: Genomic and Epidemiological Studies of Phytophthora Pathogens**
+- **Comment:** The OA topic is incorrect because the study does not focus on Phytophthora pathogens or their genomic and epidemiological studies. Instead, it investigates the effectiveness of systemic insecticides in controlling aphids and Colorado potato beetles on potato crops.
+
+**OG Topic: Potato Beetle Control Studies**
+- **Comment:** The OG topic is precise and accurately reflects the focus of the paper. The study deals with the control of the Colorado potato beetle and aphids using systemic insecticides, making this topic highly relevant and specific to the paper's content.
+
+**Overall Justification:** The OG topic aligns closely with the specific focus and content of the paper, making it the better choice. The OA topic does not accurately represent the subject matter of the study.

@@ -1,0 +1,22 @@
+Paper Title: GWAS to Identify Novel QTNs for WSCs Accumulation in Wheat Peduncle Under Different Water Regimes
+Paper Abstract: Water-soluble carbohydrates (WSCs) play a vital role in water stress avoidance and buffering wheat grain yield. However, the genetic architecture of stem WSCs' accumulation is partially understood, and few candidate genes are known. This study utilizes the compressed mixed linear model-based genome wide association study (GWAS) and heuristic post GWAS analyses to identify causative quantitative trait nucleotides (QTNs) and candidate genes for stem WSCs' content at 15 days after anthesis under different water regimes (irrigated, rainfed, and drought). Glucose, fructose, sucrose, fructans, total non-structural carbohydrates (the sum of individual sugars), total WSCs (anthrone based) quantified in the peduncle of 301 bread wheat genotypes under multiple environments (E01-E08) pertaining different water regimes, and 14,571 SNPs from "35K Axiom Wheat Breeders" Array were used for analysis. As a result, 570 significant nucleotide trait associations were identified on all chromosomes except for 4D, of which 163 were considered stable. A total of 112 quantitative trait nucleotide regions (QNRs) were identified of which 47 were presumable novel. QNRs qWSC-3B.2 and qWSC-7A.2 were identified as the hotspots. Post GWAS integration of multiple data resources prioritized 208 putative candidate genes delimited into 64 QNRs, which can be critical in understanding the genetic architecture of stem WSCs accumulation in wheat under optimum and water-stressed environments. At least 19 stable QTNs were found associated with 24 prioritized candidate genes. Clusters of fructans metabolic genes reported in the QNRs qWSC-4A.2 and qWSC-7A.2. These genes can be utilized to bring an optimum combination of various fructans metabolic genes to improve the accumulation and remobilization of stem WSCs and water stress tolerance. These results will further strengthen wheat breeding programs targeting sustainable wheat production under limited water conditions.
+
+OA_Topic: Genetic Diversity and Breeding of Wheat
+OG_Topic: Wheat Genetic Improvement 
+
+Evaluation output: 
+match_with_OA: yes
+which_is_better: both
+comment_OA: complementary
+comment_OG: complementary
+Justification:
+
+OA Topic: Genetic Diversity and Breeding of Wheat
+
+    Comment: The OA topic is complementary as it encompasses the study's focus on identifying QTNs and candidate genes that contribute to the genetic diversity of wheat. The research aims to improve wheat breeding efforts, particularly under different water regimes, which directly relates to the genetic diversity and breeding of wheat.
+
+OG Topic: Wheat Genetic Improvement
+
+    Comment: The OG topic is complementary as it is precise and accurately reflects the study's goal of improving wheat genetics to enhance water-soluble carbohydrate accumulation under various water conditions. The focus on genetic improvement aligns well with the research objectives.
+
+Overall Justification: Both topics are applicable and complementary as they address the core aspects of the study—genetic diversity, breeding, and improvement of wheat, particularly in relation to water-soluble carbohydrate accumulation and water stress tolerance.

@@ -1,0 +1,20 @@
+Paper Title: The Influence of Phosphorus and Transplanting Date on Onion (<i>Allium Cepa</i> L.) Quality Parameters and yield of bulb Under Irrigation at Adami Tulu Jedo Kombolcha Woreda, East showa zone, Oromia Region
+Paper Abstract: A field experiment was showed to decide the influence of phosphorus level and transplanting date on quality parameters of onion at Adami Tulu Jedo Kombolcha Woreda, during 2017/18 season. The treatments consisted of four phosphorus levels (0, 20, 40 and 60 kg P ha ?1 ) and three transplanting date (42, 49 and 56 days). The experiment was laid out in randomized complete block design with four replications. The result showed that phosphorus level and transplanting date significantly influenced bulb dry matter content, marketable bulb yield, medium size bulb yield. Among these parameters, marketable bulb yield was also significantly influenced by the interaction of phosphorus level and transplanting date. On the other hand, small size bulb yield, large size bulb yield, over size bulb yield and under size bulb yield were only influenced by the effect of phosphorus levels. In this study, fertilized 60 kg P ha ?1 with transplanting at 56 days of transplanting date recorded the highest marketable bulb yield, but no significant difference was showed with that obtained at 40 kg P ha ?1 with the same transplanting date. Treatment combinations of no P (control) and transplanting date at 42 days produced the lowest amounts of marketable bulb yield. The economic analysis revealed that the highest net benefit with low cost of production was obtained in response to the application of 40 kg P ha ?1 and the transplanting age of 56 days. The marginal rate of return for this treatment was 11983% which is found to be economically feasible for producing bulb in the districts.
+
+OA_Topic: Biological Properties of Garlic and Its Compounds
+OG_Topic: Onion Cultivation Research 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: OG
+
+comment_OA: wrong
+
+comment_OG: precise
+
+Justification:
+
+The OA topic "Biological Properties of Garlic and Its Compounds" is wrong because the paper focuses on onion cultivation, specifically the influence of phosphorus levels and transplanting dates on onion quality parameters and yield, rather than on garlic or its biological properties.
+
+The OG topic "Onion Cultivation Research" is precise because it directly addresses the main focus of the paper, which involves research on the cultivation of onions, including factors like phosphorus levels and transplanting dates under irrigation conditions. Therefore, the OG topic more accurately reflects the content of the paper.

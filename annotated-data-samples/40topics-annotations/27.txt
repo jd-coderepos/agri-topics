@@ -1,0 +1,21 @@
+Paper Title: Risk factors with the occurrence of parasites and coliform in vegetables from an agroindustry
+Paper Abstract: In this study, we evaluated the risk factors associated with the occurrence of total coliforms, thermotolerant coliforms, and intestinal parasite eggs in vegetables from an agroindustry in the city of Ibiúna - SP, Brazil. A questionnaire with 17 questions was applied to 24 producers to carry out a diagnosis of the risk factors and their posterior association or not with total coliforms, thermotolerant coliforms, and intestinal parasite eggs. The questions addressed mainly the production system, fertilizer used, source of the water used for irrigation, sanitization of the vegetables, and form of transport. For the investigation of total coliforms, thermotolerant coliforms, and intestinal parasite eggs, the samples were processed at the microbiology and parasitology laboratory of the Federal Institute of São Paulo, São Roque Campus. The results revealed that total coliforms were found in 100% of the investigated samples and thermotolerant coliforms were detected in 95.83% of the samples. There was a significant statistical association for the risk factor use of reservoir water, where there was release of wastewater and absence of sanitization of the vegetables at the moment of harvest in relation to the presence of thermotolerant coliforms. Intestinal parasite eggs were found in 33.33% of the samples.
+
+OA_Topic: Food Safety and Hygiene Practices
+OG_Topic: Vegetable Contamination by Fecal Pathogens 
+
+Evaluation output: 
+match_with_OA: no
+which_is_better: OG
+comment_OA: wrong
+comment_OG: precise
+
+### Justification:
+
+**OA Topic: Food Safety and Hygiene Practices**
+- **Comment:** While the OA topic touches on relevant aspects like food safety and hygiene, it is too broad and does not precisely capture the specific focus of the study. The study is centered on the occurrence of parasites and coliforms in vegetables and their associated risk factors, which are more specific aspects of food contamination.
+
+**OG Topic: Vegetable Contamination by Fecal Pathogens**
+- **Comment:** The OG topic is precise and accurately reflects the core focus of the paper. The study investigates the contamination of vegetables by total coliforms, thermotolerant coliforms, and intestinal parasite eggs, making this topic highly relevant and specific to the paper's content.
+
+**Overall Justification:** The OG topic aligns more closely with the specific focus and findings of the paper, whereas the OA topic, while related, is too broad and does not capture the specific nature of vegetable contamination being studied.

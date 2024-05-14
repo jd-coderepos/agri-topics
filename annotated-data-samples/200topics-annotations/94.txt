@@ -1,0 +1,20 @@
+Paper Title: Effects of the Irrigation with Treated Wastewaters on the Proximate Composition, Mineral, and Polyphenolic Profile of the Globe Artichoke Heads [Cynara cardunculus (L.)]
+Paper Abstract: The present work was carried out to evaluate the effects of irrigation with two different municipal wastewaters (secondary-treated wastewater (SW) and tertiary-treated wastewater (TW)) compared to freshwater (FW) on main qualitative parameters of three different classes of globe artichoke (main, secondary, and processing heads). The experimental trial was conducted in Southern Italy (Apulia region) for two cropping cycles (GS1 and GS2) using ÔVioletto di ProvenzaÕ as cultivar. The artichoke heads were analyzed for proximate composition (dry matter, total sugar, total fat, ash, and total protein), percentage of edible part, mineral profile (sodium, potassium, magnesium, calcium, copper, iron, nickel, zinc, chloride, nitrate, phosphate, and sulphate) and polyphenolic acids content (caffeoylquinic acids and flavones). Both SW and TW treatments caused an increase of the percentage of the edible part, head protein contents, and mineral elements of the main and processing heads. Moreover, SW statistically increased the caffeoylquinic acid derivatives and the trans-ferulic acid content, while both SW and TW the flavones content. Finally, according to the multivariate analysis adopted, in our experimental conditions, the mineral component of the heads, such as chloride, potassium, copper, and zinc content, had a greater weight in the separation of FW, SW, and TW. On the other hand, the polyphenolic 5-O-caffeoylquinic acid, trans-ferulic acid, and 1,5-di-O-caffeoylquinic acid had a greater weight in the separation of the head class groups (main, secondary, and processing). Moreover, the trans-ferulic acid content of the heads was related both to the irrigation water type and to the different head classes.
+
+OA_Topic: Artichoke Nutraceutical and Functional Food Research
+OG_Topic: Wastewater Irrigation Effects 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: OG
+
+comment_OA: complementary
+
+comment_OG: precise
+
+Justification:
+
+The OA topic "Artichoke Nutraceutical and Functional Food Research" is complementary because the study involves analyzing the nutritional and functional components of artichokes under different irrigation treatments. However, it does not fully capture the specific focus on the effects of using treated wastewater for irrigation.
+
+The OG topic "Wastewater Irrigation Effects" is precise because it accurately captures the primary focus of the paper, which is evaluating the impact of using secondary and tertiary-treated wastewater on the proximate composition, mineral, and polyphenolic profile of globe artichoke heads. Therefore, the OG topic more accurately reflects the content and objectives of the paper.

@@ -1,0 +1,20 @@
+Paper Title: Crisis and Differentiation among Small-Scale Sugar Cane Growers in Nkomazi, South Africa
+Paper Abstract: Against a context of declining sugar output in South Africa as a whole, the sugar industry in the Nkomazi Municipality of Mpumalanga Province has increased its share of the South African market. It has achieved this over a period of significant change in ownership, with the transfer of at least 25 per cent of land growing sugar cane into black community ownership through South Africa's land reform programme. The industry now claims that the majority of land used for sugar cane in Nkomazi is owned by the beneficiaries of land reform. This paper examines the historical and contemporary trajectories of sugar cane production in Nkomazi, focusing particularly on the changing status of production on black-owned land. Among small-scale growers, a crisis in operation and maintenance of irrigation has prompted on the one hand a process of land concentration and 'accumulation from below', visible in the emergence of medium-scale growers, and, on the other hand, a move by the sugar milling company to take more direct control of sugar cane growing through rental agreements with small-scale landowners. The latter draws on recent experience of 'joint-venture' sugar cane production on land transferred to black 'community trusts' under the government's land restitution programme. The paper argues that the moves to medium- and large-scale farming are consistent with the changing livelihoods and aspirations of black South Africans since the end of apartheid, but also suggests contradictions between the emergence of black capitalist medium-scale farmers on the one hand and extension of corporate control of production on the other. While corporate agriculture offers advantages to some, in particular farm employees and a small number of black-owned contractors, it appears to offer little benefit to the majority of African 'landowners' while potentially blocking the further expansion of medium-scale growers.
+
+OA_Topic: Land Tenure and Property Rights in Agriculture
+OG_Topic: "Indian Agriculture and Economy 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: OA
+
+comment_OA: precise
+
+comment_OG: wrong
+
+Justification:
+
+The OA topic "Land Tenure and Property Rights in Agriculture" is precise because the paper focuses on the changes in land ownership and production dynamics among small-scale sugar cane growers in Nkomazi, South Africa, following land reforms.
+
+The OG topic "Indian Agriculture and Economy" is wrong because the paper does not focus on India or its agriculture and economy. Instead, it examines the sugar cane industry in South Africa, specifically within the context of land ownership and land reform. Therefore, the OA topic more accurately reflects the content and objectives of the paper.

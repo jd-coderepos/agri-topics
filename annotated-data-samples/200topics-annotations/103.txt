@@ -1,0 +1,20 @@
+Paper Title: Response of yield and yield components of tomato (Solanum lycopersicon L.) to different inter and intra-row spacing at Merebleke, Northern Ethiopia
+Paper Abstract: A field experiment was conducted at Aksum Agricultural Research Center Merebleke irrigation testing site for two years, 2014 and 2015 cropping calendar under irrigation condition.The objective of the study was to determine the effect of Inter and intra-row spacing on growth, Yield and fruit characteristics of Melkashola variety of tomato.The trial was laid out in factorial randomized complete block design in three replications.The treatment comprises of twelve treatment combination (20, 30 and 40 cm intra row spacing and 60, 80, 100 and 120 cm inter row spacing).Combined analysis of variance showed that except days to 50% flowering, all traits did not show significant interaction effect.However, main effect of inter and intra row spacing showed significant differences for days to maturity, plant height, number of fruits per plant, fruit weight and marketable fruit yield.The highest number of fruits per plant was found from 40 cm intra row spacing (74) but it is statistically at par with 30 cm intra row spacing (68).Fruit size was significantly affected by intra row spacing; the largest fruit size was recorded from 30 cm intra row spacing (71.1 g) while the smaller size found from 20 cm intra row spacing (67.5 g).However, fruit size didn't show significant difference for different inter row spacing.The highest marketable yield was obtained from 60 cm inter row spacing (654.60qtha -1 ) which is statistically not significant with 80 cm inter row spacing (611.7 qt ha -1).Similarly, the narrow intra row spacing that is, 20 cm scored highest marketable yield (651.4 qt ha -1) which is also statistically at par with 30 cm intra row spacing (597.4 qt ha -1). Considering fruit size and marketable yield, 60 cm inter row spacing and 30 cm intra row spacing are appropriate for higher marketable fruit yield and better fruit size in Merebleke wereda.
+
+OA_Topic: Genetic Diversity and Breeding of Okra
+OG_Topic: Tomato Irrigation & Cultivation Techniques 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: OG
+
+comment_OA: wrong
+
+comment_OG: precise
+
+Justification:
+
+The OA topic "Genetic Diversity and Breeding of Okra" is wrong because the paper focuses on tomato cultivation, specifically the effects of inter and intra-row spacing on yield and yield components under irrigation, rather than on the genetic diversity and breeding of okra.
+
+The OG topic "Tomato Irrigation & Cultivation Techniques" is precise because it directly addresses the main focus of the paper, which is the evaluation of different spacing techniques and their impact on the growth, yield, and fruit characteristics of tomatoes under irrigated conditions. Therefore, the OG topic more accurately reflects the content and objectives of the paper.

@@ -1,0 +1,11 @@
+Paper Title: Adoption of organic pepper production practices among smallholder farmers in Rwanda- A case study of Bugesera district.
+Paper Abstract: Bugesera is among the district located in Eastern Province of Rwanda where drought is a limiting factor for agriculture.Innovation and adoption of new technologies in agriculture is one of the keys that should reduce poverty in that area.The general objective of this study was to assess the level of the adoption of organic peppers production practices among smallholder farmers in Rwanda.A case study of Bugesera district.This study employed a cross-sectional survey design and a multi-stage sampling technique to select a sample of 150 respondents was used.The findings of logit regression analysis indicated that four factors such as education level, land size, farming experience, gender and enhanced soil fertility had positive and significant influence on adoption of organic pepper production practices.The demand for organic products creates new export opportunities.The market returns from organic agriculture can potentially contribute to local food security by increasing family incomes.The findings showed that the most common constraints to adoption of organic pepper production practices were lack of stable irrigation system, lack stable and reliable market, unreliable climate, high cost of inputs, lack of extension services, and inadequate capital respectively.Based on these findings, it was recommended that provision of training and technical advice on organic farming practices through agricultural extension services and developing information networks among farmers is vital, input subsidy, harvest(yield) insurance, financial inclusion (accessing affordable loans) is more crucial for stallholder farmers.Government should made effort in stable and durable irrigation systems, improvement of extension services through field visits and more effort in marketing of cash crops especially vegetables because are more perishable.
+
+OA_Topic: Agricultural Innovation and Livelihood Diversification
+OG_Topic: Irrigation Technology Adoption 
+
+Evaluation output: 
+match_with_OA: no
+which_is_better: OA
+comment_OA: 
+comment_OG: wrong

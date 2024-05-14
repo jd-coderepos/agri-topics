@@ -1,0 +1,20 @@
+Paper Title: Water Deficit and Seasonality Study on Essential Oil Constituents of<i>Lippia gracilis</i>Schauer Germplasm
+Paper Abstract: The aim of this study was to analyze the chemical composition of the essential oil from leaves of Lippia gracilis genotypes, in the dry and rainy seasons, and with and without irrigation. The extraction of essential oil was realized by hydrodistillation in a Clevenger apparatus. The chemical composition analysis was performed using a GC-MS/FID. The leaves of the L. gracilis genotypes provide essential oil with content between 1.25% and 1.92% in the rainy season and 1.42% and 2.70% in the dry season; when irrigation was used the content was between 1.42% and 2.87%, without irrigation contents were between 1.60% and 3.00%. The chemical composition of L. gracilis showed high levels of terpenes. The major constituent of genotypes LGRA-106 was thymol and carvacrol was the major constituent for the other genotypes. Concentrations showed little variation between seasons, demonstrating the stability of the chemical composition of L. gracilis even with different climatic conditions.
+
+OA_Topic: Antimicrobial Properties of Essential Oils in Foods
+OG_Topic: Essential Oils in Medicinal Plants 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: OG
+
+comment_OA: wrong
+
+comment_OG: precise
+
+Justification:
+
+The OA topic "Antimicrobial Properties of Essential Oils in Foods" is wrong because the paper does not focus on the antimicrobial properties of essential oils or their application in foods. Instead, it examines the chemical composition of essential oils from Lippia gracilis under different water deficit conditions and seasons.
+
+The OG topic "Essential Oils in Medicinal Plants" is precise because it accurately captures the main focus of the paper, which is the study of essential oil constituents in the medicinal plant Lippia gracilis under varying irrigation and seasonal conditions. Therefore, the OG topic more accurately reflects the content of the paper.

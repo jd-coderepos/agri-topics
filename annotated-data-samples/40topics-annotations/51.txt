@@ -1,0 +1,21 @@
+Paper Title: From learning to fragile governance: Regional economic development in rural Peru
+Paper Abstract: This article analyzes the potential of learning processes to promote governance and economic development in rural areas. It examines how three types of learning in the Lurín River Basin in Peru -technical expertise, storytelling, and experiential knowledge  combine to empower rural communities to act collectively. Based on an analysis of three community-led economic development processes -irrigation improvements, tourism and food processing -we show that learning can result in new, albeit fragile, forms of governance and social capital. Fragile governance can turn into regional economic development when learning results in the development of a regional narrative and coordination occurs across both vertical and horizontal network dimensions.
+
+OA_Topic: Rural Development and Change in Agricultural Landscapes
+OG_Topic: Participatory Irrigation and Crop Productivity 
+
+Evaluation output: 
+match_with_OA: no
+which_is_better: neither
+comment_OA: complementary
+comment_OG: wrong
+
+### Justification:
+
+**OA Topic: Rural Development and Change in Agricultural Landscapes**
+- **Comment:** The OA topic is complementary because the study discusses governance and economic development in rural areas, fitting within the broader scope of rural development and changes in agricultural landscapes. However, it does not capture the specific focus on learning processes and governance.
+
+**OG Topic: Participatory Irrigation and Crop Productivity**
+- **Comment:** The OG topic is wrong because the paper is not focused specifically on participatory irrigation or crop productivity. Instead, it examines the role of various learning processes in promoting governance and economic development in rural Peru, touching upon multiple sectors beyond irrigation.
+
+**Overall Justification:** Both topics do not accurately capture the specific focus of the paper. The OA topic is broadly connected and thus complementary, but still not precise. A more accurate topic would be something like "Learning Processes and Governance in Rural Economic Development" or "Fragile Governance and Regional Development in Rural Peru."

@@ -1,0 +1,20 @@
+Paper Title: Effects of irrigation and nitrogen on chlorophyll content, dry matter and nitrogen accumulation in sugar beet (Beta vulgaris L.)
+Paper Abstract: A two-year field experiment was conducted to analyze the growth conditions, physical features, yield, and nitrogen use efficiency (NUE) of sugar-beet under limited irrigation conditions in northeast of China. A cultivar H003 was used as plant materials; six treatments (C1-C6) were included: C1, no nitrogen applied, rain-fed; C2, 120.00 kg nitrogen hm ? 2 , rain-fed; C3, no nitrogen applied, hole irrigation for seeding; C4, 120.00 kg nitrogen hm ? 2 , hole irrigation for seeding; C5, no nitrogen applied, hole irrigation for seeding; and C6, 120.00 kg nitrogen hm ? 2 , hole irrigation for seeding, and irrigation at foliage rapid growth stage. The irrigation supply was only 500 mL/plant once. Results showed C6 showed the highest chlorophyll content, dry matter accumulation, yield, etc. and had the best NUE among all the treatments. In conclusion, under the routine fertilization conditions of northeast of China, the cultivation measure of hole irrigation 500 mL/plant for seeding combined with irrigation 500 mL/plant at foliage rapid growth stage greatly improved sugar-beet yield and NUE.
+
+OA_Topic: Formation and Health Effects of Acrylamide in Food
+OG_Topic: "Sugar Beet Cultivation & Efficiency 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: OG
+
+comment_OA: wrong
+
+comment_OG: precise
+
+Justification:
+
+The OA topic "Formation and Health Effects of Acrylamide in Food" is wrong because the paper does not discuss acrylamide formation or its health effects. Instead, it focuses on the effects of irrigation and nitrogen application on sugar beet cultivation.
+
+The OG topic "Sugar Beet Cultivation & Efficiency" is precise because it directly addresses the main focus of the paper, which is the impact of irrigation and nitrogen on the growth, chlorophyll content, dry matter accumulation, yield, and nitrogen use efficiency of sugar beet. Therefore, the OG topic more accurately reflects the content of the paper.

@@ -1,0 +1,22 @@
+Paper Title: Irrigation water salinity and silicon negatively interfere with the physiology and delay the flowering of ornamental sunflowers
+Paper Abstract: Although silicon is considered a non-essential element for plants, its application can mitigate the harmful effects of salt stress. In this sense, the objective was to evaluate the physiological and flowering responses of ornamentalsunflower depending on the application of silicon and irrigation with saline water. The experiment was carried out in a greenhouse in a completely randomized design with six replications, in a 4 x 5 factorial scheme, referring to four electrical conductivities of irrigation water (ECw): 0.5; 1.5; 2.5 and 3.5 dS m-1 and silicon doses: 0, 50, 100, 150 and 200 mg L-1, with potassium silicate as the source. The following were evaluated: internal carbon concentration, transpiration, rate of liquid photosynthesis, instant efficiency of carboxylation, leaf indexes of chlorophyll a, b, chlorophyll a/b ratio, total chlorophyll, external and internal diameter of the chapter, number of petals, appearance of floral bud, beginning of flowering and full opening of the floral bud. Salinity negatively affects photosynthetic activity and flowering of ornamental sunflower plants, so that plants irrigated with saline water (3.5 dS m-1) delayed the appearance of the flower bud, the flowering index and the total opening of the floral button. The application of silicon in ornamental sunflower plants is not effective to mitigate the deleterious effects of salinity on the plants physiology. In addition, the addition of silicon is also not able to repair the losses in terms of flowering caused by salt stress in the species.
+
+OA_Topic: Role of Silicon in Plant Biology and Ecology
+OG_Topic: "Silicon in Plant Stress Mitigation 
+
+Evaluation output: 
+match_with_OA: yes
+which_is_better: both
+comment_OA: complementary
+comment_OG: complementary
+Justification:
+
+OA Topic: Role of Silicon in Plant Biology and Ecology
+
+    Comment: The OA topic is complementary as it covers the broader role of silicon in plant biology and ecology, which includes investigating how silicon can impact plant responses under various stress conditions. This aligns well with the study's examination of silicon’s role in mitigating salinity effects on ornamental sunflowers.
+
+OG Topic: Silicon in Plant Stress Mitigation
+
+    Comment: The OG topic is complementary and precise as it specifically focuses on the role of silicon in mitigating plant stress, directly aligning with the paper’s focus on evaluating the effects of silicon application under saline irrigation conditions on ornamental sunflower physiology and flowering.
+
+Overall Justification: Both topics are complementary and accurately capture different relevant aspects of the study’s focus. The OA topic emphasizes the broader biological role of silicon, while the OG topic specifically addresses silicon’s role in stress mitigation, making either topic suitable for the paper.

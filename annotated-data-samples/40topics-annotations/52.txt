@@ -1,0 +1,21 @@
+Paper Title: An automatic irrigation system for water optimization in the Algerian agricultural sector
+Paper Abstract: Algeria is a vast country with three climatic types and different water resources. These resources are limited especially in the climatic zone two where most staple crops (e.g. wheat) are cultivated. To manage these water resources efficiently, traditional irrigation systems should be replaced by those based on advanced technological techniques. This paper introduces an irrigation system prototype constructed at the department of Electrical Engineering, University of Setif in Algeria. This prototype allows the control of the amount of water dispensed to the plant according to its soil moisture. The circuit was built around an Arduino microcontroller. A program was developed and burned into the microcontroller which was able to sense the amount of the moisture in the plant soil through a moisture sensor. According to this moisture quantity, the microcontroller is to take decision to on or off a small pump for an optimum time and flow speed. The pump was driven by a direct current motor which was controlled by a pulse width modulation dc chopper. The system is enhanced by a liquid crystal display to inform the operator about the moisture percentage, status of the pump and its speed.
+
+OA_Topic: Precision Agriculture Technologies
+OG_Topic: Optimal Agriculture Irrigation Strategies 
+
+Evaluation output: 
+match_with_OA: yes
+which_is_better: both
+comment_OA: complementary
+comment_OG: complementary
+
+### Justification:
+
+**OA Topic: Precision Agriculture Technologies**
+- **Comment:** The OA topic is accurate because the paper discusses the development of an automated irrigation system, which falls under the scope of precision agriculture technologies aimed at optimizing resource use and improving agricultural efficiency.
+
+**OG Topic: Optimal Agriculture Irrigation Strategies**
+- **Comment:** The OG topic is also accurate and precise because the paper focuses on an irrigation system designed to optimize water use in agriculture, which aligns with strategies for optimal agricultural irrigation.
+
+**Overall Justification:** Both topics are applicable and accurately reflect different aspects of the study. The OA topic highlights the technological innovation aspect, while the OG topic focuses on the irrigation strategies. Therefore, both topics are complementary and well-suited to the paper's content.

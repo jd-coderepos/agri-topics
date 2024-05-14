@@ -1,0 +1,20 @@
+Paper Title: Performance of High Tunnel Tomato Cultivars in Northern New England
+Paper Abstract: Tomato ( Solanum lycopersicum ) growers select cultivars based on a range of performance criteria. Currently, however, information regarding tomato cultivar performance in high tunnels is lacking. We conducted a tomato cultivar trial in an 1800-ft 2 plastic-covered high tunnel in Durham, NH, with 15 indeterminate cultivars using organic fertilizers and pesticides. Tomatoes were grown in-ground in a randomized complete block design (n = 4) using raised beds with plastic mulch and drip irrigation. Marketable and unmarketable yield, several yield components, and susceptibility to two common diseases, leaf mold ( Fulvia fulva ) and powdery mildew ( Oidium lycopersici or Leveillula taurica ), were evaluated over a 3-year period. Differences between cultivars existed in all areas of interest, and year-to-year variation in performance was noteworthy in this experiment. Geronimo consistently had among the highest yields, Arbason and Massada produced many individual fruit, and several cultivars including Rebelski, Massada, and Geronimo showed no signs of disease. Some cultivars such as Conestoga appeared susceptible to several different physiological disorders while others were relatively robust against this type of marketable yield reduction. Because we assessed multiple yield and quality variables and observed apparent trade-offs in several of these, we used radar plots to summarize and communicate the performance of each cultivar in an intuitive and comparable manner. Based on these data, several tomato cultivars appear particularly well suited for high tunnel production in northern New England.
+
+OA_Topic: Study of Powdery Mildew Fungi and Plant Pathogens
+OG_Topic: Tomato Growth and Irrigation Studies 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: OG
+
+comment_OA: complementary
+
+comment_OG: precise
+
+Justification:
+
+The OA topic "Study of Powdery Mildew Fungi and Plant Pathogens" is complementary because the paper does evaluate the susceptibility of tomato cultivars to powdery mildew and other diseases. However, this is only one aspect of the broader study.
+
+The OG topic "Tomato Growth and Irrigation Studies" is precise because it directly addresses the main focus of the paper, which is the performance evaluation of different tomato cultivars in high tunnels, including factors like yield, disease resistance, and irrigation methods. Therefore, the OG topic more accurately reflects the overall content of the paper.

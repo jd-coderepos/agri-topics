@@ -1,0 +1,20 @@
+Paper Title: Phosphorus (P) improves industrial tomato quality and yield in soil with high phosphorus content
+Paper Abstract: Soils under intensive and successive cropping with central pivot irrigation tend to present high nutrient contents, especially phosphorus (P), which is a nutrient with a great impact on the yield and quality of agricultural products. Among the rotating crops, the application of high P rates is common in processing tomato, although not supported by research. This work evaluates the effect of phosphate fertilization (0, 200, 400, 600, 800, and 1000 kg ha-1 P2O5) on the yield and quality of industrial tomato ÔHeinz 9553Õ grown in a soil with high available P content (145 mg dm-3) resulting of an intensive vegetables cultivation, which have high demand by P. The highest total (127.4 t ha-1) and commercial (108.6 t ha-1) yields were obtained with 413.9 and 384 kg ha-1 P2O5, respectively. The results showed that pH of tomato juice, the percentages of green, red, and commercial fruits were not influenced by the applied P rates. However, nutrient delivery increased the soluble solids content up to 356 kg ha-1 P2O5, which is interesting for tomato processing. After harvesting the fruits, the available soil P content was increased with P supply to the plants. For improvement of commercial yield and soluble solids characteristics, the tomato crop shall be fertilised with P even though the soil has high P content.
+
+OA_Topic: Plant Nutrient Uptake and Signaling Pathways
+OG_Topic: Tomato Irrigation & Cultivation Techniques 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: OG
+
+comment_OA: specific
+
+comment_OG: precise
+
+Justification:
+
+The OA topic "Plant Nutrient Uptake and Signaling Pathways" is too specific and does not align well with the core focus of the paper. While the study involves phosphorus uptake, it primarily investigates the impact of phosphorus fertilization on the yield and quality of industrial tomatoes in a soil with high phosphorus content.
+
+The OG topic "Tomato Irrigation & Cultivation Techniques" is precise because it accurately captures the primary focus of the paper, which is the effect of phosphorus fertilization on the yield and quality of tomatoes under irrigated conditions. Therefore, the OG topic more appropriately reflects the content and primary objectives of the paper.

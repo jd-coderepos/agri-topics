@@ -1,0 +1,7 @@
+Paper Title: The economic impact of climate change on Kenyan crop agriculture: A Ricardian approach
+Paper Abstract: This paper measures the economic impact of climate on crops in Kenya. We use cross-sectional data on climate, hydrological, soil and household level data for a sample of 816 households. We estimate a seasonal Ricardian model to assess the impact of climate on net crop revenue per acre. The results show that climate affects crop productivity. There is a non-linear relationship between temperature and revenue on one hand and between precipitation and revenue on the other. Estimated marginal impacts suggest that global warming is harmful for crop productivity. Predictions from global circulation models confirm that global warming will have a substantial impact on net crop revenue in Kenya. The results also show that the temperature component of global warming is much more important than precipitation. Findings call for monitoring of climate change and dissemination of information to farmers to encourage adaptations to climate change. Improved management and conservation of available water resources, water harvesting and recycling of wastewater could generate water for irrigation purposes especially in the arid and semi-arid areas.
+
+OA_Topic: Risk Management and Vulnerability in Agriculture
+OG_Topic: Climate Change Adaptation in Agriculture 
+
+Evaluation output: 

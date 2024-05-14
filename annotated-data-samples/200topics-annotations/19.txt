@@ -1,0 +1,20 @@
+Paper Title: Impact of irrigation on pasture production on two sheep and beef farms in the Central Wairarapa
+Paper Abstract: The impact of irrigation on seasonal and annual pasture production was investigated on two sheep and beef farms in the Central Wairarapa over 4 years (2004-08). The pasture response to irrigation water at Brancepeth Station ranging from 37 to 63% in the first 3 years, while at Glenlean the pasture response was only 22 and 26% in the 2 years (2004/05 and 2006/07, respectively) the irrigation treatment was imposed. Keywords: water harvesting, irrigation, seasonal water deficit
+
+OA_Topic: Evolution and Sustainability of Livestock Farming Systems
+OG_Topic: Forage Quality and Dairy Grazing 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: neither
+
+comment_OA: wrong
+
+comment_OG: wrong
+
+Justification:
+
+The OA topic "Evolution and Sustainability of Livestock Farming Systems" is wrong because the paper focuses specifically on the impact of irrigation on pasture production in sheep and beef farms, rather than on the broader topic of livestock farming system evolution and sustainability.
+
+The OG topic "Forage Quality and Dairy Grazing" is also wrong because the paper deals with pasture production in sheep and beef farms, and not about dairy grazing or specifically forage quality. Therefore, neither topic accurately reflects the content of the paper.

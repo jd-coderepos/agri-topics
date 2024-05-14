@@ -1,0 +1,21 @@
+Paper Title: Insecticide Control of Sweetpotato Whitefly on Spring Cantaloupe, 1992
+Paper Abstract: Seeds of cantaloupe were planted at 5 seeds/hill and irrigated for germination on 25 Feb 1992. The experimental design was a randomized complete block with four replications. Each plot was two rows wide and 20 ft long. Rows were 40 inches apart. There were two unplanted buffer rows between plots and 20 ft alleys that separated blocks. A total of 15 chemicals or mixtures of chemicals was evaluated. An untreated control was included for comparison. Chemicals were foliar applied biweekly with a John Deere 700 High Cycle Sprayer from 17 Mar when plants were at the cotyledon stage to 5 Jun when melons were matured for harvest (6 applications). The sprayer was operated at 90 psi with three nozzles per row to deliver 20 gal of water/acre. One nozzle was positioned above the tops of plants and one on each side of the plants. Except at the cotyledon stage, the fourth expanded leaf from the terminal of main stem or branched vines was picked 1 day before and 2 days after each application. Sweetpotato whitefly (SPWF) immatures were counted from both sides of ten 12 cm: leaf disks sampled from leaves from each plot, before and after each chemical application. All melons were harvested from all plots. Marketable melons were sized as jumbo, 27 and 36 and totaled.
+
+OA_Topic: Invasion Biology of Fruit Flies
+OG_Topic: Whitefly Research in Agriculture 
+
+Evaluation output: 
+match_with_OA: no
+which_is_better: OG
+comment_OA: wrong
+comment_OG: precise
+
+### Justification:
+
+**OA Topic: Invasion Biology of Fruit Flies**
+- **Comment:** The OA topic is incorrect because the paper does not discuss fruit flies or their invasion biology. Instead, it focuses on the control of sweetpotato whitefly on cantaloupe using various insecticides.
+
+**OG Topic: Whitefly Research in Agriculture**
+- **Comment:** The OG topic is precise and accurately reflects the study's focus. The paper investigates the effectiveness of different insecticides for controlling sweetpotato whitefly, making this topic highly relevant and specific to the paper's content.
+
+**Overall Justification:** The OG topic aligns more closely with the specific focus and content of the paper, which centers on whitefly control in agricultural settings. The OA topic, while related to entomology, does not match the content of this study.

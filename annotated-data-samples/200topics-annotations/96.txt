@@ -1,0 +1,20 @@
+Paper Title: The Effect of Moringa oleifera Lam. Leaf Aqueous Extract on Seed Yield and Fibre Quality of Linseed under Water Deficit Stress
+Paper Abstract: Moringa oleifera leaf extract contains active ingredients with stimulatory effects on natural processes of plants like uptake of nutrients, photosynthesis, biomass production and flowering. Therefore, we conducted field experiments to determine the effects of M. oleifera leaf aqueous extract (MLAE) on growth and fibre quality of three linseed varieties viz. Roshni, BL1 and Chandni under water deficit stress for two years. Water deficit stress was imposed during tillering growth phase (60 days after sowing) by skipping four irrigations, keeping 40% soil field capacity. The MLAE (5%) was applied to leaves once before the start of water deficit stress period and next 15 days after imposition of water deficit stress. Analysis of MLAE showed the presence of natural phenolics (150 mg gallic acid equivalents (GAE)/mL extract) and essential nutrients like Ca, Mg, K, Zn, Mn, and Fe. Positive impact of the MLAE was observed on plant height, tillers production, leaf chlorophyll pigments, phenolics content, sugars content, seed yield and fibre quality of linseed both under non-stress and water deficit stress. Our studies concluded that MLAE can be a probable approach for maintaining normal growth and fibre quality of linseed plants under short supply of water.
+
+OA_Topic: Research on Moringa Oleifera
+OG_Topic: Essential Oils in Medicinal Plants 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: OA
+
+comment_OA: precise
+
+comment_OG: wrong
+
+Justification:
+
+The OA topic "Research on Moringa Oleifera" is precise because the paper specifically investigates the effects of Moringa oleifera leaf extract on the growth and fiber quality of linseed under water deficit stress. This topic accurately captures the focus on Moringa oleifera and its application.
+
+The OG topic "Essential Oils in Medicinal Plants" is wrong because the paper does not deal with essential oils. Instead, it focuses on the application of Moringa oleifera leaf extract, which contains natural phenolics and essential nutrients, to improve the growth and quality of linseed under water stress conditions. Therefore, the OA topic more accurately reflects the content and objectives of the paper.

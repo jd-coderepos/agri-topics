@@ -1,0 +1,21 @@
+Paper Title: Risk Assessment as a Management Tool Used to Assess the Effect of Pesticide Use in an Irrigation System, Situated in a Semi-Desert Region
+Paper Abstract: A preliminary study undertaken by the CSIR in July 1993 on the health effects of aerial crop spraying of pesticides in the Vaalharts irrigation area in South Africa indicated that potential health risks could exist for the inhabitants of this area. An extensive scientific health risk assessment and epidemiological study to determine the actual health risks, is very expensive and requires medical and financial justification. The aim of this study was to develop a theoretical health risk model, which could be used as a predictive tool to determine as accurately as possible from the data available if a complete scientific health risk assessment study is justified. The actual amounts of pesticides sold in the Vaalharts area by two major pesticide manufacturers were used to perform a theoretical health risk assessment. The risks were assessed by making use of RISK*ASSISTANT, a computer modeling system and chemical database. The United States Environmental Protection Agency's (EPA) health risk model was applied to the data to identify the hazards, assess the exposures and dose response, and characterize the risks. Three exposure scenarios, namely, the ingestion of food and water and the inhalation of air were evaluated. The method used to calculate the risks varied according to the type of health hazard and the results were characterized accordingly. The acute health effects due to exposure to pesticides are well known and the risks are easy to determine. However, the risks associated with chronic health hazards were more difficult to calculate. For this reason a ranking model was developed which made use of a point scoring system. This model highlights those pesticides which have the greatest possibility of causing chronic health effects. From the results it can be concluded that very large amounts of pesticides are used in the Vaalharts area and that the community might be at risk to chronic health effects. Although the theoretical health risk assessment model was successfully used in this study, its effectiveness as a predictive tool still has to be proven by a complete scientific study.
+
+OA_Topic: Impact of Pesticides Use in Agriculture
+OG_Topic: Pesticide Risk and Residue Analysis 
+
+Evaluation output: 
+match_with_OA: yes
+which_is_better: neither
+comment_OA: complementary
+comment_OG: complementary
+
+### Justification:
+
+**OA Topic: Impact of Pesticides Use in Agriculture**
+- **Comment:** The OA topic is accurate as it broadly covers the focus of the paper, which investigates the health risks associated with pesticide use in an irrigation system situated in a semi-desert region. This fits well within the scope of assessing the impact of pesticide use in agriculture.
+
+**OG Topic: Pesticide Risk and Residue Analysis**
+- **Comment:** The OG topic is also accurate and touches on the analysis of pesticide residues and the associated risks, which aligns with the study’s approach of using a theoretical health risk model to predict potential health risks from pesticide exposure.
+
+**Overall Justification:** Both the OA and OG topics are applicable and accurately reflect different aspects of the study. The OA topic highlights the broader agricultural impact, while the OG topic focuses on the specific analysis of pesticide risks and residues. Therefore, both topics are complementary and relevant to the paper's content.

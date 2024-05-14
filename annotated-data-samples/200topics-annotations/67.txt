@@ -1,0 +1,20 @@
+Paper Title: Control of Sweetpotato Whitefly, Tomato Pinworm, and American Serpentine Leafminer on Staked Tomato, Fall 1991
+Paper Abstract: Twelve, 3 ft by 240 ft beds on 6 ft centers were planted with ÔSunnyÕ tomatoes spaced 20 inches apart on 22 Oct. Standard cultural practices were followed for staked, seep-irrigated tomatoes in southwest Florida. Dipel 2 X was applied as needed for control of armyworms. Experimental design was randomized complete block with 4 replications. Each block consisted of 3 rows with each replicate plot comprised of 3 rows 23 ft in length. There were 10 treatments plus an unsprayed control. Five weekly applications were made, beginning on 5 Dec. A single boom plot sprayer equipped with drops fitted with Albuz ATR lilac ceramic tips was operated at 400 psi. Each drop had 3 nozzles, for a total of 6 per row. Average delivery per nozzle was 0.194 gal/min; total delivery rate was 54 gal/acre. SPWF and LM immatures, LM stings, and completed mines were monitored weekly with a random sampling of 3 terminal leaflets from three 6th Leaves (from the top) per plot, 1 per row. Leaf area was determined with a leaf area meter to obtain values for SPWF per cm2. Adult SPWF were counted from one, 3-inch sq yellow card trap exposed for 24 hr (one card per row). Fruit was harvested twice, weighted and counted by USDA size categories, culled and checked for TPW damage.
+
+OA_Topic: Formation and Function of Plant Cuticles
+OG_Topic: Tomato Cultivation and Pest Control 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: OG
+
+comment_OA: wrong
+
+comment_OG: precise
+
+Justification:
+
+The OA topic "Formation and Function of Plant Cuticles" is wrong because the paper does not focus on the formation or function of plant cuticles. Instead, it discusses the control of specific pests (sweetpotato whitefly, tomato pinworm, and American serpentine leafminer) on staked tomato crops.
+
+The OG topic "Tomato Cultivation and Pest Control" is precise because it directly addresses the core content of the paper, which is about the application of treatments to control pests in tomato cultivation. Therefore, the OG topic more accurately reflects the paper's primary focus and objectives.

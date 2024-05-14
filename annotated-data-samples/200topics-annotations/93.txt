@@ -1,0 +1,20 @@
+Paper Title: Imazapic Herbigation for Egyptian Broomrape (Phelipanche aegyptiaca) Control in Processing TomatoesÑLaboratory and Greenhouse Studies
+Paper Abstract: Parasitic plants belonging to the Orobanchaceae family include species that cause heavy damage to crops in Mediterranean climate regions. Phelipanche aegyptiaca is the most common of the Orobanchaceae species in Israel inflicting heavy damage to a wide range of broadleaf crops, including processing tomatoes. aegyptiaca is extremely difficult to control due to its minute and vast number of seeds and its underground association with host plant roots. The highly efficient attachment of the parasite haustoria into the host phloem and xylem enables the diversion of water, assimilates and minerals from the host into the parasite. Drip irrigation is the most common method of irrigation in processing tomatoes in Israel, but the delivery of herbicides via drip irrigation systems (herbigation) has not been thoroughly studied. The aim of these studies was to test, under laboratory and greenhouse conditions, the factors involved in the behavior of soil-herbigated imazapic, and the consequential influence of imazapic on P. aegyptiaca and tomato plants. Dose-response Petri dish studies showed that imazapic does not impede P. aegyptiaca seed germination and non-attached seedlings, even at the high rate of 5000 ppb. Imazapic applied to tomato roots inoculated with P. aegyptiaca seeds in a PE bag system revealed that the parasite is killed only after its attachment to the tomato roots, at concentrations as low as 2.5 ppb. Imazapic sorption curves and calculated Kd and Koc values indicated that the herbicide Kd is similar in all soils excluding a two-fold higher coefficient in the Gadash farm soil, while the Koc was similar in all soils except the Eden farm soil, in which it was more than twofold lower. In greenhouse studies, control of P. aegyptiaca was achieved at 2.5 ppb imazapic, but adequate control requires repeated applications due to the 7-day half-life (t1/2) of the herbicide in the soil. Tracking of imazapic in soil and tomato roots revealed that the herbicide accumulates in the tomato host plant roots, but its movement to newly formed roots is limited. The data obtained in the laboratory and greenhouse studies provide invaluable knowledge for devising field imazapic application strategies via drip irrigation systems for efficient and selective broomrape control.
+
+OA_Topic: Strigolactone Signaling in Plant Interactions
+OG_Topic: Plant Disease Control & Management 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: OG
+
+comment_OA: specific
+
+comment_OG: precise
+
+Justification:
+
+The OA topic "Strigolactone Signaling in Plant Interactions" is specific but does not accurately reflect the main focus of the paper. While the study does involve parasitic plants, it primarily investigates the use of imazapic herbigation for controlling Egyptian broomrape in processing tomatoes.
+
+The OG topic "Plant Disease Control & Management" is precise because it directly addresses the main focus of the paper, which is the control and management of the parasitic plant Phelipanche aegyptiaca (Egyptian broomrape) using herbigation with imazapic. Therefore, the OG topic more accurately reflects the content and objectives of the paper.

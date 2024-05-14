@@ -1,0 +1,19 @@
+Paper Title: Manure Value and Liveweight Swine Decisions
+Paper Abstract: Produced as a joint product, economic theory suggests that manure value could influence livestock management decisions such as herd size and optimal market weights. This study examines the concept of manure value and its connection with optimal replacement age or market weight. A model of a swine finishing operation representative of North Carolina conditions is developed. Over the range of conditions considered, manure value is negative and does not affect market weights. The marginal per head change in manure value is small relative to the marginal per head change in net returns from pork production. Further, economies of scale with respect to irrigation cause manure value to increase with herd size.
+
+OA_Topic: European Agricultural Policy and Reform
+OG_Topic: Dairy Pasture and Forage Studies 
+
+Evaluation output: 
+match_with_OA: no
+which_is_better: none
+comment_OA: wrong
+comment_OG: wrong
+
+### Justification:
+
+**OA Topic: European Agricultural Policy and Reform**
+- **Comment:** The OA topic is incorrect because the paper does not discuss European agricultural policy or reforms. Instead, it examines the economic value of manure and its impact on swine management decisions in a North Carolina context.
+
+**OG Topic: Dairy Pasture and Forage Studies**
+- **Comment:** The OG topic is also incorrect because the paper does not focus on dairy, pasture, or forage studies. It specifically addresses the economics of manure value and its relation to swine management and market weights. Neither topic assignment accurately reflects the content and focus of the paper.

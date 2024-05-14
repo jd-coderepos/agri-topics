@@ -1,0 +1,20 @@
+Paper Title: ENUMERATION OF MICROBIAL LOAD IN LEAFY VEGETABLES GROWN IN PERIPHERY OF ALLAHABAD DISTRICT, UP, INDIA
+Paper Abstract: Leafy vegetables can become contaminated with microorganisms capable of causing diseases in human being.Leafy vegetables may be exposed to many sources of contamination like contaminated sewage used in watering the fields, where these vegetables are grown.In the present study the samples of fresh leafy vegetables like Soya leaves/Dill (Anethum graveolens L.) and Fenugreek leaves (Trigonella foenumgraecum L.).Spinach (Spinacia oleracea L.) were collected from four places of Allahabad District, namely Phaphamau, Mundera, Naini and Jhunsi area where sewage water was used for irrigating the leafy vegetables.The control site was selected in Naini area, where one vegetable grower was using the fresh ground water for irrigation, but the all the environmental condition was same as other sewage irrigated study sites.Total aerobic bacterial counts, total coliform, yeasts and moulds count were enumerated.Presence/absence of Escherichia coli, Shigella spp., Staphylococcus aureus, and Salmonella spp., in selected leafy vegetables were also identified.Most of the vegetable samples were found to be contaminated.The highest total bacterial count was found in Spinach (8.5 log cfu/gm.)for Naini area and the lowest in Fenugreek leaves (4.27 log cfu/gm.)for Phaphamau area.While the total bacterial counts of the leafy vegetables grown in fresh water were 0.15 log cfu/gm.for soya leaves, 0.2 log cfu/gm.for Fenugreek leaves and 0.19 log cfu/gm.for Spinach.The highest Coliform counts were found in Spinach (4.36 log cfu/gm.)for Mundera area and the lowest in Soya leaves (1.3 log cfu/gm.)for Jhunsi area.While yeast and mould counts were not detected in fresh ground water grown leafy vegetables.The presence of E. coli was identified in Soya leaves and Fenugreek leaves for Naini and Jhunsi area and in spinach for all the study sites whereas it was found to be absent for Phaphamau and Mundera area in Soya leaves and Fenugreek leaves.The presence of Shigella spp. was identified in all leafy vegetables for all the study sites.Salmonella spp.were present in Soya leaves for only Naini and Jhunsi area, in Fenugreek leaves its presence was isolated for all the study sites except Phaphamau but its presence in Spinach was identified for all the study sites.The presence of Staphylococcus aureus was identified
+
+OA_Topic: Non-destructive Leaf Area Estimation Methods
+OG_Topic: Foodborne Pathogens in Vegetables 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: OG
+
+comment_OA: wrong
+
+comment_OG: precise
+
+Justification:
+
+The OA topic "Non-destructive Leaf Area Estimation Methods" is wrong because the paper does not discuss methods for estimating leaf area. Instead, it examines the microbial load, including foodborne pathogens, in leafy vegetables grown with sewage water.
+
+The OG topic "Foodborne Pathogens in Vegetables" is precise because it directly addresses the main focus of the paper, which is the enumeration of microbial contaminants in leafy vegetables and their potential health risks. Therefore, the OG topic more accurately reflects the content and objectives of the paper.

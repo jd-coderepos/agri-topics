@@ -1,0 +1,20 @@
+Paper Title: Soil Systemic Value in Colorado Potato Beetle Control, Verndale, MN, 1992
+Paper Abstract: In this potato growing area of Minnesota CPB populations have generally been modest to low, commercial production irrigated but scattered, and insecticide resistance negligible, if present at all. The intent of the trial was to evaluate a traditional treatment using soil systemics with and without foliars, and their contribution to yield. The field was planted on 9 May using cut A-size Russet Burbank certified seed. Plots were 4 rows, 0.9 m in width and 9.1 m in length, arranged in a randomized complete block design replicated 4 times. Soils at this site were sandy loam and were irrigated season long. Soil systemics were applied just as the potato plants were emerging and were hilled in immediately. Foliars were applied on 25 Jun, 12, 18 and 27 Jul using 2 liters total material on .0134 ha.
+
+OA_Topic: Vegetable Grafting Techniques and Applications
+OG_Topic: Potato Pest Management Studies 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: OG
+
+comment_OA: wrong
+
+comment_OG: precise
+
+Justification:
+
+The OA topic "Vegetable Grafting Techniques and Applications" is wrong because the paper focuses on the control of Colorado potato beetle (CPB) using soil systemic treatments and foliar applications, specifically within potato cultivation, rather than on vegetable grafting techniques.
+
+The OG topic "Potato Pest Management Studies" is precise because it directly addresses the main focus of the paper, which is the evaluation of pest management strategies for controlling CPB in potato crops. Therefore, the OG topic more accurately reflects the content and objectives of the paper.

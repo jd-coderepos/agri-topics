@@ -1,0 +1,20 @@
+Paper Title: Irrigation levels and anti-transpirants impact on performance of Indian mustard (Brassica juncea)
+Paper Abstract: A field experiment was conducted during 2017Ð18 and 2018Ð19 at Regional Research Station, Bawal, CCS Haryana Agricultural University, Hisar, Haryana to examine the consequences of different levels of irrigation and anti-transpirants application on Indian mustard [Brassica juncea (L.) Czern.]. The experiment consisted of 3 irrigation levels (I1, control; I2, one irrigation at 40 DAS; I3, two irrigations at 40 and 75 DAS), and two varieties (V1, RH-725; V2, RH-749) in main plots, whereas, 4 anti-transpirants (A1, control; A2, PMA @250 ppm at 45 and 90 DAS; A3, 6% kaolin at 45 and 90 DAS and A4, PMA @250 ppm + 6% kaolin at 45 and 90 DAS) in sub plots. The experiment was laid out in split plot design with 3 replications. The results revealed that different irrigation levels and anti-transpirants significantly influenced the performance of RH-749 and RH-725 mustard varieties. Yield attributes such as number of siliquae/plant, siliquae length, number of seeds per siliquae, test weight, seed yield/plant and biological yield were recorded significantly higher during both the years. Whereas, in the case of anti-transpirants, highest biological yield and productivity per day of mustard was recorded in A4 as compared to A1 but it was at par with A3 anti-transpirants. Among the varieties, RH-749 performed better compared to RH-725 under different treatments. The interactive between I3 irrigation level and A4 anti-transpirants was significantly superioras compared to others. Moreover, mustard yield was found significant and positively correlated with different yield attributes.
+
+OA_Topic: Management of Soil Fertility and Crop Productivity
+OG_Topic: Mustard Irrigation and Nutrition 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: OG
+
+comment_OA: specific
+
+comment_OG: precise
+
+Justification:
+
+The OA topic "Management of Soil Fertility and Crop Productivity" is specific but does not fully capture the study's focus on irrigation levels and anti-transpirants in mustard cultivation.
+
+The OG topic "Mustard Irrigation and Nutrition" is precise because it directly addresses the study's core focus, which is the impact of different irrigation levels and anti-transpirant applications on various yield attributes and the overall performance of Indian mustard. Therefore, the OG topic more accurately reflects the specific content and objectives of the paper.

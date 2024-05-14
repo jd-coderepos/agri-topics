@@ -1,0 +1,22 @@
+Paper Title: Combined Effects of Irrigation Regime, Genotype, and Harvest Stage Determine Tomato Fruit Quality and Aptitude for Processing into Puree
+Paper Abstract: Industry tomatoes are produced under a range of climatic conditions and practices which significantly impact on main quality traits of harvested fruits. However, the quality of tomato intended for processing is currently addressed on delivery through color and Brix only, whereas other traits are overlooked. Very few works provided an integrated view of the management of tomato puree quality throughout the chain. To gain insights into pre- and post-harvest interactions, four genotypes, two water regimes, three maturity stages, and two processes were investigated. Field and glasshouse experiments were conducted near Avignon, France, from May to August 2016. Two irrigation regimes were applied: control plants were irrigated in order to match 100% of evapotranspiration (ETP); water deficit (WD) plants were irrigated as control plants until anthesis of the first flowers, then irrigation was reduced to 60 and 50% ETP in field, and glasshouse respectively. Fruits were collected at three stages during ripening. Their color, fresh weight, dry matter content, and metabolite contents were determined before processing. Pericarp cell size was evaluated in glasshouse only. Two laboratory-scaled processing methods were applied before structural and biochemical analyses of the purees. Results outlined interactive effects between crop and process management. WD hardly reduced yield, but increased dry matter content in the field, in contrast to the glasshouse. The puree viscosity strongly depended on the genotype and the maturity stage, but it was disconnected from fruit dry matter content or Brix. The process impact on puree viscosity strongly depended on water supply during fruit production. Moreover, the lycopene content of fresh fruit may influence puree viscosity. This work opens new perspectives for managing puree quality in the field showing that it was possible to reduce water supply without affecting yield and to improve puree quality.
+
+OA_Topic: Factors Influencing Fruit Ripening and Quality
+OG_Topic: Tomato Growth and Irrigation Studies 
+
+Evaluation output: 
+match_with_OA: yes
+which_is_better: both
+comment_OA: complementary
+comment_OG: complementary
+Justification:
+
+OA Topic: Factors Influencing Fruit Ripening and Quality
+
+    Comment: The OA topic is complementary as it directly relates to the factors influencing the quality and ripening of tomato fruits. The study investigates various factors such as irrigation regime, genotype, and harvest stage, which directly affect the quality and ripeness of tomatoes.
+
+OG Topic: Tomato Growth and Irrigation Studies
+
+    Comment: The OG topic is complementary as it specifically addresses the research on tomato growth under different irrigation conditions, which is a key aspect of the study. It also integrates other factors that affect the final quality and suitability of tomatoes for processing into puree.
+
+Overall Justification: Both topics are complementary and accurately capture different yet relevant aspects of the study’s focus, making either topic suitable for the paper. The OA topic focuses on fruit ripening and quality, while the OG topic emphasizes tomato growth and irrigation studies, both of which pertain to the research.

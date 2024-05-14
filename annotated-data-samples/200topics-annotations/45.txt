@@ -1,0 +1,20 @@
+Paper Title: Analysis of Crop Water Requirement for Maize with Planting Hole System under Dry Climate Condition
+Paper Abstract: Crop water requirement is an important factor to increase water use efficiency and avoid crop failure in dryland. A way to increase water use efficiency is by determining an irrigation interval scenario and utilizing a planting hole system. Research on the analysis of water requirement in the planting hole system with an irrigation interval for maize is still limited. Therefore, this study aims to analyze the level of water requirement for maize in dryland. This research was conducted in Camplong Village, Kupang District, East Nusa Tenggara (NTT) from January-May 2020. The design used was a split-plot of various treatments. There were three different techniques of applying fertilizer as the main plot, and two treatments of pruning maize leaves as sub-plots. The different treatments of fertilizer application includes: 1) mixing manure with rice husk charcoal (Ls+As), 2) separating manure from rice husk charcoal (Ls/As), 3) no addition of manure or rice husk charcoal into the planting hole (control). The sub-plots were divided into 2 treatments namely with leaf pruning (P) and without leaf pruning (TP). The water requirement was analyzed based on the FAO 56 approach with the production calculation in weight unit of tiles (ubinan). The results showed that 75% water efficiency was achieved or there was a water saving of 3,119 m3/ha/planting season when compared to conventional techniques. The highest maize productivity (7 tons/ha) was attained in treatment of mixing manure with rice husk charcoal with leaf pruning. The result indicated that this water savings may be used to expand the planting area to 3 ha.
+
+OA_Topic: Sustainable Agricultural Development and Extension Services
+OG_Topic: Maize Irrigation Efficiency 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: OG
+
+comment_OA: specific
+
+comment_OG: precise
+
+Justification:
+
+The OA topic "Sustainable Agricultural Development and Extension Services" is specific but too broad compared to the precise focus of the paper. While the paper does relate to sustainable agricultural practices, it specifically focuses on the water requirement and irrigation efficiency for maize under dry climate conditions using a planting hole system.
+
+The OG topic "Maize Irrigation Efficiency" is precise because it directly addresses the main focus of the paper, which is the analysis of water requirements and irrigation efficiency for maize in dryland conditions. Therefore, the OG topic more accurately reflects the content of the paper.

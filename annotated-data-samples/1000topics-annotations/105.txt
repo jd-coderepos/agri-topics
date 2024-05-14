@@ -1,0 +1,7 @@
+Paper Title: RESPONSE OF TEPHROSIA PURPUREA L. TO SALINITY STRESS IN RELATION TO GERMINATION, CAROTENOID CONTENT AND PROLINE CONTENT
+Paper Abstract: Salt stress is one of the major abiotic stresses limiting profitable crop production. The effect of salt stress on germination,carotenoid and proline content of Tephrosia purpurea was investigated Three different salinity level (50,100 and 200 mM)were used for germination experiment and distilled water as control. For pot experiment plants were treated with four different NaCl concentration (50,100,200,300mM).Normally irrigated plants were treated as control. Observations were recorded from day 25 up to day 65 at ten days interval. Result indicated that lower salt concentration (50mM) enhance seed germination but beyond it germination decreases. The result show that salinity increase carotenoid and proline content. The increase of proline with salinity increase shows the importance of the osmotic balance in low water potential condition. In general the results of the experiments showed that increase in production of proline as an osmotic regulatory mechanism for survival in high salinity levels.
+
+OA_Topic: Regulation of Seed Dormancy and Germination
+OG_Topic: Plant Salinity Stress Responses 
+
+Evaluation output: 

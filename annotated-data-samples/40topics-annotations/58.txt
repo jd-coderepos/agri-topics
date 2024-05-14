@@ -1,0 +1,21 @@
+Paper Title: Irrigation Regimes Affect Fruit Soluble Solids Concentration and Rate of Water Loss of `O'Henry' Peaches
+Paper Abstract: The effect of irrigation management strategies on the quality and storage performance of `O'Henry' peaches [ Prunus persica (L.) Batsch] was studied for two seasons. The deficit irrigation treatment induced a higher fruit soluble solids concentration and lower fruit weight. The excess irrigation treatment, compared to the optimum treatment, increased the rate of fruit water loss without altering fruit quality and storage performance. Scanning electron microscope observations indicated a higher density of trichomes on fruit from the deficit and optimum irrigation treatments than from the excess irrigation treatment. Light microscopy studies indicated that fruit from deficit and optimum irrigation had a continuous and much thicker cuticle than fruit from the excess irrigation treatment. These differences in exodermis structure may explain the high percentage of water loss from fruit from the excess irrigation treatment compared to the deficit and optimum irrigation treatments.
+
+OA_Topic: Physiology and Management of Fruit Trees
+OG_Topic: Apple Irrigation and Quality 
+
+Evaluation output: 
+match_with_OA: no
+which_is_better: OG
+comment_OA: complementary
+comment_OG: wrong
+
+### Justification:
+
+**OA Topic: Physiology and Management of Fruit Trees**
+- **Comment:** The OA topic is broadly related and therefore complementary, as it touches on aspects of irrigation management, fruit quality, and physiology in fruit trees. However, it does not specifically address the focus on soluble solids concentration and water loss rates affected by different irrigation regimes in 'O'Henry' peaches.
+
+**OG Topic: Apple Irrigation and Quality**
+- **Comment:** The OG topic is incorrect because the paper does not focus on apple irrigation and quality. Instead, the study investigates the effects of different irrigation regimes on peach varieties, specifically 'O'Henry' peaches.
+
+**Overall Justification:** The OA topic is complementary but not precise. The OG topic is entirely unrelated to the specific focus on peaches. A more accurate topic would be something like "Effect of Irrigation Regimes on Peach Quality and Water Loss" or "Impact of Irrigation Management on 'O'Henry' Peach Soluble Solids and Storage Performance."

@@ -1,0 +1,20 @@
+Paper Title: EVALUATION OF BELBAIS DRAIN WATER QUALITY AND THE POSSIBILITY OF USING IN AGRICULTURAL IRRIGATION PURPOSES IN SHARKIA GOVERNORATE, EGYPT
+Paper Abstract: A total of 8 water samples were collected from beginning, middle and end of Belbais drain, which located at longitudes of N 30o 10Õ 57.6Ó and E 31o 20Õ 20.8Ó and latitudes of N 30o33Õ 39.2Ó and E 31o36Õ 10.3Ó and altitude around 11.6 m. relative to sea level, in order to assess the quality of its water and its suitability for agricultural irrigation. Samples were analysed for pH, EC and other parameters. pH was within the permissible limit. EC indicates C3 (high salinity). According to USDA (1954). The soluble sodium percent (SSP) ranged from 67.78% to 41.69%, i.e. moderate restriction in using this water. The Sodium Adsorption Ratio (SAR) ranged from 6.74 to 8.44 and according to FAO (1985), water is of low sodium hazard. According to USDA (1954), water is of high salinity medium sodicity (C3S2). Permeability index values varied between 82.52 to 85.34% and based on Doneen diagram (1962), medicating class II i.e. no permeability or infiltration problems. Residual Sodium Carbonate (RSC) was 1.25 mmolc L-1, i.e. safe for irrigation.
+
+OA_Topic: Deficit Irrigation for Agricultural Water Management
+OG_Topic: Soil Salinization and Irrigation Practices 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: OG
+
+comment_OA: wrong
+
+comment_OG: complementary
+
+Justification:
+
+The OA topic "Deficit Irrigation for Agricultural Water Management" is wrong because the paper does not specifically focus on deficit irrigation techniques. Instead, it assesses the quality of drain water and its suitability for agricultural irrigation.
+
+The OG topic "Soil Salinization and Irrigation Practices" is precise because it accurately captures the main focus of the paper, which is the evaluation of the water quality from Belbais drain and its potential impact on soil properties and irrigation practices. The OG topic more accurately reflects the content and objectives of the paper.

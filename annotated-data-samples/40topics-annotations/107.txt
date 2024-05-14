@@ -1,0 +1,20 @@
+Paper Title: Genetic diversity in golden flax (Linum usitatisimum L.) for Irrigated Situation
+Paper Abstract: Collection and evaluation of divergence among genotypes are fundamental for know the spectrum of diversity. An experiment was conducted at the Research cum Instructional Farm of AICRP on Linseed, Department of Genetics and Plant Breeding, College of Agriculture, Indira Gandhi Krishi Vishwavidyalaya, Raipur, Chhattisgarh during Rabi season 2019-20 and 2020-21 comprising 40 accessions including checks viz; golden flax (37) brown flax (3) (checks RLC-143, RLC-148, RLC-153 and Surabhi) were shown in irrigated situation. Maximum % contribution towards the divergence noted for days to maturity followed by days to 50 % flowering, capsule size, number of seeds per capsules oil content %. On the basis of D2 values 40 golden flax were grouped into 9 clusters, the maximum lines were grouped in cluster II (12 genotypes) followed by cluster I (9 genotypes), cluster III and VI (5 genotypes), cluster IV and V (3 genotypes) and cluster VII, VIII and IX had only one genotype in each. Highest intra-cluster distance was recorded for cluster VI followed by cluster IV, cluster II, cluster I, cluster V cluster III whereas Cluster VII, VIII IX were mono-genotypic. The highest inter cluster divergence was observed between genotypes of cluster VI cluster V followed by cluster V cluster VI, cluster V cluster VIII, cluster III cluster IX cluster II cluster V. Divergence golden flax viz., YLS-8, YLS-28, YLS-3, YLS-5, YLS-6, YLS-21, YLS-30, YLS-33 RC-153 (c) grouped in different clusters.
+
+OA_Topic: Mutation Breeding for Crop Improvement
+OG_Topic: Crop Genetic Diversity 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: OG
+
+comment_OA: wrong
+
+comment_OG: precise
+
+Justification:
+
+The OA topic "Mutation Breeding for Crop Improvement" is wrong because the paper does not focus on mutation breeding. Instead, it discusses the genetic diversity of golden flax genotypes under irrigated conditions.
+
+The OG topic "Crop Genetic Diversity" is precise because it directly addresses the study's main focus, which evaluates the genetic diversity among different golden flax accessions. Therefore, the OG topic is more appropriate and accurately reflects the content of the paper.

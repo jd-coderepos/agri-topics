@@ -1,0 +1,11 @@
+Paper Title: Campylobacteriosis Outbreak Associated with Contaminated Municipal Water Supply  Nebraska, 2017
+Paper Abstract: In March 2017, the Nebraska Department of Health and Human Services (NDHHS) and the Southwest Nebraska Public Health Department were notified of an apparent cluster of Campylobacter jejuni infections in city A and initiated an investigation. Overall, 39 cases were investigated, including six confirmed and 33 probable. Untreated, unboiled city A tap water (i.e., well water) was the only exposure significantly associated with illness (odds ratio [OR] = 7.84; 95% confidence interval [CI] = 1.69-36.36). City A is served by four untreated wells and an interconnected distribution system. Onsite investigations identified that a center pivot irrigation system intended to pump livestock wastewater from a nearby concentrated animal feeding operation onto adjacent farmland had malfunctioned, allowing excessive runoff to collect in a road ditch near two wells that supplied water to the city. These wells were promptly removed from service, after which no subsequent cases occurred. This coordinated response rapidly identified an important risk to city A's municipal water supply and provided the evidence needed to decommission the affected wells, with plans to build a new well to safely serve this community.
+
+OA_Topic: Global Burden of Foodborne Pathogens
+OG_Topic: Salmonella in Burkina Faso Water 
+
+Evaluation output: 
+match_with_OA: no
+which_is_better: OA
+comment_OA: 
+comment_OG: specific

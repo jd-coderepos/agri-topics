@@ -1,0 +1,20 @@
+Paper Title: Statistical Evaluation of Regional Level Agricultural and Socio-Economic Development in Haryana
+Paper Abstract: The present study examines inter-district development inequalities in Haryana and identifies key agricultural and socio-economic dimensions.More than fifty indicators for development use Composite index and main component analysis were used to access the development status (PCA).In addition, main component analysis (PCA) has been used to identify key agricultural and socio-economic development indicators.The study showed a considerable degree of inequality among all the districts, with Nuh being behind in both development sectors, but Gurugram and Faridabad were socioeconomically developed despite being behind in agriculture.Population densities in cities, industrial infrastructure and educational facilities have been identified as major factors in socioeconomic development.Karnal, Kurukshtera and Yamunanagar were agriculturally developed and percentage of cereals and food grain areas, yield, irrigation facilities and livestock were observed as major factors contributing to the development of the farming sector.
+
+OA_Topic: Agricultural Development and Policy in South Asia
+OG_Topic: "Indian Agriculture and Economy 
+
+Evaluation output: 
+match_with_OA: yes
+
+which_is_better: n/a
+
+comment_OA: complementary
+
+comment_OG: complementary
+
+Justification:
+
+The OA topic "Agricultural Development and Policy in South Asia" is complementary because the study examines the agricultural development and identifies key agricultural indicators in Haryana, which is a part of South Asia. It aligns well with the regional focus on agricultural development and policy.
+
+The OG topic "Indian Agriculture and Economy" is also complementary as it broadly encompasses the socio-economic and agricultural development aspects of Haryana, a state in India. Both topics capture important aspects of the study and are equally applicable.

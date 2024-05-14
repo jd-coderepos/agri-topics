@@ -1,0 +1,245 @@
+You are tasked with evaluating the topics assigned to papers in the domain of agriculture specifically the irrigation subdomain. There are two different topic assignment methods: 1) OA and 2) OG. You will be given the paper title and abstract, and based on this content, you are to evaluate the topic assignments from both methods using the following criteria:
+
+1. match_with_OA: Does the OG topic match with the OA topic? Respond with "yes" or "no".
+2. which_is_better: Given the paper title and abstract, determine if the OA topic is better suited, the OG topic is better suited, or if both topics are equally applicable.
+
+Based on your evaluation for the "which_is_better" criteria, fill out the following two fields:
+
+- comment_OA: Considering the paper title and abstract, and the OA topic:
+        Is the OA topic assignment *wrong* because it does not match the content of the work?
+        Is the OA topic assignment *complementary* to the OG topic?
+        Is the OA topic assignment too *specific*, making the OG topic preferable?
+
+- comment_OG: Considering the paper title and abstract, and the OG topic:
+        Is the OG topic assignment *wrong* because it does not match the content of the work?
+        Is the OG topic assignment *complementary* to the OA topic?
+        Is the OG topic assignment too *specific*, making the OA topic preferable?
+        If the OG topic was better, was it because it was precise?
+
+Refer to the following 16 example for guidance:
+
+<example1>
+Paper Title: Impact of Climate Change on Crop Production and Potential Adaptive Measures in the Olifants Catchment, South Africa	
+Paper Abstract: Climate change is expected to substantially reduce future crop yields in South Africa, thus affecting food security and livelihood. Adaptation strategies need to be implemented to mitigate the effect of climate change-induced yield losses. In this paper, we used the WEAP-MABIA model, driven by six CORDEX climate change data for representative concentration pathways (RCPs) 4.5 and 8.5, to quantify the effect of climate change on several key crops, namely maize, soya beans, dry beans, and sunflower, in the Olifants catchment. The study further investigated climate change adaptation such as the effects of changing planting dates with the application of full irrigation, rainwater harvesting, deficit irrigation method, and the application of efficient irrigation devices on reducing the impact of climate change on crop production. The results show that average monthly temperature is expected to increase by 1 °C to 5 °C while a reduction in precipitation ranging between 2.5% to 58.7% is projected for both RCP 4.5 and RCP 8.5 relative to the baseline climate for 1976–2005, respectively. The results also reveal that increased temperature and decreased precipitation during planting seasons are expected to increase crop water requirements. A steady decline in crop yield ranging between 19–65%, 11–38%, 16–42%, and 5–30% for maize, soya beans, dry beans, and sunflower, respectively, is also projected under both RCPs climate change scenarios. The study concludes that adaptation measures such as the integration of changing planting dates with full irrigation application and the use of rainwater harvest will help improve current and future crop production under the impact of climate change.
+
+OA_Topic: Adaptation to Climate Change in Agriculture
+OG_Topic: Climate Change Impacts on Agriculture
+
+Evaluation output:
+match_with_OA: yes
+which_is_better: n/a
+comment_OA: 
+comment_OG: 
+</example1>
+
+<example2>
+Paper Title: Maize (Zea mays L.) yield response to the effect of blended fertilizer and varieties under supplemental irrigation at Hadero Zuria Kebele, southern Ethiopia
+Paper Abstract: Maize is one of the staple cereal crops in Ethiopia. However, in southern Ethiopia, the productivity of the crop is very low as compared to the average national productivity, which is mainly attributed to poor soil fertility and the use of low yielding varieties. Hence, a field experiment was conducted at Hadero Zuria kebele, southern Ethiopia under supplemental irrigation to investigate the effects of different rates of blended Nitrogen, Phosphorus, Sulphur, and Boron (NPSB) fertilizer on the performance of maize varieties. Treatments involving three varieties of maize (30G19, BH-546, and BH-547) and six rates of NPSB fertilizer (0, 50, 75, 100, 125, and 150) kg ha−1 were tested in RCBD using a factorial arrangement with three replications. Data on crop Phenological, growth, yield, and yield components were collected. The results showed that the blended NPSB fertilizer rates and varieties of maize affected days to physiological maturity, leaf area, leaf area index, hundred kernels weight (HKW), dry biomass yield (DBY), and grain yield (GY). The highest mean values for HKW, DBY, and GY were obtained from the 150 kg ha−1 NPSB rate. Similarly, the highest values for DBY and GY were obtained from the BH-546 variety. Significant differences (P 0.05) were obtained on days to tasseling, days to silking, and harvest index (HI) due to the interaction effect of NPSB rates and varieties. As the NPSB rates increased from 0 to 150 kg ha−1, HKW and DBY increased consistently from 29.62 to 36.62 g and 31.41 to 43.70 t ha−,1 respectively. Grain yield showed a highly significant and positive correlation with cob length, leaf number, HI, HKW, and DBY. Also, maximized economic profitability was gained at a rate of 150 kg ha−1 NPSB fertilizer. Thus, from this result, the NPSB rate of 150 kg ha−1 with the hybrid maize variety BH-546 could be better for the study area.
+
+OA_Topic: Factors Affecting Maize Yield and Lodging Resistance
+OG_Topic: Hybrid Maize Nitrogen Management
+
+Evaluation output:
+match_with_OA: yes
+which_is_better: OA
+comment_OA: 
+comment_OG: 
+</example2>
+
+<example3>
+Paper Title: Dynamics of the hydraulic and alluvial regime of the lower reaches of the Amudarya after the commissioning of the Takhiatash and Tuyamuyun hydrosystems
+Paper Abstract: The article presents data on changes in the main hydraulic parameters of the flow in the hydrological sections of the Amudarya river located in the zone of influence of the Takhiatash and Tuyamuyun reservoirs. It has been established that in recent years an acute water shortage has been observed in the lower reaches of the river during the growing season. In dry years for the Amudarya River, the Takhiatash hydroelectric complex becomes the last section, in some periods there are even no sanitary passes through the hydroelectric complex in the prescribed manner, and as a result, a tense situation is created in the Amudarya delta below the Takhiatash hydroelectric complex. Analysis of the hydrological regime of the river showed that in the lower reaches of the Amudarya on the territory of the Kharezm region and Karakalpakstan, the water regime of the river is very different from the domestic one. The low-water period on the river practically begins in September, as there is a large flow of water in September and October. The waters coming from the upper reaches of the river are retained to fill the Tuyamuyun reservoir. At the same time, the end of the low-water period is actually shifted to the beginning of March, since in March, the work of the water accumulated in the reservoir begins and its supply for flushing irrigation begins. The flood waters entering the Tuyamuyun reservoir are either fully accumulated (if the reservoirs are not filled up to the normal retention level of the NRL) or are very strongly transformed (if the reservoir is filled up to the NRL). Analysis of the dynamics of sediment runoff showed that the amplitudes of fluctuations in sediment runoff over periods have a very wide range of changes. In the initial period of operation of the hydroelectric complex, the sediment runoff mode almost repeats the household mode, that is, the largest runoff occurs during the dry season, but with the lowest solid runoff values on average 3 and 8 (at the Samanbai station) times. For 7 years from 1975 to 1981, the annual flow at the Kipchak gauging station amounted to 41.722 thousand tons, that is, 32% of the annual household regime. The largest annual flow at the Kipchak and Samanbai gauging stations took place in the high-water year 1978 and amounted to 66329 and 57971 thousand tons соответственно. The smallest amount of annual runoff at gauging stations was observed in dry 1981 and amounted to 25074 and 3943 thousand tons. The study of the sediment runoff regime of the Amudarya river during the period of joint operation of the Takhiatash and Tyuyamuyun hydrosystems showed that the amount of solid runoff entering the zone of influence of the Takhiatash hydroelectric complex significantly decreased due to a sharp decrease in water discharge under the influence of regulation and low water. At the same time, as the analysis of field studies has shown, despite their relatively small number, accumulation of sediments is observed in the pays of the hydroelectric complex, that is, silting occurs. The amount of sediment siltation in the area of the Takhiatash hydroelectric complex varies depending on the water content of the year and the operating mode of the Takhiatash hydroelectric complex. Analysis of the alluvial regime shows that during the period of operation of the hydroelectric complex, depending on the hydrological regime of the river and the regime of the water level in front of the dam, the clarification of the flow occurs in April, May, June and August. The seasonally average clarification of the flow within the upper pool ranges from 10 to 40%, and in some months, at levels close to the NSP, reaches 90%, that is, the upper pool of the node turns into a kind of settling tank. The composition of suspended sediments of the Amudarya varies both in time and along the length of the river, but particles smaller than 0.25 mm remain predominant. Particles larger than 0.25 mm are found only in the upper areas and in an amount of no more than 3 - 4%. During the flood period, along the entire length of the river, the percentage of fines content increases in comparison with the low-water period.
+
+OA_Topic: Water Resource Management and Agricultural Technology
+OG_Topic: Ancient Water Engineering Systems
+
+Evaluation output:
+match_with_OA: no
+which_is_better: ctfidf
+comment_OA: 
+comment_OG: precise
+</example3>
+
+<example4>
+Paper Title: Campylobacteriosis Outbreak Associated with Contaminated Municipal Water Supply — Nebraska, 2017
+Paper Abstract: In March 2017, the Nebraska Department of Health and Human Services (NDHHS) and the Southwest Nebraska Public Health Department were notified of an apparent cluster of Campylobacter jejuni infections in city A and initiated an investigation. Overall, 39 cases were investigated, including six confirmed and 33 probable. Untreated, unboiled city A tap water (i.e., well water) was the only exposure significantly associated with illness (odds ratio [OR] = 7.84; 95% confidence interval [CI] = 1.69-36.36). City A is served by four untreated wells and an interconnected distribution system. Onsite investigations identified that a center pivot irrigation system intended to pump livestock wastewater from a nearby concentrated animal feeding operation onto adjacent farmland had malfunctioned, allowing excessive runoff to collect in a road ditch near two wells that supplied water to the city. These wells were promptly removed from service, after which no subsequent cases occurred. This coordinated response rapidly identified an important risk to city A's municipal water supply and provided the evidence needed to decommission the affected wells, with plans to build a new well to safely serve this community.
+
+OA_Topic: Global Burden of Foodborne Pathogens
+OG_Topic: Salmonella in Burkina Faso Water
+
+Evaluation output:
+match_with_OA: no
+which_is_better: OA
+comment_OA: 
+comment_OG: specific
+</example4>
+
+<example5>
+Paper Title: Adoption of organic pepper production practices among smallholder farmers in Rwanda- A case study of Bugesera district.
+Paper Abstract: Bugesera is among the district located in Eastern Province of Rwanda where drought is a limiting factor for agriculture.Innovation and adoption of new technologies in agriculture is one of the keys that should reduce poverty in that area.The general objective of this study was to assess the level of the adoption of organic peppers production practices among smallholder farmers in Rwanda.A case study of Bugesera district.This study employed a cross-sectional survey design and a multi-stage sampling technique to select a sample of 150 respondents was used.The findings of logit regression analysis indicated that four factors such as education level, land size, farming experience, gender and enhanced soil fertility had positive and significant influence on adoption of organic pepper production practices.The demand for organic products creates new export opportunities.The market returns from organic agriculture can potentially contribute to local food security by increasing family incomes.The findings showed that the most common constraints to adoption of organic pepper production practices were lack of stable irrigation system, lack stable and reliable market, unreliable climate, high cost of inputs, lack of extension services, and inadequate capital respectively.Based on these findings, it was recommended that provision of training and technical advice on organic farming practices through agricultural extension services and developing information networks among farmers is vital, input subsidy, harvest(yield) insurance, financial inclusion (accessing affordable loans) is more crucial for stallholder farmers.Government should made effort in stable and durable irrigation systems, improvement of extension services through field visits and more effort in marketing of cash crops especially vegetables because are more perishable.
+
+OA_Topic: Agricultural Innovation and Livelihood Diversification
+OG_Topic: Irrigation Technology Adoption
+
+Evaluation output:
+match_with_OA: no
+which_is_better: OA
+comment_OA: 
+comment_OG: wrong
+</example5>
+
+<example6>
+Paper Title: Necessity of Irrigated and Rainfed Agriculture in the World
+Paper Abstract: The results show that 54% of the world is suitable for rainfed agriculture whereas 80% of agricultural production is form rainfed areas. Therefore, increasing irrigated agriculture is necessary. But, why tendency to irrigation is low? In many areas of the world, water resources are limited and irrigation is not economical. In pressurized irrigation, although irrigation efficiency is high but amount of required water is lower than surface irrigation but cost of pressurized method is very high. Agricultural integration is an affordable approach. Moreover, increasing irrigation efficiency led to use of surface irrigation in small farms. However, selection of an appropriate method for irrigation is more important than other mentioned cases. In some conditions, deficit irrigation is sufficient to achieve to maximum of production. In other conditions, notifying to all effective factors (to choose irrigation system) include compatibility, economics, topographical characteristics, soils, water supply, crops, social influences, external influences and awareness of advantages and disadvantages of different irrigation systems (Table 1) led to maximizing efficiency and finally increasing tendency to irrigated agriculture.
+
+OA_Topic: Sustainable Agricultural Development and Resource Management
+OG_Topic: Global Irrigation Challenges and Innovations
+
+Evaluation output:
+match_with_OA: no
+which_is_better: ctfidf
+comment_OA: 
+comment_OG: precise
+</example6>
+	 
+<example7>
+Paper Title: Effects of irrigation and nitrogen on chlorophyll content, dry matter and nitrogen accumulation in sugar beet (Beta vulgaris L.)
+Paper Abstract: A two-year field experiment was conducted to analyze the growth conditions, physical features, yield, and nitrogen use efficiency (NUE) of sugar-beet under limited irrigation conditions in northeast of China. A cultivar H003 was used as plant materials; six treatments (C1-C6) were included: C1, no nitrogen applied, rain-fed; C2, 120.00 kg nitrogen hm − 2 , rain-fed; C3, no nitrogen applied, hole irrigation for seeding; C4, 120.00 kg nitrogen hm − 2 , hole irrigation for seeding; C5, no nitrogen applied, hole irrigation for seeding; and C6, 120.00 kg nitrogen hm − 2 , hole irrigation for seeding, and irrigation at foliage rapid growth stage. The irrigation supply was only 500 mL/plant once. Results showed C6 showed the highest chlorophyll content, dry matter accumulation, yield, etc. and had the best NUE among all the treatments. In conclusion, under the routine fertilization conditions of northeast of China, the cultivation measure of hole irrigation 500 mL/plant for seeding combined with irrigation 500 mL/plant at foliage rapid growth stage greatly improved sugar-beet yield and NUE.
+
+OA_Topic: Formation and Health Effects of Acrylamide in Food
+OG_Topic: Sugar Beet Cultivation Research
+
+Evaluation output:
+match_with_OA: no
+which_is_better: ctfidf
+comment_OA: wrong
+comment_OG:
+</example7> 
+
+<example8>
+Paper Title: Control of Banks Grass Mite in Winter Wheat, 1996
+Paper Abstract: Four insecticides were applied to irrigated winter wheat in Fruita, CO. ; on 19 Apr with a CO2-powered sprayer calibrated to apply 17.4 gpa through six LF4 nozzles mounted on a10-ft boom. Plots were 10 ft X 25 ft, arranged in a RCB design with four replications. Plots were sampled on 19 Apr (PRE), 29 Apr (10 DAT), 6 May (17 DAT), and 24 May (35 DAT). On the first three sampling dates, a 4-inch2 section of wheat was cut at ground level and removed from the field in a paper bag. Each sample was weighed before being placed in a Berlese funnel for 24 h to extract mites. Mites were counted under a dissecting microscope, and the number divided by the sample weight to get a BGM/g value which was used for statistical analysis. On the final sampling date (35 DAT), 25 random tillers were picked from each plot, and placed in Berlese funnels for 24 h to extract mites. The number of BGM/tiller was used for statistical analysis. The plots were harvested on 23 Jul using a modified Gleaner L combine with on board scales. Test weight was measured from a sub sample of the grain harvested from each plot.
+
+OA_Topic: Insect-Plant Interactions in Agricultural Ecosystems
+OG_Topic: Aphid Control in Wheat, Washington
+
+Evaluation output:
+match_with_OA: no
+which_is_better: 
+comment_OA: wrong
+comment_OG: wrong
+</example8> 	
+	
+<example9>
+Paper Title: The Office du Niger: an Agropole project for food security in Mali?
+Paper Abstract: In many African countries, food security is now more valued by agricultural policies than ever before. Since WAEMU (West African Economic and Monetary Union) regards the irrigated area of the Niger Office in Mali as the “rice bowl” of West Africa, this agricultural area has thus become at the heart of regional economy and politics. In this context, agricultural development programs are multiplying, leading to the “new green revolution” supported by international organizations, donors and a number of foundations. These development projects are usually managed by foreign private investors and benefit from large-scale land allocation. This model of agricultural and commercial development has been criticized as a form of land and water grabbing. It raises questions with regards to its role in securing the population’s food supply and the future of small family farms. The role of small farming in food security was recently reaffirmed during the “International Year of Family Farming” (2014).
+
+OA_Topic: Agroecology and Global Food Systems
+OG_Topic: Global Food Security Challenges
+
+Evaluation output:
+match_with_OA: no
+which_is_better: OA
+comment_OA: 
+comment_OG: wrong
+</example9>
+	
+<example10>
+Paper Title: Alternatives for sustainable weed control in single- and double-cropped soybean: A case study for Mediterranean irrigated conditions
+Paper Abstract: The irrigated cropping systems in South Europe could benefit from soybean [ Glycine max (L.) Merr.] introduction in their maize ( Zea mays L.)‐based crop rotations. However, sustainable weed management strategies are needed for soybean growers under Mediterranean irrigated conditions. This work aimed to assess the weed control efficacy, and the soybean performance, of alternative management practices for single‐ and double‐cropped soybean. Two field experiments were carried out in northeast Spain in the period 2019–2021. Row width narrowing (75–37.5 cm), herbicide application (yes/no), and roller‐crimped rye [ Secale cereal (L.) M.Bieb.] cover crop (yes/no) were assessed in the single cropping system experiment (SCS). In the barley‐soybean double cropping system experiment (DCS), row width narrowing and herbicide application were assessed. In the SCS, the presence of rye cover crop reduced weed biomass up to 92% compared to the controls without herbicide and cover crop in 2020. In 2021, no effect of the cover crop on weed pressure was found due to the low amount of rye biomass accumulated (11.8 and 3.4 ton DM ha −1 in 2020 and 2021, respectively). In the DCS, herbicide application attained the expected weed control. Row width narrowing to 37.5 cm did not have an impact on weed pressure nor on soybean yield in either experiment. We concluded that herbicide reduction for single‐cropped soybean under Mediterranean irrigated conditions can be achieved by roller‐crimping a rye cover crop, provided enough rye biomass is accumulated. In the DCS, our results indicated that further research is needed to find alternatives to chemical weed control.
+
+OA_Topic: Intercropping in Agricultural Systems
+OG_Topic: Weed Management in Agriculture
+
+Evaluation output:
+match_with_OA: no
+which_is_better: both
+comment_OA: complementary
+comment_OG: complementary
+</example10>
+ 
+<example11>
+Paper Title: Contribution of Awns to Seed Yield and Seed Shattering in Siberian Wildrye Grown under Irrigated and Rainfed Environments
+Paper Abstract: The seed yield of grass species is greatly dependent on inflorescence morphological traits, starting with spikelets per inflorescence and seeds per spikelet, to kernel size, and then to awns. Previous studies have attempted to estimate the contribution of these traits on the harvested yield of major cereal crops, but little information can be accessed on the influence of awns on seed yield of forage grass species. Siberian wildrye (Elymus sibiricus L.) is a widely important perennial forage grass used to increase forage production in arid and semi-arid grasslands. The grass has long inflorescences with long awns developed at the tip end of the lemmas in the florets. In order to evaluate the effect of awns on Siberian wildrye seed production, awn excision analyses from 10 accessions were performed at flowering stage under irrigated and rainfed regimes. Overall, awn excision reduced thousand-seed weight and seed size under both irrigated and rainfed regimes, which decreased final seed yield per plant. De-awned plants produced significantly more seeds per inflorescence, but spikelets per inflorescence was not influenced by awn excision in either condition. Moreover, histological analyses showed a high degradation of the abscission layer in the awned plants than de-awned ones, and awn excision evidently improved average seed breaking tensile strength (BTS), and thus decreased the degree of seed shattering. In conclusion, the observed significant impact of awn excision on different yield-related traits mirrored the impact of awns on the performance of Siberian wildrye under diverse growing conditions. These results provide useful information for plant breeders, seed producers, and researchers to efficiently improve seed production in Siberian wildrye.
+
+OA_Topic: Development and Impacts of Bioenergy Crops
+OG_Topic: Dairy Pasture and Forage Studies
+
+Evaluation output:
+match_with_OA: no
+which_is_better: OA
+comment_OA: 
+comment_OG: wrong
+</example11>
+
+<example12>
+Paper Title: By budgeting irrigated pasture growth rates, managers control forage levels and animal performance
+Paper Abstract: Traditionally, little control is exerted over grazing on irrigated pasture. Today, however, with controlled grazing and feed budgeting, the pasture manager can use grazing stock to control forage levels, and forage levels can be used to control animal performance. Pasture budgeting can be applied to California's irrigated pastures when estimates of expected pasture growth are available, according to an ongoing study.
+
+OA_Topic: Nutritional Strategies for Ruminant Health and Production
+OG_Topic: Dairy Pasture and Forage Studies
+
+Evaluation output:
+match_with_OA: no
+which_is_better: both
+comment_OA: complementary
+comment_OG: complementary
+</example12>
+	
+<example13>
+Paper Title: FINISHING LAMBS ON BORDER DYKE IRRIGATION
+Paper Abstract: Finishing iambs to produce a bigger dollar sign is a challenge to all sheep farmers. Around the beginning of 1980 life had become a little dull and we thought a change was necessary. So, after some haggling a 620 ha property was bought. It tended to be a little bedraggled as we could only keep three mobs of sheep apart but after putting on sixty-five gates, digging in thirty-one strainers and mending fifty-four broken wires, we ended up with forty-three paddocks ranging in size from one to twenty-five hectares. The property lies on the coast some 8 kms north of where the Waitaki river flows into the Pacific Ocean. The soil is of the poorer Steward type, with a pH of 5.5 and phosphate reading of 5-8, and is situated at the lower end of the Morven-Glenavy irrigation scheme. The property had 230 hectares border dyked, with pasture quality ranging trom a good ryegrasslwhite clover to a very hungry looking browntoplhair grass/sub clover stony mess. The dryland had a lot of sub clover throughout, but did not produce unless it rained for three days or the irrigation water got loose. The first lambing in 1980, with 6300 sheep to the ram resulted in about 500 dry ewes and a 93% lambing. We did our best to fatten these lambs but because there wasn't enough good pasture and we were hoping to make some hay, a lot of these lambs were killed around 11.5 to 12.5 kg returning some $14 to $16 per head.
+
+OA_Topic: Management of Perennial Pasture Systems in Australia
+OG_Topic: Dairy Pasture and Forage Studies
+
+Evaluation output:
+match_with_OA: no
+which_is_better: ctfidf
+comment_OA: specific
+comment_OG: precise
+</example13>
+
+<example14>
+Paper Title: Productive and Nutritional Aspects of Tithonia diversifolia Fertilized With Biofertilizer and Irrigated
+Paper Abstract: Little is known about the agronomic aspects of Mexican Sunflower (Tithonia diversifolia), in spite of its potential for multiple uses. In this study, we evaluated the effects of application rates of biofertilizer and irrigation on yield, growth, and leaf chlorophyll and nutrient content of Mexican Sunflower. In an experiment in the Brazilian semi-arid region, we used a 5 2 factorial arrangement, consisting of five application rates of biofertilizer (0, 40, 80, 120, and 160 m3 ha-1), with and without irrigation. The statistical design was randomized blocks with three replications. Irrigated plants of Mexican Sunflower had greater dry and fresh matter yields, greater height, and greater leaf area index and leaf contents of K, Zn, and B. However, the high concentration of bicarbonate in the irrigation water reduced the leaf contents of N, Ca, S, Fe, and Mn. The mean increase in the two cuttings obtained with the use of irrigation was 350% and 314% for fresh and dry matter, respectively. The increase in the biofertilizer application increased the leaf chlorophyll contents of irrigated plants; however, it did not result in production or nutritional gains. In regions with low availability of rainfall, irrigated cultivation of Mexican Sunflower is recommended.
+
+OA_Topic: Betalains in Nutrition
+OG_Topic: Crop Water Management and Yield
+
+Evaluation output:
+match_with_OA: no
+which_is_better: ctfidf
+comment_OA: wrong
+comment_OG: precise
+</example14>
+
+<example15>
+Paper Title: Development of an Automation System for Nutrient Film Technique Hydroponic Environment
+Paper Abstract: Hydroponic is one of the plant cultivation systems known for its high-quality products.The growth of the plant depends on the composition of nutrient solution and the plant environment.Due to its nutrient absorption process, nutrient solution composition continuously varies in the Hydroponics nutrient solution irrigation system.An automation system is necessary to control and monitor the composition of nutrient solutions.This paper presents the development of an automation system for nutrient film technique (NFT) Hydroponic system.The proposed system control and monitor the pH level, Electrical conductivity (EC), Dissolved Oxygen (DO), water temperature, water flow rate, and water level of the nutrient solution in the Hydroponics nutrient solution irrigation system suited for a specific plant.The main system is composed of sensors, microcontrollers, actuators, and data loggers.It was verified by the testing of sensors and actuators functionality, and also a field experiment.The experiment result revealed that the developed system works properly to monitor and control the environment nutrient solution parameters of Hydroponic.The field experiment also shows that the vegetable plant sample grew well during cultivation and showed good quality crop yield with a harvest-time is of around 3.5 weeks.
+
+OA_Topic: Challenges and Opportunities in Aquaponic Systems
+OG_Topic: Smart Irrigation Systems
+
+Evaluation output:
+match_with_OA: no
+which_is_better: ctfidf
+comment_OA: wrong
+comment_OG: precise
+</example15>
+	
+<example16>
+Paper Title: Impact of reuse of the purified wastewater on some properties of soil. Case study of Ain Defla station (Northwestern Algeria)
+Paper Abstract: Purified wastewater (PWW) is a major source of water and nutrients for many farmers in arid and semi-arid climates. The aim objective of this study is to follow the change of soil characteristics i.e permeability porosity, total calcium, electrical conductivity (extract diluted) and pH before and after an irrigation event. Two plots were selected near wastewater treatment plant of Ain Defla, the first one irrigated by fresh well water and the second one by PWW. Geostatistical analysis and soil mapping of the two plots showed that the risk of soil salinity is present with a rate of increase may be up to 0.5 ds / m after each watering. The spatiotemporal variability of soil Stalinization and total calcium levels can lead to a possible accumulation of persistent contaminants in the soil after prolonged irrigation (over 10 years) in this region.
+
+OA_Topic: Evolution of Water Technologies in Ancient Civilizations
+OG_Topic: Wastewater Treatment and Reuse
+
+Evaluation output:
+match_with_OA: no
+which_is_better: ctfidf
+comment_OA: wrong
+comment_OG: precise
+</example16>
+
+

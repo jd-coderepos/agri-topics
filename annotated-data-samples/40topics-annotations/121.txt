@@ -1,0 +1,20 @@
+Paper Title: THE PROCESS OF SOLONETZIZATION OF SOILS UNDER THE INFLUENCE OF MINERALIZED WATERS
+Paper Abstract: In the soils studied by us, changes in the composition of the soil absorption complex (SAC) occur mainly between three cations, such as Ca++, Mg++, Na+, the radii of which differ from each other within 20%. According to A.E., Fersman [11], when the ion radii differ by up to 20%, cations are considered interchangeable, in other words, isomorphic in the crystal lattices of minerals, which is why when irrigating with mineralized water, sodium ions replace Mg++ and Ca++ ions. This substitution occurs gradually and over a long period the influence of mineralized waters and at a certain stage quantitatively stabilizes. In order to predict the probability of the sodium cation entering the SAC, and therefore the potential danger of soil alkalinization during irrigation with mineralized waters, a special indicator SAR (Sodium adsorption ratio) is used, which, based on Ca ++, Mg ++, Na data, makes it possible to assess the quality of irrigation water. Our waters, both river and mineralized, had a low risk of salinization and alkalinization according to this indicator, and therefore, when they were used as irrigation water, they did not render the soil unusable for a short period of 3-10 years, i.e. in terms of solonetzization, there were no significant changes, the soils were not solonetzic and remained so. But the process of solonetzization took place.
+
+OA_Topic: Soil Evolution in Anthropogenic Landscapes
+OG_Topic: Irrigated Soils and Properties 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: OG
+
+comment_OA: wrong
+
+comment_OG: precise
+
+Justification:
+
+The OA topic "Soil Evolution in Anthropogenic Landscapes" is wrong because the paper does not focus on the broader context of soil evolution in anthropogenic landscapes. Instead, it specifically investigates the process of solonetzization in soils under the influence of mineralized waters, which relates directly to changes in soil properties due to irrigation.
+
+The OG topic "Irrigated Soils and Properties" is precise because it directly addresses the main focus of the paper, which is the impact of mineralized irrigation water on soil properties, particularly the process of solonetzization. Therefore, the OG topic more accurately reflects the content of the paper.

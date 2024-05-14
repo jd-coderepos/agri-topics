@@ -1,0 +1,7 @@
+Paper Title: Reaction of Sweet Potatoes to Flooding
+Paper Abstract: Flooding is a serious problem in sweet potato production in Atlantic and Gulf Coast states. Studies have been attempted using irrigation to simulate flooding (1, 3). Results have been inconsistent and flood damage was often difficult to induce. However, during 5 days in 1984, Hurricane Diana resulted in 267.5 mm of rainfall on sweet potato cultivar plots at the Horticultural Crops Research Station in Clinton, N.C. The plots were planted in a Norfolk sandy loam soil. When plots were harvested 2 weeks later, flood damage was readily apparent. Typical symptoms of flooding injury included visible soft, rotted areas, growth of saprophytic fungi on the surface and a noticeable odor of fermentation. Roots were separated into three groups (total marketable, culls, and flood-damaged roots) and weighed. Samples were also taken of apparently sound roots for intercellular space and dry matter evaluations (four roots each) and for determining amount of sub-sequent rotting during curing and storing (12Ð13 kg). Intercellular space and percent dry matter were determined according to Kushman and Pope (2).
+
+OA_Topic: Plant Responses to Flooding Stress
+OG_Topic: Potato Growth and Irrigation 
+
+Evaluation output: 

@@ -1,0 +1,20 @@
+Paper Title: Marker Development and Pyramiding of Fhb1 and Fhb7 for Enhanced Resistance to Fusarium Head Blight in Soft Red Winter Wheat
+Paper Abstract: Fusarium head blight (FHB) is a devastating fungal disease of hexaploid wheat (Triticum aestivum). Several genetic loci were previously identified that control FHB resistance in wheat, including Fhb1. Fhb7, a major QTL conferring resistance to FHB, controlling for mycotoxin deoxynivalenol (DON) production, has been introgressed into soft red winter wheat (SRWW). As an exotic QTL, Fhb7 is associated with linkage drag, affecting agronomic and end-use quality performance. This study outlines a breeding strategy for introducing and pyramiding Fhb7 into SRWW breeding populations that already possessed Fhb1 and harbored some additional disease-resistance genes. In addition to the Fhb1-Fhb7 pyramiding, we developed gene-based markers for both genes and examined them on 57 SRWW breeding lines. Our data showed that 15 out of 57 breeding lines possessed both Fhb1 and Fhb7 resistant alleles. Two years of phenotypic data from the inoculated and misted irrigation field showed that the combination of Fhb1-Fhb7 lowers mycotoxin DON accumulation in kernels, which provides protection for end-users and the milling industry. The Fhb gene-pyramided lines, with the additional regionally important disease resistance genes, produced in this breeding pipeline showed reasonable agronomic traits and can be used in crossing programs for the widespread introgression in elite wheat cultivars.
+
+OA_Topic: Mycotoxins and Their Impact
+OG_Topic: Wheat Genomics and Drought Tolerance 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: OA
+
+comment_OA: precise
+
+comment_OG: wrong
+
+Justification:
+
+The OA topic "Mycotoxins and Their Impact" is precise because the paper discusses the impact of Fusarium head blight (FHB) on mycotoxin (deoxynivalenol, DON) production in wheat. The study focuses on breeding strategies to enhance resistance to FHB, which involves controlling mycotoxin levels and understanding their impact on food safety.
+
+The OG topic "Wheat Genomics and Drought Tolerance" is wrong because the paper does not focus on drought tolerance. Instead, it examines genetic strategies and marker development for enhancing resistance to Fusarium head blight in wheat, with a specific focus on mycotoxin production. Therefore, the OA topic more accurately reflects the content and objectives of the paper.

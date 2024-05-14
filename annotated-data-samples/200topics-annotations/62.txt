@@ -1,0 +1,20 @@
+Paper Title: Avaliao de mudas de maracujazeiro com diferentes tipos de substratos e concentraes salinas
+Paper Abstract: The yellow passion fruit (Passiflora edulis f. flavicarpa Degener) crops have been gaining notoriety in Brazil, whose cultivation extends to almost all regions. The aim of this study was to evaluate the growth of yellow passion fruit seedlings in response to the interaction between substrate composition and irrigation water salinity levels. The experimental trial was installed in a randomized block design, with a factorial scheme (3x6) consisting of two factors: three levels of salinity and six types of substrates, distributed in four replications, each plot consisting of a polyethylene bag composed of two plants. The factor levels of salinity, electrical conductivity: 0.3, 1.2 and 2.1 dSm-1 did not influence the physiological growth and development of the seedlings, the substrates resulted in statistically significant effects, the cattle manure presented the highest percentage in levels of physiological growth and development of the plant.
+
+OA_Topic: Plant Nutrition and Growth Optimization
+OG_Topic: Passion Fruit Salt Stress Mitigation 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: OG
+
+comment_OA: specific
+
+comment_OG: precise
+
+Justification:
+
+The OA topic "Plant Nutrition and Growth Optimization" is specific but not as focused on the core theme of the paper. While the paper does involve aspects of plant nutrition and growth, it specifically examines the effects of substrate composition and salinity levels on the growth of yellow passion fruit seedlings.
+
+The OG topic "Passion Fruit Salt Stress Mitigation" is precise because it directly addresses the primary focus of the paper, which is the interaction between different substrates and salinity levels to mitigate salt stress in yellow passion fruit seedlings. Therefore, the OG topic more accurately reflects the content and intent of the paper.

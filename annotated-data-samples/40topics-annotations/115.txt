@@ -1,0 +1,20 @@
+Paper Title: Desempenho agronômico do feijoeiro comum de terceira safra sob irrigação na região Noroeste do Paraná
+Paper Abstract: This research was done to evaluate the yield and yield components of bean third crop under irrigation depths in the northwestern region of Paraná State. The experiment was conducted in Arenito Campus of the State University of Maringa, Cidade Gaúcha city. The research was implanted with six irrigation depths (0, 104.1, 171.8, 192.4, 222.9 and 333 mm) and four replicates with a randomized block design and plot banded. The plants number per meter (NPM), pods per plant number (NVP), grains per pod number (NGV), hundred grains weight (MCG), crop height (AP) and height of first pod (AIPV) were evaluated. The yield (PROD), pods per plant number (NVP), grains per pod number (NGV) and hundred grains weight (MCG) responded signicantly to irrigation depths. The highest yield, 2224 kg ha-1 was obtained with application of greater depth, equal to 333 mm.
+
+OA_Topic: Effects of Soil Compaction on Crop Production
+OG_Topic: Common Bean Water Efficiency 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: OG
+
+comment_OA: wrong
+
+comment_OG: precise
+
+Justification:
+
+The OA topic "Effects of Soil Compaction on Crop Production" is wrong because the paper does not discuss soil compaction or its effects on crop production. Instead, it focuses on the evaluation of yield and yield components of the third crop of common beans under different irrigation depths.
+
+The OG topic "Common Bean Water Efficiency" is precise because it directly addresses the main focus of the paper, which is the impact of varying irrigation depths on the yield and yield components of common beans in the northwestern region of Paraná State. Therefore, the OG topic more accurately reflects the content of the paper.

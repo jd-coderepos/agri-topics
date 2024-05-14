@@ -1,0 +1,22 @@
+Paper Title: In vitro Evaluation and Sensitivity of Antibiotics and Fungicides against Xanthomonas axonopodis pv. punicae
+Paper Abstract: Cultivation of high yielding varieties of pomegranate with intensive care and management in the recent past under irrigated condition with early stage exploitation of plants has lead to certain severe pest and disease problems. Bacterial blight disease of pomegranate caused by Xanthomonas axonopodis pv. punicae is one of the most destructive disease of pomegranate (Punica granatum) inflicting considerable quantitative and qualitative losses. Mostly the disease occurred on leaves, stems and fruits. Extensive agricultural practices along with large amount of pesticide as well as antibiotic are required to control this disease. The antibiotic sensitivity against eight isolates was studied by paper disk inhibition method. Streptomycine sulphate (250ppm) + COC (2500ppm) was significantly superior than all the treatments showing maximum inhibition zone in all eight isolates of Xanthomonas axonopodis pv
+
+OA_Topic: Genetics and Cultivation of Bananas
+OG_Topic: Trichoderma in Biocontrol and Agriculture 
+
+Evaluation output: 
+match_with_OA: no
+which_is_better: neither
+comment_OA: wrong
+comment_OG: wrong
+Justification:
+
+OA Topic: Genetics and Cultivation of Bananas
+
+    Comment: The OA topic is wrong because it focuses on bananas, which is unrelated to the paper's focus on bacterial blight in pomegranate and the evaluation of antibiotics and fungicides against Xanthomonas axonopodis pv. punicae.
+
+OG Topic: Trichoderma in Biocontrol and Agriculture
+
+    Comment: The OG topic is wrong because it focuses on Trichoderma and its role in biocontrol and agriculture, whereas the paper deals with the sensitivity of antibiotics and fungicides against bacterial blight in pomegranate, not involving Trichoderma.
+
+Overall Justification: Neither of the assigned topics accurately reflects the paper's content, which is centered on the evaluation of antibiotics and fungicides against Xanthomonas axonopodis pv. punicae in pomegranate. Both topics are unrelated to the scope of the research.

@@ -1,0 +1,11 @@
+Paper Title: Control of Banks Grass Mite in Winter Wheat, 1996
+Paper Abstract: Four insecticides were applied to irrigated winter wheat in Fruita, CO. ; on 19 Apr with a CO2-powered sprayer calibrated to apply 17.4 gpa through six LF4 nozzles mounted on a10-ft boom. Plots were 10 ft X 25 ft, arranged in a RCB design with four replications. Plots were sampled on 19 Apr (PRE), 29 Apr (10 DAT), 6 May (17 DAT), and 24 May (35 DAT). On the first three sampling dates, a 4-inch2 section of wheat was cut at ground level and removed from the field in a paper bag. Each sample was weighed before being placed in a Berlese funnel for 24 h to extract mites. Mites were counted under a dissecting microscope, and the number divided by the sample weight to get a BGM/g value which was used for statistical analysis. On the final sampling date (35 DAT), 25 random tillers were picked from each plot, and placed in Berlese funnels for 24 h to extract mites. The number of BGM/tiller was used for statistical analysis. The plots were harvested on 23 Jul using a modified Gleaner L combine with on board scales. Test weight was measured from a sub sample of the grain harvested from each plot.
+
+OA_Topic: Insect-Plant Interactions in Agricultural Ecosystems
+OG_Topic: "Aphid Control in Wheat, Washington 
+
+Evaluation output: 
+match_with_OA: no
+which_is_better: 
+comment_OA: wrong
+comment_OG: wrong

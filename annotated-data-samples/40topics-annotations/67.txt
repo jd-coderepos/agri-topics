@@ -1,0 +1,22 @@
+Paper Title: Control of Sweetpotato Whitefly, Tomato Pinworm, and American Serpentine Leafminer on Staked Tomato, Fall 1991
+Paper Abstract: Twelve, 3 ft by 240 ft beds on 6 ft centers were planted with Sunny tomatoes spaced 20 inches apart on 22 Oct. Standard cultural practices were followed for staked, seep-irrigated tomatoes in southwest Florida. Dipel 2 X was applied as needed for control of armyworms. Experimental design was randomized complete block with 4 replications. Each block consisted of 3 rows with each replicate plot comprised of 3 rows 23 ft in length. There were 10 treatments plus an unsprayed control. Five weekly applications were made, beginning on 5 Dec. A single boom plot sprayer equipped with drops fitted with Albuz ATR lilac ceramic tips was operated at 400 psi. Each drop had 3 nozzles, for a total of 6 per row. Average delivery per nozzle was 0.194 gal/min; total delivery rate was 54 gal/acre. SPWF and LM immatures, LM stings, and completed mines were monitored weekly with a random sampling of 3 terminal leaflets from three 6th Leaves (from the top) per plot, 1 per row. Leaf area was determined with a leaf area meter to obtain values for SPWF per cm2. Adult SPWF were counted from one, 3-inch sq yellow card trap exposed for 24 hr (one card per row). Fruit was harvested twice, weighted and counted by USDA size categories, culled and checked for TPW damage.
+
+OA_Topic: Formation and Function of Plant Cuticles
+OG_Topic: Tomato Cultivation Practices 
+
+Evaluation output: 
+match_with_OA: no
+which_is_better: OG
+comment_OA: wrong
+comment_OG: precise
+Justification:
+
+OA Topic: Formation and Function of Plant Cuticles
+
+    Comment: The OA topic is wrong because it focuses on the structural and functional aspects of plant cuticles, which is unrelated to the study's focus on pest control in tomato cultivation.
+
+OG Topic: Tomato Cultivation Practices
+
+    Comment: The OG topic is precise and accurately captures the main focus of the paper, which is on the cultivation practices for staked tomatoes, specifically targeting pest control strategies for sweetpotato whitefly, tomato pinworm, and the American serpentine leafminer.
+
+Overall Justification: The OG topic is a precise match to the paper’s content, making it a better topic assignment than the OA topic, which does not align with the study's focus on pest control in tomato cultivation.

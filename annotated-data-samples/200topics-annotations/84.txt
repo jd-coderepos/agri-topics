@@ -1,0 +1,20 @@
+Paper Title: Irrigation water salinity and silicon negatively interfere with the physiology and delay the flowering of ornamental sunflowers
+Paper Abstract: Although silicon is considered a non-essential element for plants, its application can mitigate the harmful effects of salt stress. In this sense, the objective was to evaluate the physiological and flowering responses of ornamentalsunflower depending on the application of silicon and irrigation with saline water. The experiment was carried out in a greenhouse in a completely randomized design with six replications, in a 4 x 5 factorial scheme, referring to four electrical conductivities of irrigation water (ECw): 0.5; 1.5; 2.5 and 3.5 dS m-1 and silicon doses: 0, 50, 100, 150 and 200 mg L-1, with potassium silicate as the source. The following were evaluated: internal carbon concentration, transpiration, rate of liquid photosynthesis, instant efficiency of carboxylation, leaf indexes of chlorophyll a, b, chlorophyll a/b ratio, total chlorophyll, external and internal diameter of the chapter, number of petals, appearance of floral bud, beginning of flowering and full opening of the floral bud. Salinity negatively affects photosynthetic activity and flowering of ornamental sunflower plants, so that plants irrigated with saline water (3.5 dS m-1) delayed the appearance of the flower bud, the flowering index and the total opening of the floral button. The application of silicon in ornamental sunflower plants is not effective to mitigate the deleterious effects of salinity on the plantÕs physiology. In addition, the addition of silicon is also not able to repair the losses in terms of flowering caused by salt stress in the species.
+
+OA_Topic: Role of Silicon in Plant Biology and Ecology
+OG_Topic: Silicon in Plant Stress Alleviation 
+
+Evaluation output: 
+match_with_OA: yes
+
+which_is_better: OG
+
+comment_OA: complementary
+
+comment_OG: precise
+
+Justification:
+
+The OA topic "Role of Silicon in Plant Biology and Ecology" is complementary because the study involves evaluating the physiological and flowering responses of ornamental sunflowers to silicon application and saline irrigation, thereby touching on the role of silicon in plant biology under stress conditions.
+
+The OG topic "Silicon in Plant Stress Alleviation" is precise because it directly addresses the primary focus of the paper, which is the evaluation of silicon's effectiveness in mitigating the negative effects of salinity on the physiology and flowering of ornamental sunflowers. Both topics are relevant, but the OG topic more accurately captures the specific focus of the paper.

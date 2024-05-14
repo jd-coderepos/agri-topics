@@ -1,0 +1,20 @@
+Paper Title: Timothy cultivars in a New Zealand high country environment
+Paper Abstract: Herbage yields of 12 timothy cultivars and 4 control grasses were compared over 4 years under 50 250 and 500 (with irrigation) kg N/ha/year in the South Island high country near Lake Tekapo. Timolhy produced high yields (10.9-12.2 t/ha/year) of quality herbagc under high nitrogen and irrigation. Mean yields at 50 and 250 kg N/ha/year were 4.8 and 7.1 t/ha/year respectively under dryland conditions. Differences between the timothy cultivars were small but Grasslands Kahu was the top- or near the top-performing of the 12 cultivars tested at all times. Keywords: cultivars, high country, Phleum pratense
+
+OA_Topic: Agroforestry Systems and Biodiversity Enhancement
+OG_Topic: Forage Quality and Dairy Grazing 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: OG
+
+comment_OA: wrong
+
+comment_OG: precise
+
+Justification:
+
+The OA topic "Agroforestry Systems and Biodiversity Enhancement" is wrong because the paper does not focus on agroforestry systems or biodiversity enhancement. Instead, it evaluates the herbage yields of different timothy cultivars under various nitrogen levels and irrigation conditions.
+
+The OG topic "Forage Quality and Dairy Grazing" is precise because it directly addresses the paper's focus on the yield and quality of herbage from timothy cultivars, which are important aspects of forage quality relevant to dairy grazing systems. Therefore, the OG topic more accurately reflects the content of the paper.

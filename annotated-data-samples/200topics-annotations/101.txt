@@ -1,0 +1,20 @@
+Paper Title: Impact of the Irrigation Dose Amount on the Wheat Yield
+Paper Abstract: The paper presents analysis of the impact of irrigation dose on the winter wheat Bystra yield, which is recommended for cultivation in Poland. It is a low-growing high-yield wheat cultivar. A reel sprinkler equipped with a computer for control of parameters of its operation, which was supplied with pond water was used for irrigation. Test were carried out on five fields, where four irrigation doses were used: 15, 20, 25, 30 mm. A change of weather during research in May and June caused the need to irrigate a field four times. During research, the size of the irrigation dose was measured with rain gauges on each of the investigated fields in five measurement points. One of the fields was a control field, which was not irrigated. The investigated wheat was characterized during harvesting. Research proved that the size of the irrigation dose influences the wheat yield. The grain yield between a control field and a field with the highest irrigation dose increased by twofold. Moreover, analysis of costs incurred during sprinkling were analysed.
+
+OA_Topic: Effective Microorganisms in Agriculture
+OG_Topic: Wheat Irrigation and Yield Studies 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: OG
+
+comment_OA: wrong
+
+comment_OG: precise
+
+Justification:
+
+The OA topic "Effective Microorganisms in Agriculture" is wrong because the paper does not discuss microorganisms or their role in agriculture. Instead, it focuses on the impact of different irrigation doses on wheat yield.
+
+The OG topic "Wheat Irrigation and Yield Studies" is precise because it directly addresses the core focus of the paper, which is the analysis of how varying irrigation doses affect the yield of winter wheat. Therefore, the OG topic more accurately reflects the content and specific objectives of the paper.

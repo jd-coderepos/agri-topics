@@ -1,0 +1,20 @@
+Paper Title: Co-inoculation with Azospirillum brasilense in soybean cultivars subjected to water dficit
+Paper Abstract: This study aimed to verify the effect of co-inoculation, association between Azospirillum brasilense and Bradyrhizobium japonicum bacteria, on soybean plants subjected to water deficit at two sowing dates. Two field experiments were conducted at the Universidade Federal de Tocantins, campus of Palmas, Brazil, in 2016. The experimental design was randomized blocks in a split-split-plot arrangement with four repetitions, where the plots consisted of two irrigation depths (100 and 25% of crop evapotranspiration - ETc), the subplots was composed of two methods of inoculant application (inoculation with Bradyrhizobium japonicum and co-inoculation with Azospirillum brasilense + Bradyrhizobium japonicum) and the sub-subplots comprised two soybean cultivars (TMG 132 and ANTA 82). The cultivars responded differently to the sowing dates. Co-inoculation did not influence grain yield under full irrigation conditions (100% ETc), in neither cultivar evaluated. However, under the water deficit condition (25% ETc), the grain yield of the cultivar TMG 132 increased 77.20%, indicating that there are different responses of interaction between Azospirillum brasilense, plant genotype and sowing dates.
+
+OA_Topic: Symbiotic Nitrogen Fixation in Legumes
+OG_Topic: Rhizobium Inoculation and Legume Performance 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: OG
+
+comment_OA: complementary
+
+comment_OG: precise
+
+Justification:
+
+The OA topic "Symbiotic Nitrogen Fixation in Legumes" is complementary because the study involves symbiotic nitrogen fixation through the co-inoculation of soybean plants with Azospirillum brasilense and Bradyrhizobium japonicum. However, it is not fully focused on the broader aspects of symbiotic nitrogen fixation as a whole.
+
+The OG topic "Rhizobium Inoculation and Legume Performance" is precise because it directly addresses the primary focus of the paper, which is on the effects of co-inoculation with Azospirillum brasilense and Bradyrhizobium japonicum on soybean cultivars, particularly under water deficit conditions. Therefore, the OG topic more accurately reflects the specific content and objectives of the paper.

@@ -1,0 +1,20 @@
+Paper Title: Development of an Automation System for Nutrient Film Technique Hydroponic Environment
+Paper Abstract: Hydroponic is one of the plant cultivation systems known for its high-quality products.The growth of the plant depends on the composition of nutrient solution and the plant environment.Due to its nutrient absorption process, nutrient solution composition continuously varies in the Hydroponics nutrient solution irrigation system.An automation system is necessary to control and monitor the composition of nutrient solutions.This paper presents the development of an automation system for nutrient film technique (NFT) Hydroponic system.The proposed system control and monitor the pH level, Electrical conductivity (EC), Dissolved Oxygen (DO), water temperature, water flow rate, and water level of the nutrient solution in the Hydroponics nutrient solution irrigation system suited for a specific plant.The main system is composed of sensors, microcontrollers, actuators, and data loggers.It was verified by the testing of sensors and actuators functionality, and also a field experiment.The experiment result revealed that the developed system works properly to monitor and control the environment nutrient solution parameters of Hydroponic.The field experiment also shows that the vegetable plant sample grew well during cultivation and showed good quality crop yield with a harvest-time is of around 3.5 weeks.
+
+OA_Topic: Challenges and Opportunities in Aquaponic Systems
+OG_Topic: Sensor-Based Irrigation Systems 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: OG
+
+comment_OA: wrong
+
+comment_OG: precise
+
+Justification:
+
+The OA topic "Challenges and Opportunities in Aquaponic Systems" is wrong because the paper does not focus on aquaponic systems. Instead, it discusses the development of an automation system for a nutrient film technique (NFT) hydroponic system.
+
+The OG topic "Sensor-Based Irrigation Systems" is precise because it directly addresses the main focus of the paper, which involves the development and testing of an automation system with sensors for monitoring and controlling various parameters in a hydroponic nutrient solution irrigation system. Therefore, the OG topic more accurately reflects the content of the paper.

@@ -1,0 +1,20 @@
+Paper Title: Integrated Weed Management with Calotropis gigantea Leaf Extract in Cotton
+Paper Abstract: Field experiments were conducted during 2012 and 2013, at Agricultural College and Research Institute, Madurai (Tamil Nadu Agricultural University) to study the effect of pre-emergence application of Calotropis gigantea leaf extract spray on weed control in cotton. The weed management practices consisted of Calotropis gigantea leaf extract spray at three concentrations (10%, 20%, and 30%) chemical weed control (Pendimethlin @ 1.0 kg ha-1 ), power weeder weeding (PW at twice) and manual weeding (hand weeding twice) in combination. The results revealed that hand weeding twice at 20 and 40 DAS and pendimethalin at 1.0 kg ha -1 followed by one hand weeding at 40 DAS resulted in effective control of all the weeds and recorded higher seed cotton yield. Among the leaf extracts spray, pre-emergence application of Calotropis gigantea at 30 % concentration followed by hand weeding at 40 DAS recorded lower weed density and dry weight and increased the yield in irrigated cotton compared to lower concentration of Calotropis gigantea leaf extracts and un weeded control.
+
+OA_Topic: Allelopathy and Plant Interactions
+OG_Topic: Cotton Weed Management Techniques 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: OG
+
+comment_OA: complementary
+
+comment_OG: precise
+
+Justification:
+
+The OA topic "Allelopathy and Plant Interactions" is complementary because the study does involve examining the allelopathic effects of Calotropis gigantea leaf extract on weed control in cotton. However, this focus is secondary compared to the overall objective of weed management in cotton.
+
+The OG topic "Cotton Weed Management Techniques" is precise because it directly addresses the main focus of the paper, which is exploring various weed management techniques in cotton, including the use of Calotropis gigantea leaf extract. Hence, the OG topic is more appropriate and accurately reflects the content of the paper.

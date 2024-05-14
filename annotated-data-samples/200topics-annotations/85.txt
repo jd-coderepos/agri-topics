@@ -1,0 +1,20 @@
+Paper Title: Irrigation Intervals Capacity and Acorbic Acid Treatments on Optimize Growth, and Chemical Constituents of Tecoma Capensis L. Plants
+Paper Abstract: The present study was carried out at the Ornamental Horticulture Department, Faculty of Agriculture, Cairo University, Giza, during the two successive seasons of 2014 and 2015 in order to enhancement the growth of Tecoma plants grown under different concentrations of foliar application of ascorbic acid (200 and 400 ppm) and irrigation intervals (3, 5 and 7 days).The results showed that irrigation intervals at 3 days gave the highest values of all growth parameters except root length, fresh and dry weight of roots which increased when plants were treated with irrigation intervals at 7 days.The same treatment increased the chemical constituents except N% in roots, P% in branches and roots, K% in branches and roots, carbohydrates % in roots.Application of ascorbic acid at 400 ppm gave the highest values of the most growth parameters and chemical constituents, followed by ascorbic acid at 200 ppm.The application of ascorbic acid at 400 ppm under irrigation intervals at 3 days gave the highest values of growth parameters and chemical constituents in both seasons.
+
+OA_Topic: Mechanism of Plant Growth Regulation
+OG_Topic: Essential Oils in Medicinal Plants 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: neither
+
+comment_OA: wrong
+
+comment_OG: wrong
+
+Justification:
+
+The OA topic "Mechanism of Plant Growth Regulation" is wrong because the paper specifically focuses on the effects of irrigation intervals and ascorbic acid treatments on the growth and chemical constituents of Tecoma capensis L. plants, rather than on the broader mechanisms of plant growth regulation.
+
+The OG topic "Essential Oils in Medicinal Plants" is wrong because the paper does not deal with essential oils or medicinal plants. It focuses specifically on the horticultural aspects of Tecoma capensis L. plants, examining the effects of irrigation and ascorbic acid treatments. Therefore, neither topic accurately reflects the content of the paper.

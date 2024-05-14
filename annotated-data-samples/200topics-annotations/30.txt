@@ -1,0 +1,20 @@
+Paper Title: 355 Effects of wintering system on cow and calf performance in a summer-calving intensive production system
+Paper Abstract: The objective was to test the effect of wintering system on cow-calf performance in a summer-calving intensively managed system. Multiparous (5.1 ± 1.4 yr old), crossbred (Red Angus ? Red Poll ? Tarentaise ? South Devon ? Devon), lactating beef cows (n = 65) with summer born calves (mean calving date = July 14) were used in a randomized complete block design. Pairs in eastern (ARDC; n = 36) or western (PHREC; n = 29) Nebraska were blocked by cow BW (4 blocks at ARDC, 2 blocks at PHREC), stratified by calf age, and assigned randomly within strata to 1 of 2 wintering treatments with either 4 (ARDC) or 2 (PHREC) replications (pens or paddocks) per treatment (4Ð 8 pairs per replicate). Treatments included: 1) drylot feeding (DL) or 2) corn residue grazing (CS). Drylot pairs were limit-fed (12.5 ± 0.23 kg (ARDC) or 12.4 ± 0.1 kg DM/pair/d (PHREC)) a common diet (60:40 distillers grains:crop residue, DM basis). Regardless of location, CS pairs grazed irrigated corn residue and were supplemented (2.4 kg DM/pair/d) with a dried distillers grains pellet. After cornstalk grazing, all calves were weaned (calf age = 267Ð 285 d). Cornstalks pairs at ARDC grazed from early-November to mid-April (158 d), while pairs at PHREC grazed for 62 d during 2 separate periods due to snowfall. At both locations, DL cows had greater (P ² 0.03) BW change. Ending BCS was not different (P = 0.63) between CS (5.2) and DL (5.4) cows at PHREC. At ARDC, DL cows had greater (P 0.01) ending BCS (6.0) compared to cows that grazed cornstalks (4.6). Cow BCS change was not different (P = 0.34) between treatments at PHREC, but greater (P 0.01) for DL cows at ARDC. Wintering system had no effect (P = 0.57) on calf ending BW at PHREC, but calves wintered in the drylot with their dams at ARDC were heavier (P = 0.02) than CS calves (305 vs. 253 kg, respectively). Likewise, calf ADG and BW per d of age were not affected (P ³ 0.50) at PHREC, but were greater for DL (P ² 0.04) calves at ARDC. Diverging responses observed across locations are likely due to grazing d and residue diet quality. Grazing residue may be a viable option for summer-born pairs, but performance may be similar to or less than DL pairs.
+
+OA_Topic: Effects of Heat Stress on Livestock Production
+OG_Topic: Forage Quality and Dairy Grazing 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: OG
+
+comment_OA: wrong
+
+comment_OG: wrong
+
+Justification:
+
+The OA topic "Effects of Heat Stress on Livestock Production" is wrong because the paper does not discuss the effects of heat stress on livestock production. Instead, it focuses on the performance of cow-calf pairs under different wintering systems.
+
+The OG topic "Forage Quality and Dairy Grazing" is also wrong because the paper does not focus on forage quality or dairy grazing. It deals with the wintering systems for cow-calf pairs, specifically comparing drylot feeding and corn residue grazing. Therefore, neither topic accurately reflects the content of the paper.

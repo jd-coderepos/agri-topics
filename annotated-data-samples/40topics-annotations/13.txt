@@ -1,0 +1,11 @@
+Paper Title: FINISHING LAMBS ON BORDER DYKE IRRIGATION
+Paper Abstract: Finishing iambs to produce a bigger dollar sign is a challenge to all sheep farmers. Around the beginning of 1980 life had become a little dull and we thought a change was necessary. So, after some haggling a 620 ha property was bought. It tended to be a little bedraggled as we could only keep three mobs of sheep apart but after putting on sixty-five gates, digging in thirty-one strainers and mending fifty-four broken wires, we ended up with forty-three paddocks ranging in size from one to twenty-five hectares. The property lies on the coast some 8 kms north of where the Waitaki river flows into the Pacific Ocean. The soil is of the poorer Steward type, with a pH of 5.5 and phosphate reading of 5-8, and is situated at the lower end of the Morven-Glenavy irrigation scheme. The property had 230 hectares border dyked, with pasture quality ranging trom a good ryegrasslwhite clover to a very hungry looking browntoplhair grass/sub clover stony mess. The dryland had a lot of sub clover throughout, but did not produce unless it rained for three days or the irrigation water got loose. The first lambing in 1980, with 6300 sheep to the ram resulted in about 500 dry ewes and a 93% lambing. We did our best to fatten these lambs but because there wasn't enough good pasture and we were hoping to make some hay, a lot of these lambs were killed around 11.5 to 12.5 kg returning some $14 to $16 per head.
+
+OA_Topic: Management of Perennial Pasture Systems in Australia
+OG_Topic: Dairy Pasture and Forage Studies 
+
+Evaluation output: 
+match_with_OA: no
+which_is_better: ctfidf
+comment_OA: specific
+comment_OG: precise

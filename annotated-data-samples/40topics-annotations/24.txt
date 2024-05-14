@@ -1,0 +1,21 @@
+Paper Title: Statistical Evaluation of Regional Level Agricultural and Socio-Economic Development in Haryana
+Paper Abstract: The present study examines inter-district development inequalities in Haryana and identifies key agricultural and socio-economic dimensions.More than fifty indicators for development use Composite index and main component analysis were used to access the development status (PCA).In addition, main component analysis (PCA) has been used to identify key agricultural and socio-economic development indicators.The study showed a considerable degree of inequality among all the districts, with Nuh being behind in both development sectors, but Gurugram and Faridabad were socioeconomically developed despite being behind in agriculture.Population densities in cities, industrial infrastructure and educational facilities have been identified as major factors in socioeconomic development.Karnal, Kurukshtera and Yamunanagar were agriculturally developed and percentage of cereals and food grain areas, yield, irrigation facilities and livestock were observed as major factors contributing to the development of the farming sector.
+
+OA_Topic: Agricultural Development and Policy in South Asia
+OG_Topic: Agricultural Development and Policies 
+
+Evaluation output: 
+match_with_OA: yes
+which_is_better: both
+comment_OA: complementary
+comment_OG: complementary
+
+### Justification:
+
+**OA Topic: Agricultural Development and Policy in South Asia**
+- **Comment:** The OA topic is highly relevant as it addresses agricultural development and policy, specifically in the context of a South Asian region (Haryana, India). The study's focus on inter-district inequalities in agricultural and socio-economic development within Haryana aligns well with this topic.
+
+**OG Topic: Agricultural Development and Policies**
+- **Comment:** Similarly, the OG topic is also relevant and appropriate for the paper. It broadly covers the themes of agricultural development and policies, which encompasses the paper's analysis of agricultural and socio-economic statistics to identify development disparities across districts in Haryana.
+
+**Overall Justification:** Both topics are suitable and complementary, accurately reflecting the paper's content and focus on regional agricultural and socio-economic development within a South Asian context.

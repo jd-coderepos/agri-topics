@@ -1,0 +1,20 @@
+Paper Title: Root and Sucrose Yields of Sugarbeets as Affected by Mid- to Late-Season Water Stress
+Paper Abstract: Investigations of the irrigation water requirement of sugarbeets(Beta vulgaris L.) in Arizona and California have shownthat water stress several weeks before harvest of fall-planted beetsreduces root yields but increases sucrose concentration (2,3).Their studies showed that, since soil and plant water stress latein the season did not significantly reduce sucrose production,irrigations could be discontinued 3 to 4 weeks before harvest formaximum water economy. Mid- to late-season water deficit studieson spring-planted sugarbeets at this Center in 1977 and 1978clearly showed that sucrose yield was reduced very little in thisarea, if at all, if irrigations were discontinued after the soilprofile was filled with water about 1 August or 10 to 12 weeksbefore harvest, on soil having a useable soil water reservoir ofat least 200 mm (1) . However, if no rainfall occurs, a lightirrigation about 1 month after water cutoff may be advantageous.The major difference between these two areas (Arizona-Californiaand Idaho) is that in Arizona and California, potential evapotranspirationrates are higher and increasing when fall-plantedbeets are harvested; whereas in Idaho, potential rates are lowerand decreasing when spring-planted beets are harvested. Allowingmid- to late-season water stress to develop in the Idaho areareduces irrigation water requirements by about 30% during August,September, and October when irrigation water and hydro-electricpower for pumping are in shortest supply. Other recent investigationsalso show the drought tolerance of sugarbeets throughoutthe growing season ( 8, 11).
+
+OA_Topic: Genetic and Agricultural Studies of Sugarcane
+OG_Topic: "Sugar Beet Cultivation & Efficiency 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: OG
+
+comment_OA: wrong
+
+comment_OG: precise
+
+Justification:
+
+The OA topic "Genetic and Agricultural Studies of Sugarcane" is wrong because the paper focuses on the effects of mid- to late-season water stress on sugarbeet yields, rather than on sugarcane or its genetic and agricultural studies.
+
+The OG topic "Sugar Beet Cultivation & Efficiency" is precise because it directly addresses the primary focus of the paper, which is the impact of irrigation practices and water stress on the yield and sucrose concentration of sugarbeets. Therefore, the OG topic more accurately reflects the content and objectives of the paper.

@@ -1,0 +1,22 @@
+Paper Title: Selection of Aquatic Plants Having High Uptake Ability of Pollutants in Raw Sewage Treatment
+Paper Abstract: Excess runoff contaminated with N and P can impact the quality of downstream water. It has been known that aquatic plants improve the water quality through their intake of organic or inorganic nutrients. This study was conducted to select aquatic plants having high purification ability for nutrient N and P, and mineral nutrients related to EC such as K, Ca, Na, Cl, and $SO_4$ in raw sewage water in greenhouse. We assessed nutrient phytoremediation potential of alien hydrophyte and hydro-crop as well as native landscape hydrophyte to select suitable aquatic plant applied to artificial wetland and buffering site of stream-side. The amount of irrigation water during whole growing period of aquatic plane ranged from 225 L $m^{-2}$ to 444 L $m^{-2}$. indutum which had high biomass consumed the large amount of irrigation water over 350 L $m^{-2}$. As a result of analysis of water purification effect N and P content of shoot biomass, and media soil after experiment, Oryza sativa, Zizania latifolia, Aster subulatus, Coix lachryma-jobi var. indutum showed high purification ability about eutrophication elements such as T-N and T-P. It is presented that Pistia stratiotes, Eichhornia crassipes, and Paspalum distichum var. indutum had excellent purification ability about K, Ca, Na, and Cl. indutum greatly removed $SO_4$ in row sewage water.
+
+OA_Topic: Biodiversity of Vascular Plants in Korea
+OG_Topic: "Wastewater Treatment and Reuse 
+
+Evaluation output: 
+match_with_OA: no
+which_is_better: OG
+comment_OA: wrong
+comment_OG: precise
+Justification:
+
+OA Topic: Biodiversity of Vascular Plants in Korea
+
+    Comment: The OA topic is wrong because it focuses on the biodiversity of vascular plants in Korea, which is not directly relevant to the paper’s focus on the use of aquatic plants for pollutant uptake in raw sewage treatment.
+
+OG Topic: Wastewater Treatment and Reuse
+
+    Comment: The OG topic is precise as it directly aligns with the study’s focus on selecting aquatic plants with high pollutant uptake ability for use in raw sewage treatment and nutrient phytoremediation. This topic accurately captures the essence of the paper.
+
+Overall Justification: The OG topic is a precise match for the content of the paper, which centers on wastewater treatment through the use of specific aquatic plants, making it a better fit compared to the unrelated OA topic on vascular plant biodiversity.

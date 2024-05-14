@@ -1,0 +1,21 @@
+Paper Title: Nitrogen balance in paddy fields under flowing-irrigation condition
+Paper Abstract: Flowing irrigation which drains a large volume of water is one of agricultural techniques for ensuring rice quality. In this study, the nitrogen input and output were characterised in paddy fields under flowing irrigation based on observation in Central Japan, and the estimated nitrogen loadings were compared to the reported values in traditional paddy fields under stagnant irrigation by using budget analysis. The annual water fluxes in the studied fields were calculated to be more than ten times larger than those in traditional fields. The concentrations of most nitrogen forms in surface drainage and subsurface drainage were detected at highest level during paddling periods, while those of nitrate and nitrite in subsurface drainage increased during non-irrigation periods. The total nitrogen inputs were at upper level (236332 kg N ha ?1 ) of or larger (490581 kg N ha ?1 ) than the reported values under both flowing irrigation and stagnant irrigation, and the larger contribution of irrigation pathway was observed. Surface drainage (78.3163.5 kg N ha ?1 ) and transport to underground system (73.1210.4 kg N ha ?1 ) were significantly higher than reported values obtained from stagnant-irrigation paddy fields. The differences between input and output were thereby estimated and the large negative balance was attributed to the soil accumulation, which was distinctly detected in the field with presumably higher adsorption capacity. Therefore, assessing the effect of water flow on soil nitrogen accumulation as well as discharge is recommended by evaluating nitrogen balance in paddy field.
+
+OA_Topic: Rice Water Management and Productivity Enhancement
+OG_Topic: "Nitrogen Management in Irrigation 
+
+Evaluation output: 
+match_with_OA: no
+which_is_better: OG
+comment_OA: complementary
+comment_OG: precise
+
+### Justification:
+
+**OA Topic: Rice Water Management and Productivity Enhancement**
+- **Comment:** The OA topic is broadly related and complementary, as it encompasses aspects of water management in rice cultivation, which directly affects productivity. However, it does not specifically focus on the nitrogen balance and management issues addressed in the study.
+
+**OG Topic: Nitrogen Management in Irrigation**
+- **Comment:** The OG topic is precise and accurately reflects the specific focus of the paper. The study investigates the nitrogen input and output in paddy fields under flowing irrigation conditions, making it highly relevant to nitrogen management in irrigation.
+
+**Overall Justification:** While the OA topic is broadly connected to the study and thus complementary, the OG topic is more precise and better captures the specific focus of the research on nitrogen management in paddy fields under flowing irrigation conditions in Central Japan.

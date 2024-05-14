@@ -1,0 +1,20 @@
+Paper Title: Cacao Phylloplane: The First Battlefield against <i>Moniliophthora perniciosa</i>, Which Causes WitchesÕ Broom Disease
+Paper Abstract: The phylloplane is the first contact surface between Theobroma cacao and the fungus Moniliophthora perniciosa, which causes witches' broom disease (WBD). We evaluated the index of short glandular trichomes (SGT) in the cacao phylloplane and the effect of irrigation on the disease index of cacao genotypes with or without resistance to WBD, and identified proteins present in the phylloplane. The resistant genotype CCN51 and susceptible Catongo presented a mean index of 1,600 and 700 SGT cm-2, respectively. The disease index in plants under drip irrigation was reduced by approximately 30% compared with plants under sprinkler irrigation prior to inoculation. Leaf water wash (LWW) of the cacao inhibited the germination of spores by up to 98%. Proteins from the LWW of CCN51 were analyzed by two-dimensional sodium dodecyl sulfate polyacrylamide gel electrophoresis followed by tandem mass spectrometry. The gel showed 71 spots and identified a total of 42 proteins (28 from the plant and 14 from bacteria). Proteins related to defense and synthesis of defense metabolites and involved in nucleic acid metabolism were identified. The results support the hypothesis that the proteins and water-soluble compounds secreted to the cacao phylloplane participate in the defense against pathogens. They also suggest that SGT can contribute to the resistance of cacao.
+
+OA_Topic: Cacao Agroforestry Management and Conservation
+OG_Topic: Plant Disease Control & Management 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: OG
+
+comment_OA: wrong
+
+comment_OG: precise
+
+Justification:
+
+The OA topic "Cacao Agroforestry Management and Conservation" is wrong because the paper does not primarily focus on agroforestry management and conservation. It instead focuses on the interaction between cacao plants and the fungus causing witches' broom disease, particularly via the phylloplane.
+
+The OG topic "Plant Disease Control & Management" is precise because it directly addresses the core theme of the paper, which is understanding and managing the fungal disease (Moniliophthora perniciosa) affecting cacao through the phylloplane and related plant defense mechanisms. Therefore, the OG topic more accurately reflects the content of the paper.

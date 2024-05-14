@@ -1,0 +1,22 @@
+Paper Title: Mechanistic basis for mitigating drought tolerance by selenium application in tobacco (Nicotiana tabacum L.): a multi-omics approach
+Paper Abstract: The lack of irrigation water in agricultural soils poses a significant constraint on global crop production. In-depth investigation into microRNAs (miRNAs) has been widely used to achieve a comprehensive understanding of plant defense mechanisms. However, there is limited knowledge on the association of miRNAs with drought tolerance in cigar tobacco. In this study, a hydroponic experiment was carried out to identify changes in plant physiological characteristics, miRNA expression and metabolite profile under drought stress, and examine the mitigating effects of selenium (Se) application. The shoot dry weight of drought-stressed plants was approximately half (50.3%) of that in non-stressed (control) conditions. However, plants supplied with Se attained 38.8% greater shoot dry weight as compared to plants with no Se supply under drought stress. Thirteen miRNAs were identified to be associated with drought tolerance. These included 7 known (such as nta-miR156b and nta-miR166a) and 6 novel miRNAs (such as novel-nta-miR156-5p and novel-nta-miR209-5p) with the target genes of squamosa promoter-binding-like protein 4 (SPL4), serine/threonine protein phosphatase 2A (PPP2A), cation/calcium exchanger 4-like (CCX4), extensin-1-like (EXT1) and reduced wall acetylation 2 (RWA2). Further investigation revealed that the expression levels of Ext1 and RWA2 were significantly decreased under drought stress but increased with Se addition. Moreover, key metabolites such as catechin and N-acetylneuraminic acid were identified, which may play a role in the regulation of drought tolerance. The integrated analysis of miRNA sequencing and metabolome highlighted the significance of the novel-nta-miR97-5p- LRR-RLK- catechin pathway in regulating drought tolerance. Our findings provide valuable insights into the molecular mechanisms underlying drought tolerance and Se-induced stress alleviation in cigar tobacco.
+
+OA_Topic: Molecular Responses to Abiotic Stress in Plants
+OG_Topic: "Plant Stress Response Genomics 
+
+Evaluation output: 
+match_with_OA: yes
+which_is_better: both
+comment_OA: complementary
+comment_OG: complementary
+Justification:
+
+OA Topic: Molecular Responses to Abiotic Stress in Plants
+
+    Comment: The OA topic is complementary as it accurately covers the molecular responses of plants to abiotic stresses like drought, which is the focus of the paper. The study delves into the miRNA expression and metabolite profile changes in response to drought stress and selenium application.
+
+OG Topic: Plant Stress Response Genomics
+
+    Comment: The OG topic is complementary as it is precise and covers the genomic aspects of plant stress responses, which aligns well with the study's focus on miRNA sequencing and metabolomics as a multi-omics approach to understand drought tolerance and selenium-mediated stress alleviation.
+
+Overall Justification: Both topics are applicable and complementary as they address the key aspects of the study—molecular responses and genomic analyses related to plant stress responses, particularly drought tolerance in tobacco.

@@ -1,0 +1,20 @@
+Paper Title: Effects of Coir-Based Growing Medium with Municipal Solid Waste Compost or Biochar on Plant Growth, Mineral Nutrition, and Accumulation of Phytochemicals in Spinach
+Paper Abstract: The use of municipal solid waste compost (MSW) and biochar, two renewable resources with a low carbon footprint as components of substrates, may be an alternative to reducing peat and coir usage. The aim of this study was to assess the suitability of selectively collected MSW and biochar as components of the coir-based substrate to spinach grown. An experiment was carried out to evaluate five substrates, coir and four coir-based blends (coir + biochar + perlite, coir + municipal waste compost + perlite, coir + biochar + pine bark, and coir + biochar + pine bark) with 12% (v/v) MSW or biochar and 10% (v/v) perlite or pine bark. Spinach seedlings were transplanted into Styrofoam planting boxes filled with the substrate. Each planting box was irrigated daily by drip with a complete nutrient solution. Plants grown with MSW had a higher content of calcium. Shoot Mn increased in the biochar-containing mixes. The shoot dry weight of the plants grown in the different blends was higher than those grown in coir. Fresh yield was higher in mixes with MSW and perlite (3 kg/m2) or pine bark (2.87 kg/m2). Total phenols and DPPH antioxidant activity were not affected by the substrates. However, shoot ascorbate (AsA) content was higher or equal to those plants grown in coir. MSW and biochar are alternatives to reduce the use of coir and peat.
+
+OA_Topic: Composting of Organic Wastes and Maturity Assessment
+OG_Topic: Sustainable Composting in Agriculture 
+
+Evaluation output: 
+match_with_OA: no
+
+which_is_better: OG
+
+comment_OA: wrong
+
+comment_OG: precise
+
+Justification:
+
+The OA topic "Composting of Organic Wastes and Maturity Assessment" is wrong because the paper does not focus specifically on the maturity assessment of composted organic wastes. Instead, it evaluates the effects of using municipal solid waste compost and biochar as components of a coir-based growing medium on the growth and nutrient content of spinach.
+
+The OG topic "Sustainable Composting in Agriculture" is precise because it directly addresses the main focus of the paper, which is the use of sustainable composting practices, specifically municipal solid waste compost and biochar, to enhance plant growth and nutrient content in spinach cultivation. Therefore, the OG topic more accurately reflects the content and objectives of the paper.

@@ -1,0 +1,21 @@
+Paper Title: Greenhouse Whitefly Control on Marigolds, Michigan, 1991
+Paper Abstract: Marigold plants were raised from seed in 6" clay pots for ten wk (10-12" tall) in a research greenhouse infested with whitefly at Michigan State University. The plants were watered by a drip irrigation system for 2 min/d, 4 d/wk (Sun, Mon, Wed, and Fri). Each treatment was replicated 6 times, except the control which was replicated 5 times. Precounts of 6 leaves per plant were completed on 3 May. The leaves were sampled randomly from each plant (3 leaves from the top half and 3 leaves from the bottom half of the plant). Whitefly larvae and pupae on the undersides of leaves were counted within a 38 mm2 area on each of 24 leaflets per plant. Therefore, an area of 30 cm2 per plant was observed. Insecticides were applied with an R D CO2 sprayer with a single 8003 nozzle at 50 psi until runoff. Applications were applied 3 May, 10 May, and 17 May. Postcounts were made in the same manner as precounts on 24 May except whitefly pupae parasitized by Encarsia formosa were also counted. The no. of whiteflies reported for all sample dates is the total no. of whitefly larvae and pupae counted on leaf samples.
+
+OA_Topic: Impact of Pollinator Decline on Ecosystems and Agriculture
+OG_Topic: Whitefly Research in Agriculture 
+
+Evaluation output: 
+match_with_OA: no
+which_is_better: OG
+comment_OA: wrong
+comment_OG: precise
+
+### Justification:
+
+**OA Topic: Impact of Pollinator Decline on Ecosystems and Agriculture**
+- **Comment:** The OA topic is incorrect because the paper focuses on the control of greenhouse whitefly on marigolds, not on the decline of pollinators or its impact on ecosystems and agriculture. The topic does not align with the key aspects of whitefly control or pest management discussed in the study.
+
+**OG Topic: Whitefly Research in Agriculture**
+- **Comment:** The OG topic is precise and accurately reflects the focus of the paper. The research involves detailed whitefly control measures in a greenhouse setting, specifically targeting marigolds, which fits well within the scope of whitefly research in agriculture.
+
+**Overall Justification:** The OG topic aligns closely with the specific focus and content of the paper, making it the better choice. The OA topic does not accurately represent the subject matter of the study.
